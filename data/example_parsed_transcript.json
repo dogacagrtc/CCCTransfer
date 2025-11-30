@@ -1,0 +1,824 @@
+{
+  "student": {
+    "name": "Agirtici, Dogac",
+    "birthdate": "01-MAR-2001",
+    "student_number": "1926601",
+    "institution": "Santa Monica College",
+    "generated_date": "03-NOV-2025"
+  },
+  "courses": [
+    {
+      "term": "Fall 2023",
+      "status": "completed",
+      "prefix": "AHIS",
+      "number": "1",
+      "code": "AHIS 1",
+      "title": "WEST.ART HIST.1",
+      "grade": "A",
+      "units_enrolled": 3.0,
+      "units_attempted": 3.0,
+      "units_completed": 3.0,
+      "grade_points": 12.0,
+      "ge_codes": [
+        "3A",
+        "C1",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [
+          "3A"
+        ],
+        "CSU_GE": [
+          "C1"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "AHIS 1 WEST.ART HIST.1 A 3.0 3.0 3.0 12.0 3A 3A C1 AA"
+    },
+    {
+      "term": "Fall 2023",
+      "status": "completed",
+      "prefix": "CS",
+      "number": "3",
+      "code": "CS 3",
+      "title": "INTRO TO COMPTR",
+      "grade": "A",
+      "units_enrolled": 3.0,
+      "units_attempted": 3.0,
+      "units_completed": 3.0,
+      "grade_points": 12.0,
+      "ge_codes": [
+        "UC",
+        "CSU",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [],
+        "CSU_GE": [],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": true,
+          "CSU": true
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "CS 3 INTRO TO COMPTR A 3.0 3.0 3.0 12.0 UC UC CSU AA"
+    },
+    {
+      "term": "Fall 2023",
+      "status": "completed",
+      "prefix": "MATH",
+      "number": "2",
+      "code": "MATH 2",
+      "title": "PRECALCULUS",
+      "grade": "B",
+      "units_enrolled": 5.0,
+      "units_attempted": 5.0,
+      "units_completed": 5.0,
+      "grade_points": 15.0,
+      "ge_codes": [
+        "2A",
+        "B4",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [
+          "2A"
+        ],
+        "CSU_GE": [
+          "B4"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "MATH 2 PRECALCULUS B 5.0 5.0 5.0 15.0 2A 2A B4 AA"
+    },
+    {
+      "term": "Fall 2023",
+      "status": "completed",
+      "prefix": "POL SC",
+      "number": "1",
+      "code": "POL SC 1",
+      "title": "AMER & CA POL",
+      "grade": "A",
+      "units_enrolled": 3.0,
+      "units_attempted": 3.0,
+      "units_completed": 3.0,
+      "grade_points": 12.0,
+      "ge_codes": [
+        "4N",
+        "7B",
+        "4",
+        "9B",
+        "D",
+        "G2",
+        "G3",
+        "AA",
+        "7C",
+        "9C"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [
+          "4N",
+          "7B",
+          "4",
+          "9B",
+          "7C",
+          "9C"
+        ],
+        "CSU_GE": [
+          "D",
+          "G2",
+          "G3"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "POL SC 1 AMER & CA POL A 3.0 3.0 3.0 12.0 4N, 7B, 4, 9B, D, G2, G3 AA 7C 9C"
+    },
+    {
+      "term": "Spring 2024",
+      "status": "completed",
+      "prefix": "CS",
+      "number": "50",
+      "code": "CS 50",
+      "title": "C PROGRAMMING",
+      "grade": "A",
+      "units_enrolled": 3.0,
+      "units_attempted": 3.0,
+      "units_completed": 3.0,
+      "grade_points": 12.0,
+      "ge_codes": [
+        "UC",
+        "CSU",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [],
+        "CSU_GE": [],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": true,
+          "CSU": true
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "CS 50 C PROGRAMMING A 3.0 3.0 3.0 12.0 UC UC CSU AA"
+    },
+    {
+      "term": "Spring 2024",
+      "status": "completed",
+      "prefix": "KIN PE",
+      "number": "17",
+      "code": "KIN PE 17",
+      "title": "BOXING/FITNESS",
+      "grade": "A",
+      "units_enrolled": 1.0,
+      "units_attempted": 1.0,
+      "units_completed": 1.0,
+      "grade_points": 4.0,
+      "ge_codes": [
+        "UC",
+        "E2",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [],
+        "CSU_GE": [
+          "E2"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": true,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "KIN PE 17 BOXING/FITNESS A 1.0 1.0 1.0 4.0 UC UC E2 AA"
+    },
+    {
+      "term": "Spring 2024",
+      "status": "completed",
+      "prefix": "MATH",
+      "number": "7",
+      "code": "MATH 7",
+      "title": "CALCULUS 1",
+      "grade": "C",
+      "units_enrolled": 5.0,
+      "units_attempted": 5.0,
+      "units_completed": 5.0,
+      "grade_points": 10.0,
+      "ge_codes": [
+        "2A",
+        "B4",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [
+          "2A"
+        ],
+        "CSU_GE": [
+          "B4"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "MATH 7 CALCULUS 1 C 5.0 5.0 5.0 10.0 2A 2A B4 AA"
+    },
+    {
+      "term": "Spring 2024",
+      "status": "completed",
+      "prefix": "MEDIA",
+      "number": "10",
+      "code": "MEDIA 10",
+      "title": "GENDER & RACE scol",
+      "grade": "A",
+      "units_enrolled": 3.0,
+      "units_attempted": 3.0,
+      "units_completed": 3.0,
+      "grade_points": 12.0,
+      "ge_codes": [
+        "4K",
+        "4",
+        "D",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [
+          "4K",
+          "4"
+        ],
+        "CSU_GE": [
+          "D"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "MEDIA 10 GENDER & RACE scol A 3.0 3.0 3.0 12.0 4K 4 D AA"
+    },
+    {
+      "term": "Fall 2024",
+      "status": "completed",
+      "prefix": "CS",
+      "number": "17",
+      "code": "CS 17",
+      "title": "ASSEMBLY LANG",
+      "grade": "A",
+      "units_enrolled": 3.0,
+      "units_attempted": 3.0,
+      "units_completed": 3.0,
+      "grade_points": 12.0,
+      "ge_codes": [
+        "UC",
+        "CSU",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [],
+        "CSU_GE": [],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": true,
+          "CSU": true
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "CS 17 ASSEMBLY LANG A 3.0 3.0 3.0 12.0 UC UC CSU AA"
+    },
+    {
+      "term": "Fall 2024",
+      "status": "completed",
+      "prefix": "MATH",
+      "number": "8",
+      "code": "MATH 8",
+      "title": "CALCULUS 2",
+      "grade": "C",
+      "units_enrolled": 5.0,
+      "units_attempted": 5.0,
+      "units_completed": 5.0,
+      "grade_points": 10.0,
+      "ge_codes": [
+        "2A",
+        "B4",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [
+          "2A"
+        ],
+        "CSU_GE": [
+          "B4"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "MATH 8 CALCULUS 2 C 5.0 5.0 5.0 10.0 2A 2A B4 AA"
+    },
+    {
+      "term": "Fall 2024",
+      "status": "completed",
+      "prefix": "PHYSCS",
+      "number": "21",
+      "code": "PHYSCS 21",
+      "title": "MECHANICS W/LAB",
+      "grade": "A",
+      "units_enrolled": 5.0,
+      "units_attempted": 5.0,
+      "units_completed": 5.0,
+      "grade_points": 20.0,
+      "ge_codes": [
+        "5A",
+        "B1",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [
+          "5A"
+        ],
+        "CSU_GE": [
+          "B1"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "PHYSCS 21 MECHANICS W/LAB A 5.0 5.0 5.0 lab 20.0 5A 5A B1 AA"
+    },
+    {
+      "term": "Spring 2025",
+      "status": "completed",
+      "prefix": "CS",
+      "number": "42",
+      "code": "CS 42",
+      "title": "DIGITAL LOGIC",
+      "grade": "B",
+      "units_enrolled": 3.0,
+      "units_attempted": 3.0,
+      "units_completed": 3.0,
+      "grade_points": 9.0,
+      "ge_codes": [
+        "UC",
+        "CSU",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [],
+        "CSU_GE": [],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": true,
+          "CSU": true
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "CS 42 DIGITAL LOGIC B 3.0 3.0 3.0 9.0 UC UC CSU AA"
+    },
+    {
+      "term": "Spring 2025",
+      "status": "completed",
+      "prefix": "ENGL",
+      "number": "1",
+      "code": "ENGL 1",
+      "title": "READ AND COMP 1",
+      "grade": "A",
+      "units_enrolled": 3.0,
+      "units_attempted": 3.0,
+      "units_completed": 3.0,
+      "grade_points": 12.0,
+      "ge_codes": [
+        "1A",
+        "A2",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [
+          "1A"
+        ],
+        "CSU_GE": [
+          "A2"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "ENGL 1 READ AND COMP 1 A 3.0 3.0 3.0 12.0 1A 1A A2 AA"
+    },
+    {
+      "term": "Spring 2025",
+      "status": "completed",
+      "prefix": "ENGL",
+      "number": "28",
+      "code": "ENGL 28",
+      "title": "INT COLL WRITNG",
+      "grade": "P",
+      "units_enrolled": 2.0,
+      "units_attempted": 0.0,
+      "units_completed": 2.0,
+      "grade_points": 0.0,
+      "ge_codes": [
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [],
+        "CSU_GE": [],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": true
+      },
+      "validation_issues": [],
+      "raw_line": "ENGL 28 INT COLL WRITNG P 2.0 0.0 2.0 0.0 AA"
+    },
+    {
+      "term": "Spring 2025",
+      "status": "completed",
+      "prefix": "MATH",
+      "number": "11",
+      "code": "MATH 11",
+      "title": "MULTIVAR CALC",
+      "grade": "NP",
+      "units_enrolled": 5.0,
+      "units_attempted": 0.0,
+      "units_completed": 0.0,
+      "grade_points": 0.0,
+      "ge_codes": [
+        "2A",
+        "B4",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [
+          "2A"
+        ],
+        "CSU_GE": [
+          "B4"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": true
+      },
+      "validation_issues": [],
+      "raw_line": "MATH 11 MULTIVAR CALC NP 5.0 0.0 0.0 0.0 2A 2A B4 AA"
+    },
+    {
+      "term": "Spring 2025",
+      "status": "in_progress",
+      "prefix": "COUNS",
+      "number": "11",
+      "code": "COUNS 11",
+      "title": "ORIEN TO EDUC",
+      "grade": null,
+      "units_enrolled": 1.0,
+      "units_attempted": 1.0,
+      "units_completed": 0.0,
+      "grade_points": 0.0,
+      "ge_codes": [
+        "CSU",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [],
+        "CSU_GE": [],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": true
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "COUNS 11 ORIEN TO EDUC 1.0 1.0 0.0 0.0 CSU AA"
+    },
+    {
+      "term": "Spring 2025",
+      "status": "in_progress",
+      "prefix": "CS",
+      "number": "20A",
+      "code": "CS 20A",
+      "title": "DATA STRCT C++",
+      "grade": null,
+      "units_enrolled": 3.0,
+      "units_attempted": 3.0,
+      "units_completed": 0.0,
+      "grade_points": 0.0,
+      "ge_codes": [
+        "UC",
+        "CSU",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [],
+        "CSU_GE": [],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": true,
+          "CSU": true
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "CS 20A DATA STRCT C++ 3.0 3.0 0.0 0.0 UC UC CSU AA"
+    },
+    {
+      "term": "Spring 2025",
+      "status": "in_progress",
+      "prefix": "CS",
+      "number": "52",
+      "code": "CS 52",
+      "title": "C++ PROGRAM",
+      "grade": null,
+      "units_enrolled": 3.0,
+      "units_attempted": 3.0,
+      "units_completed": 0.0,
+      "grade_points": 0.0,
+      "ge_codes": [
+        "UC",
+        "CSU",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [],
+        "CSU_GE": [],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": true,
+          "CSU": true
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "CS 52 C++ PROGRAM 3.0 3.0 0.0 0.0 UC UC CSU AA"
+    },
+    {
+      "term": "Spring 2025",
+      "status": "in_progress",
+      "prefix": "MATH",
+      "number": "11",
+      "code": "MATH 11",
+      "title": "MULTIVAR CALC",
+      "grade": null,
+      "units_enrolled": 5.0,
+      "units_attempted": 5.0,
+      "units_completed": 0.0,
+      "grade_points": 0.0,
+      "ge_codes": [
+        "2A",
+        "B4",
+        "AA"
+      ],
+      "ge_normalized": {
+        "IGETC_CALGETC": [
+          "2A"
+        ],
+        "CSU_GE": [
+          "B4"
+        ],
+        "LOCAL_AA": [
+          "AA"
+        ],
+        "TRANSFER": {
+          "UC": false,
+          "CSU": false
+        },
+        "OTHER": []
+      },
+      "status_flags": {
+        "withdrawn": false,
+        "pass_no_pass": false
+      },
+      "validation_issues": [],
+      "raw_line": "MATH 11 MULTIVAR CALC 5.0 5.0 0.0 0.0 2A 2A B4 AA"
+    }
+  ],
+  "summary": {
+    "cumulative_rows": [
+      {
+        "label": "SMC Cumulative Total",
+        "raw": "SMC Cumulative Total 14.0 14.0 14.0 51.0 3.643",
+        "numbers": [
+          14.0,
+          14.0,
+          14.0,
+          51.0,
+          3.643
+        ],
+        "gpa_estimate": 3.643
+      },
+      {
+        "label": "SMC Cumulative Total",
+        "raw": "SMC Cumulative Total 26.0 26.0 26.0 89.0 3.423",
+        "numbers": [
+          26.0,
+          26.0,
+          26.0,
+          89.0,
+          3.423
+        ],
+        "gpa_estimate": 3.423
+      },
+      {
+        "label": "SMC Cumulative Total",
+        "raw": "SMC Cumulative Total 39.0 39.0 39.0 131.0 3.359",
+        "numbers": [
+          39.0,
+          39.0,
+          39.0,
+          131.0,
+          3.359
+        ],
+        "gpa_estimate": 3.359
+      },
+      {
+        "label": "SMC Cumulative Total",
+        "raw": "SMC Cumulative Total 52.0 45.0 47.0 152.0 3.378",
+        "numbers": [
+          52.0,
+          45.0,
+          47.0,
+          152.0,
+          3.378
+        ],
+        "gpa_estimate": 3.378
+      },
+      {
+        "label": "CSU Total",
+        "raw": "CSU Total 45.00 45.00 152.00 3.378",
+        "numbers": [
+          45.0,
+          45.0,
+          152.0,
+          3.378
+        ],
+        "gpa_estimate": 3.378
+      },
+      {
+        "label": "UC Total",
+        "raw": "UC Total 45.00 45.00 152.00 3.378",
+        "numbers": [
+          45.0,
+          45.0,
+          152.0,
+          3.378
+        ],
+        "gpa_estimate": 3.378
+      }
+    ]
+  }
+}

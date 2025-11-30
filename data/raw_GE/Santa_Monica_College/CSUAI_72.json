@@ -1,0 +1,456 @@
+{
+    "listType": 5,
+    "institutionName": "Santa Monica College",
+    "academicYear": {
+        "id": 72,
+        "description": "2021-2022",
+        "code": "2021-2022",
+        "beginDate": "2021-10-01T00:00:00",
+        "endDate": "2022-10-01T00:00:00",
+        "isOpenForMaintenance": true,
+        "isOpenForPublic": true,
+        "isOpenForReporting": true
+    },
+    "courseInformationList": [
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 3038,
+            "prefixCode": "HIST",
+            "prefixDescription": "History",
+            "departmentName": "History",
+            "courseIdentifierParentId": 142510,
+            "courseNumber": "15",
+            "courseTitle": "Economic History of the United States",
+            "courseParentId": 102073,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "2000-10-01T00:00:00",
+            "beginTermCode": "F2000",
+            "endDate": "2070-10-01T00:00:00",
+            "endTermCode": "",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US1 ",
+                    "codeDescription": " American History",
+                    "courseIdentifierParentId": 142510,
+                    "beginDate": "2004-10-01T00:00:00",
+                    "beginTermCode": "F2004",
+                    "endDate": "2070-10-01T00:00:00",
+                    "endTermCode": "",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "HIST 15",
+            "notations": [
+                {
+                    "displayText": "Same as:  ECON 15",
+                    "sameAsDictionary": {
+                        "econ 15": null
+                    },
+                    "eventDate": "0001-01-01T00:00:00",
+                    "eventTerm": "W1",
+                    "positionNumber": 0
+                }
+            ]
+        },
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 3038,
+            "prefixCode": "HIST",
+            "prefixDescription": "History",
+            "departmentName": "History",
+            "courseIdentifierParentId": 193685,
+            "courseNumber": "45",
+            "courseTitle": "United States Cultural History Honors Colloquium",
+            "courseParentId": 134539,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "1999-10-01T00:00:00",
+            "beginTermCode": "F1999",
+            "endDate": "2017-04-01T00:00:00",
+            "endTermCode": "S2017",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US1 ",
+                    "codeDescription": " American History",
+                    "courseIdentifierParentId": 193685,
+                    "beginDate": "2004-10-01T00:00:00",
+                    "beginTermCode": "F2004",
+                    "endDate": "2008-10-01T00:00:00",
+                    "endTermCode": "F2008",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "HIST 45",
+            "notations": []
+        },
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 3038,
+            "prefixCode": "HIST",
+            "prefixDescription": "History",
+            "departmentName": "History",
+            "courseIdentifierParentId": 164488,
+            "courseNumber": "12",
+            "courseTitle": "United States History since Reconstruction",
+            "courseParentId": 116981,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "1995-10-01T00:00:00",
+            "beginTermCode": "F1995",
+            "endDate": "2070-10-01T00:00:00",
+            "endTermCode": "",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US1 ",
+                    "codeDescription": " American History",
+                    "courseIdentifierParentId": 164488,
+                    "beginDate": "2004-10-01T00:00:00",
+                    "beginTermCode": "F2004",
+                    "endDate": "2070-10-01T00:00:00",
+                    "endTermCode": "",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "HIST 12",
+            "notations": []
+        },
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 3038,
+            "prefixCode": "HIST",
+            "prefixDescription": "History",
+            "departmentName": "History",
+            "courseIdentifierParentId": 197320,
+            "courseNumber": "11",
+            "courseTitle": "United States History through Reconstruction",
+            "courseParentId": 136861,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "1995-10-01T00:00:00",
+            "beginTermCode": "F1995",
+            "endDate": "2070-10-01T00:00:00",
+            "endTermCode": "",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US1 ",
+                    "codeDescription": " American History",
+                    "courseIdentifierParentId": 197320,
+                    "beginDate": "2004-10-01T00:00:00",
+                    "beginTermCode": "F2004",
+                    "endDate": "2070-10-01T00:00:00",
+                    "endTermCode": "",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "HIST 11",
+            "notations": []
+        },
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 3038,
+            "prefixCode": "HIST",
+            "prefixDescription": "History",
+            "departmentName": "History",
+            "courseIdentifierParentId": 210936,
+            "courseNumber": "46",
+            "courseTitle": "United States Cultural History Seminar",
+            "courseParentId": 146426,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "1995-10-01T00:00:00",
+            "beginTermCode": "F1995",
+            "endDate": "2017-04-01T00:00:00",
+            "endTermCode": "S2017",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US1 ",
+                    "codeDescription": " American History",
+                    "courseIdentifierParentId": 210936,
+                    "beginDate": "2004-10-01T00:00:00",
+                    "beginTermCode": "F2004",
+                    "endDate": "2008-10-01T00:00:00",
+                    "endTermCode": "F2008",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "HIST 46",
+            "notations": []
+        },
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 2050,
+            "prefixCode": "POL SC",
+            "prefixDescription": "Political Science",
+            "departmentName": "Political Science",
+            "courseIdentifierParentId": 192235,
+            "courseNumber": "1",
+            "courseTitle": "National and California Government",
+            "courseParentId": 133605,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "1995-10-01T00:00:00",
+            "beginTermCode": "F1995",
+            "endDate": "2025-10-01T00:00:00",
+            "endTermCode": "F2025",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US3 ",
+                    "codeDescription": " California State and Local Government",
+                    "courseIdentifierParentId": 192235,
+                    "beginDate": "2004-10-01T00:00:00",
+                    "beginTermCode": "F2004",
+                    "endDate": "2070-10-01T00:00:00",
+                    "endTermCode": "",
+                    "sortOrder": 0
+                },
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US2 ",
+                    "codeDescription": " US Constitution and Government",
+                    "courseIdentifierParentId": 192235,
+                    "beginDate": "2004-10-01T00:00:00",
+                    "beginTermCode": "F2004",
+                    "endDate": "2070-10-01T00:00:00",
+                    "endTermCode": "",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "POL SC 1",
+            "notations": []
+        },
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 1316,
+            "prefixCode": "ECON",
+            "prefixDescription": "Economics",
+            "departmentName": "Economics",
+            "courseIdentifierParentId": 142509,
+            "courseNumber": "15",
+            "courseTitle": "Economic History of the United States",
+            "courseParentId": 102073,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "2000-10-01T00:00:00",
+            "beginTermCode": "F2000",
+            "endDate": "2070-10-01T00:00:00",
+            "endTermCode": "",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US1 ",
+                    "codeDescription": " American History",
+                    "courseIdentifierParentId": 142509,
+                    "beginDate": "2004-10-01T00:00:00",
+                    "beginTermCode": "F2004",
+                    "endDate": "2070-10-01T00:00:00",
+                    "endTermCode": "",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "ECON 15",
+            "notations": [
+                {
+                    "displayText": "Same as:  HIST 15",
+                    "sameAsDictionary": {
+                        "hist 15": null
+                    },
+                    "eventDate": "0001-01-01T00:00:00",
+                    "eventTerm": "W1",
+                    "positionNumber": 0
+                }
+            ]
+        },
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 3038,
+            "prefixCode": "HIST",
+            "prefixDescription": "History",
+            "departmentName": "History",
+            "courseIdentifierParentId": 202343,
+            "courseNumber": "10",
+            "courseTitle": "Ethnicity and American Culture",
+            "courseParentId": 140266,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "1995-10-01T00:00:00",
+            "beginTermCode": "F1995",
+            "endDate": "2070-10-01T00:00:00",
+            "endTermCode": "",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US1 ",
+                    "codeDescription": " American History",
+                    "courseIdentifierParentId": 202343,
+                    "beginDate": "2007-04-01T00:00:00",
+                    "beginTermCode": "S2007",
+                    "endDate": "2070-10-01T00:00:00",
+                    "endTermCode": "",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "HIST 10",
+            "notations": []
+        },
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 3038,
+            "prefixCode": "HIST",
+            "prefixDescription": "History",
+            "departmentName": "History",
+            "courseIdentifierParentId": 173911,
+            "courseNumber": "41",
+            "courseTitle": "Native American History",
+            "courseParentId": 122640,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "1996-10-01T00:00:00",
+            "beginTermCode": "F1996",
+            "endDate": "2070-10-01T00:00:00",
+            "endTermCode": "",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US1 ",
+                    "codeDescription": " American History",
+                    "courseIdentifierParentId": 173911,
+                    "beginDate": "2007-04-01T00:00:00",
+                    "beginTermCode": "S2007",
+                    "endDate": "2070-10-01T00:00:00",
+                    "endTermCode": "",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "HIST 41",
+            "notations": []
+        },
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 12556,
+            "prefixCode": "ENVRN",
+            "prefixDescription": "Environmental Studies",
+            "departmentName": "Environmental Studies",
+            "courseIdentifierParentId": 259111,
+            "courseNumber": "14",
+            "courseTitle": "U.S. Environmental History",
+            "courseParentId": 185444,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "2013-10-01T00:00:00",
+            "beginTermCode": "F2013",
+            "endDate": "2070-10-01T00:00:00",
+            "endTermCode": "",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US1 ",
+                    "codeDescription": " American History",
+                    "courseIdentifierParentId": 259111,
+                    "beginDate": "2013-10-01T00:00:00",
+                    "beginTermCode": "F2013",
+                    "endDate": "2070-10-01T00:00:00",
+                    "endTermCode": "",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "ENVRN 14",
+            "notations": [
+                {
+                    "displayText": "Same as:  HIST 14",
+                    "sameAsDictionary": {
+                        "hist 14": null
+                    },
+                    "eventDate": "0001-01-01T00:00:00",
+                    "eventTerm": "W1",
+                    "positionNumber": 0
+                }
+            ]
+        },
+        {
+            "footnoteParentIds": [],
+            "prefixParentId": 3038,
+            "prefixCode": "HIST",
+            "prefixDescription": "History",
+            "departmentName": "History",
+            "courseIdentifierParentId": 259110,
+            "courseNumber": "14",
+            "courseTitle": "U.S. Environmental History",
+            "courseParentId": 185444,
+            "isCsuTransferable": true,
+            "minUnits": 3.0,
+            "maxUnits": 3.0,
+            "beginDate": "2013-10-01T00:00:00",
+            "beginTermCode": "F2013",
+            "endDate": "2070-10-01T00:00:00",
+            "endTermCode": "",
+            "transferAreas": [
+                {
+                    "areaType": 5,
+                    "areaParentId": 0,
+                    "code": "US1 ",
+                    "codeDescription": " American History",
+                    "courseIdentifierParentId": 259110,
+                    "beginDate": "2013-10-01T00:00:00",
+                    "beginTermCode": "F2013",
+                    "endDate": "2070-10-01T00:00:00",
+                    "endTermCode": "",
+                    "sortOrder": 0
+                }
+            ],
+            "isRepeatable": false,
+            "identifier": "HIST 14",
+            "notations": [
+                {
+                    "displayText": "Same as:  ENVRN 14",
+                    "sameAsDictionary": {
+                        "envrn 14": null
+                    },
+                    "eventDate": "0001-01-01T00:00:00",
+                    "eventTerm": "W1",
+                    "positionNumber": 0
+                }
+            ]
+        }
+    ],
+    "institutionTermType": 0,
+    "headerCopy": "<p style=\"text-align:center;\"><strong><span style=\"font-size:x-large;color:#3f48cc;\"></span></strong></p><p style=\"text-align:center;\"><strong><span style=\"font-size:x-large;color:#3f48cc;\">**IMPORTANT**</span></strong></p><p><strong><span style=\"font-size:large;\">The California community college courses listed below will satisfy the California State University (CSU) graduation requirements in American Institutions.\u00a0</span></strong><br /><br /><strong><span style=\"font-size:large;\">Students satisfy this CSU graduation requirement through coursework in three areas:\u00a0</span></strong></p><p><strong><span style=\"font-size:large;\">US-1: Historical development of American institutions and ideals</span></strong><br /><br /><strong><span style=\"font-size:large;\">US-2: United States Constitution and government</span></strong><br /><br /><strong><span style=\"font-size:large;\">US-3: California state and local government</span></strong><br /><br /><span style=\"font-style:italic;font-size:large;\"><strong>Conditions</strong></span><br /><br /><strong><span style=\"font-size:large;\">\u2022 This requirement may be met before or after transfer to the CSU.</span></strong><br /><br /><strong><span style=\"font-size:large;\">\u2022 Any community college may certify completion by students who take courses approved in the three areas, as published here.\u00a0</span></strong><br /><br /><strong><span style=\"font-size:large;\">\u2022 Students who want to fulfill this requirement with courses taken before Fall 2004 should consult their college catalogs.</span></strong><br /><br /><strong><span style=\"font-size:large;\">\u2022 If a course is approved for more than one US Area below, a student may use the course to satisfy all areas listed.</span></strong><br /><br /><strong><span style=\"font-size:large;\">\u2022 US-1 may be completed with a score of 3 or higher on Advanced Placement US History.</span></strong><br /><br /><strong><span style=\"font-size:large;\">\u2022 US-2 (but not US-3) may be completed with a score of 3 or higher on Advanced Placement US Government and Politics.</span></strong><br /><br /><strong><span style=\"font-size:large;\">\u2022 At the discretion of the CSU campus granting the degree, courses meeting this requirement may also be counted toward certification in general education (CSU GE-Breadth or IGETC).\u00a0\u00a0 \u00a0</span></strong><br /><br /><strong><span style=\"font-size:large;\">Check with a counselor for details.</span></strong></p>",
+    "footnotes": []
+}

@@ -1,0 +1,5379 @@
+{
+  "meta": {
+    "name": "All Majors",
+    "type": "AllMajors",
+    "publishDate": "2025-11-21T21:16:19.8646055",
+    "academicYear": {
+      "id": 76,
+      "code": "2025-2026",
+      "beginDate": "2025-10-01T00:00:00",
+      "endDate": "2026-10-01T00:00:00",
+      "isOpenForMaintenance": true,
+      "isOpenForPublic": true,
+      "isOpenForReporting": true,
+      "isLocked": false
+    },
+    "catalogYear": {
+      "receivingCatalogYearBegin": 2025,
+      "receivingCatalogYearEnd": 2026,
+      "sendingCatalogYearBegin": 2025,
+      "sendingCatalogYearEnd": 2026
+    },
+    "receivingInstitution": {
+      "id": 215,
+      "code": "TUW",
+      "isCommunityCollege": false,
+      "category": "Independent",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Touro University Worldwide",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2024
+        }
+      ],
+      "beginId": 75,
+      "endId": null
+    },
+    "sendingInstitution": {
+      "id": 137,
+      "code": "SMCC    ",
+      "isCommunityCollege": true,
+      "category": "CCC",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Santa Monica College",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2020
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 2016
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 1980
+        }
+      ],
+      "beginId": 31,
+      "endId": null
+    },
+    "document_type": "AllMajors",
+    "downloaded_year_id": 76,
+    "isSuccessful": true,
+    "validationFailure": null
+  },
+  "majors": [
+    {
+      "major": "Business Administration and Management, B.S. ",
+      "university": {
+        "id": 215,
+        "code": "TUW",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Touro University Worldwide",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Bachelor of Science in Business Administration and Management (BSBA)"
+      ],
+      "general_texts": [
+        "<p>Students in the Bachelor of Science in Business Administration and Management (BSBA) program are to complete 45 semester credits applicable to the GE Breadth within the applicable areas (see general education breadth template for specifics), 39 core semester credits, 24 elective semester credits and 12 semester credits towards the selected concentration category. Please connect with advisor for recommended course progression of program and view full program details and transfer information can be located within the <a href=\"https://www.tuw.edu/students/university-catalog/\" rel=\"noopener noreferrer\" target=\"_blank\">university catalog</a>. <strong style=\"color: rgb(169, 62, 58);\"><u>Please note</u></strong>: any potential transfer found must be completed with a final grade of C or higher, worth 3 semester credits, and can only be applied to <strong style=\"color: rgb(169, 62, 58);\"><u>one area</u></strong> of the degree program, including the GE breadth.&nbsp;&nbsp;</p>"
+      ],
+      "requirements": [
+        {
+          "id": "12b46845-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "259cd562-6e6d-46fe-3af8-08de22e60ed3",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 300",
+                "prefix": "MGT",
+                "number": "300",
+                "title": "Business Writing",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 32",
+                    "prefix": "BUS",
+                    "number": "32",
+                    "title": "Business Communications",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 302",
+                "prefix": "MGT",
+                "number": "302",
+                "title": "Management Theory",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 65",
+                    "prefix": "BUS",
+                    "number": "65",
+                    "title": "Management Principles",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 304",
+                "prefix": "MGT",
+                "number": "304",
+                "title": "Management Ethics",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 306",
+                "prefix": "MGT",
+                "number": "306",
+                "title": "Information Technology Application in Business",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 308",
+                "prefix": "MGT",
+                "number": "308",
+                "title": "Business Statistics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "STAT C1000",
+                    "prefix": "STAT",
+                    "number": "C1000",
+                    "title": "Introduction to Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 310",
+                "prefix": "MGT",
+                "number": "310",
+                "title": "Introduction to Principles of Marketing",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 20",
+                    "prefix": "BUS",
+                    "number": "20",
+                    "title": "Principles of Marketing",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 312",
+                "prefix": "MGT",
+                "number": "312",
+                "title": "Organizational Behavior",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 314",
+                "prefix": "MGT",
+                "number": "314",
+                "title": "Principles of Finance and Budgeting",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 316",
+                "prefix": "MGT",
+                "number": "316",
+                "title": "International Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 318",
+                "prefix": "MGT",
+                "number": "318",
+                "title": "Strategic Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 320",
+                "prefix": "MGT",
+                "number": "320",
+                "title": "Business Law",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 5",
+                    "prefix": "BUS",
+                    "number": "5",
+                    "title": "Business Law and the Legal Environment",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 322",
+                "prefix": "MGT",
+                "number": "322",
+                "title": "Managing and Leading Organizations",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 399",
+                "prefix": "MGT",
+                "number": "399",
+                "title": "Capstone",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "14b46845-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 8,
+            "min_count": 8,
+            "max_count": 8,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 8.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "4c058e24-4a63-4e7e-9d74-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 301",
+                "prefix": "MGT",
+                "number": "301",
+                "title": "Data Analysis and Decision Making",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 303",
+                "prefix": "MGT",
+                "number": "303",
+                "title": "Training and Development in Business",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 305",
+                "prefix": "MGT",
+                "number": "305",
+                "title": "Supply Chain Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 307",
+                "prefix": "MGT",
+                "number": "307",
+                "title": "Project Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 309",
+                "prefix": "MGT",
+                "number": "309",
+                "title": "Quality Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 311",
+                "prefix": "MGT",
+                "number": "311",
+                "title": "Emergency and Disaster Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 313",
+                "prefix": "MGT",
+                "number": "313",
+                "title": "Non-Profit Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 315",
+                "prefix": "MGT",
+                "number": "315",
+                "title": "Medical Facilities Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 317",
+                "prefix": "MGT",
+                "number": "317",
+                "title": "Customer Service Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "18b46845-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 6,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "5009f2d6-ef79-4846-9d75-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 345",
+                "prefix": "MGT",
+                "number": "345",
+                "title": "Introduction to Financial Accounting",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 347",
+                "prefix": "MGT",
+                "number": "347",
+                "title": "Intermediate Financial Accounting",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 349",
+                "prefix": "MGT",
+                "number": "349",
+                "title": "Accounting Information Systems",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 351",
+                "prefix": "MGT",
+                "number": "351",
+                "title": "Cash Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "1fb46845-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 8,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "aeec657a-4cd9-42ac-9d76-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 329",
+                "prefix": "MGT",
+                "number": "329",
+                "title": "Managing Small Business",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 339",
+                "prefix": "MGT",
+                "number": "339",
+                "title": "Sales and Marketing",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 333",
+                "prefix": "MGT",
+                "number": "333",
+                "title": "Business Opportunity Analysis",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 335",
+                "prefix": "MGT",
+                "number": "335",
+                "title": "New Ventures and E-Business",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "22b46845-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 10,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "41301da2-eb4e-426d-9d77-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CJS 301",
+                "prefix": "CJS",
+                "number": "301",
+                "title": "Introduction to Criminal Justice System",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "AD JUS 1",
+                    "prefix": "AD JUS",
+                    "number": "1",
+                    "title": "Introduction to Administration of Justice",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CJS 303",
+                "prefix": "CJS",
+                "number": "303",
+                "title": "Criminal Processes and Procedures",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CJS 305",
+                "prefix": "CJS",
+                "number": "305",
+                "title": "Forensic Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CJS 307",
+                "prefix": "CJS",
+                "number": "307",
+                "title": "Criminal Justice in World Culture",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "24b46845-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 12,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "5dafe721-0356-4ce7-9d78-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECO 301",
+                "prefix": "ECO",
+                "number": "301",
+                "title": "Microeconomics",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECO 303",
+                "prefix": "ECO",
+                "number": "303",
+                "title": "Macroeconomics",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECO 305",
+                "prefix": "ECO",
+                "number": "305",
+                "title": "Money, Banking and Financial Intermediaries",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECO 307",
+                "prefix": "ECO",
+                "number": "307",
+                "title": "Introduction to Industrial Organization",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "b5dd7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 14,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "178abd6d-ce85-44f6-9d79-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 321",
+                "prefix": "MGT",
+                "number": "321",
+                "title": "Training and Development Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 323",
+                "prefix": "MGT",
+                "number": "323",
+                "title": "Employee Performance & Appraisal Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 325",
+                "prefix": "MGT",
+                "number": "325",
+                "title": "Workforce Planning & Employment",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 327",
+                "prefix": "MGT",
+                "number": "327",
+                "title": "Legal Environment of HRM",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "b6dd7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 16,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "d2687667-caa9-4209-9d7a-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 337",
+                "prefix": "MGT",
+                "number": "337",
+                "title": "Consumer Behavior",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 339",
+                "prefix": "MGT",
+                "number": "339",
+                "title": "Sales and Marketing",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 341",
+                "prefix": "MGT",
+                "number": "341",
+                "title": "Managing Advertising",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 343",
+                "prefix": "MGT",
+                "number": "343",
+                "title": "Marketing Strategy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "b7dd7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 18,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "09fd6f7b-65e8-40fd-9d7b-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 371",
+                "prefix": "MGT",
+                "number": "371",
+                "title": "Project Mgmt. Academic Concepts",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 373",
+                "prefix": "MGT",
+                "number": "373",
+                "title": "Project Mgmt. Professional Practices",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 375",
+                "prefix": "MGT",
+                "number": "375",
+                "title": "Project Mgmt. Planning & Leadership",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 377",
+                "prefix": "MGT",
+                "number": "377",
+                "title": "Project Mgmt. Strategy & Application",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "b8dd7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 20,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "a9519c2e-6adf-4f28-9d7c-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 361",
+                "prefix": "MGT",
+                "number": "361",
+                "title": "Emergency, Disasters and Homeland Security",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 363",
+                "prefix": "MGT",
+                "number": "363",
+                "title": "Emergency Preparedness and Response",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 365",
+                "prefix": "MGT",
+                "number": "365",
+                "title": "First and Second Responders Role in Crises",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 367",
+                "prefix": "MGT",
+                "number": "367",
+                "title": "Homeland Security and Terrorism",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Health Sciences, B.S. Health Care Administration Track-Healthcare Management Concentration ",
+      "university": {
+        "id": 215,
+        "code": "TUW",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Touro University Worldwide",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Bachelor of Science in Health Sciences (BSHS)-Health Care Administration Track with concentration in Healthcare Management "
+      ],
+      "general_texts": [
+        "<p>Students in the Bachelor of Science in Health Sciences (BSHS) program of the Health Care Administration track with a concentration in Healthcare Management are to complete 45 semester credits towards the GE Breadth within the applicable areas (see general education breadth template for specifics), 39 semester credits towards the core, 24 semester credits towards the elective category and 12 semester credits towards the concentration category. Please connect with an advisor for the recommended course progression. Full program information and transfer details are located within the<a href=\"https://www.tuw.edu/students/university-catalog/\" rel=\"noopener noreferrer\" target=\"_blank\"> university catalog</a>. <strong style=\"color: rgb(169, 62, 58);\"><u>Please note</u></strong>: any potential transfer found must be completed with a final grade of C or higher, worth 3 semester credits, and can only be applied to <strong style=\"color: rgb(169, 62, 58);\"><u>one area</u></strong> of the degree program, including the GE breadth.</p>"
+      ],
+      "requirements": [
+        {
+          "id": "fa9d6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "0db76ec9-c3db-4044-9d4a-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 300",
+                "prefix": "BHA",
+                "number": "300",
+                "title": "Leadership in Health Services Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 302",
+                "prefix": "BHA",
+                "number": "302",
+                "title": "Organizational Behavior",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 304",
+                "prefix": "BHA",
+                "number": "304",
+                "title": "Management of Health Services",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 308",
+                "prefix": "BHA",
+                "number": "308",
+                "title": "Cultural Competence in Healthcare",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 400",
+                "prefix": "BHA",
+                "number": "400",
+                "title": "Healthcare Delivery System",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 402",
+                "prefix": "BHA",
+                "number": "402",
+                "title": "Policies and Ethics in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 406",
+                "prefix": "BHA",
+                "number": "406",
+                "title": "Development and Evaluation of Health Programs",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 408",
+                "prefix": "BHA",
+                "number": "408",
+                "title": "Health Care Marketing",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 410",
+                "prefix": "BHA",
+                "number": "410",
+                "title": "Non-Profit Organizations in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 412",
+                "prefix": "BHA",
+                "number": "412",
+                "title": "Environmental Health and Safety",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 416",
+                "prefix": "BHA",
+                "number": "416",
+                "title": "Research Methods for Health Care Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 418",
+                "prefix": "BHA",
+                "number": "418",
+                "title": "Health Information Systems",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 499",
+                "prefix": "BHA",
+                "number": "499",
+                "title": "Capstone",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "fe9d6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 8,
+            "min_count": 8,
+            "max_count": 8,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 8.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "063ecce5-c16a-47a2-9d4b-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 303",
+                "prefix": "BHA",
+                "number": "303",
+                "title": "Health Care Finance",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 305",
+                "prefix": "BHA",
+                "number": "305",
+                "title": "Health Care Policy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 307",
+                "prefix": "BHA",
+                "number": "307",
+                "title": "Survey of International Health Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 309",
+                "prefix": "BHA",
+                "number": "309",
+                "title": "Navigating the US Health Care System",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 313",
+                "prefix": "BHA",
+                "number": "313",
+                "title": "Gerontology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "HEALTH 21",
+                    "prefix": "HEALTH",
+                    "number": "21",
+                    "title": "Aging and Older Adulthood",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HEALTH 20",
+                    "prefix": "HEALTH",
+                    "number": "20",
+                    "title": "Introduction to Gerontology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 315",
+                "prefix": "BHA",
+                "number": "315",
+                "title": "Human Resource Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 317",
+                "prefix": "BHA",
+                "number": "317",
+                "title": "Principles of Epidemiology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 321",
+                "prefix": "BHA",
+                "number": "321",
+                "title": "Safety Issues in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 323",
+                "prefix": "BHA",
+                "number": "323",
+                "title": "Health Care Advocacy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 404",
+                "prefix": "BHA",
+                "number": "404",
+                "title": "Research for Evidence Based Practice",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "029e6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 6,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "ffba9fb4-1669-4eb6-9d4c-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 306",
+                "prefix": "BHA",
+                "number": "306",
+                "title": "Developing & Working in Teams",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 319",
+                "prefix": "BHA",
+                "number": "319",
+                "title": "Special Topics in Health Care Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 414",
+                "prefix": "BHA",
+                "number": "414",
+                "title": "Long Term Care Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 420",
+                "prefix": "BHA",
+                "number": "420",
+                "title": "Project Management in Health Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Health Sciences, B.S. Health Care Administration Track-Nutrition and Health Concentration ",
+      "university": {
+        "id": 215,
+        "code": "TUW",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Touro University Worldwide",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Bachelor of Science in Health Sciences (BSHS)- Health Care Administration Track with concentration in Nutrition and Health"
+      ],
+      "general_texts": [
+        "<p>Students within the Bachelor of Science in Health Sciences (BSHS) program of the Health Care Administration track with a concentration in Nutrition and Health are to complete 45 semester credits towards the GE breadth within the applicable areas (see General Education Breadth template for specifics), 39 semester credits towards the core, 24 semester credits towards the elective category and 12 semester credits towards the concentration category. Please connect with an advisor for the recommended course progression. Full program details and transfer information can be viewed within the <a href=\"https://www.tuw.edu/students/university-catalog/\" rel=\"noopener noreferrer\" target=\"_blank\">university catalog</a>. <strong style=\"color: rgb(169, 62, 58);\"><u>Please note</u></strong>: any potential transfer found must be completed with a final grade of C or higher, worth 3 semester credits, and can only be applied to <strong style=\"color: rgb(169, 62, 58);\"><u>one area</u></strong> of the degree program, including the GE breadth.</p>"
+      ],
+      "requirements": [
+        {
+          "id": "509b6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "e5d29404-f1cf-4e38-9d47-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 300",
+                "prefix": "BHA",
+                "number": "300",
+                "title": "Leadership in Health Services Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 302",
+                "prefix": "BHA",
+                "number": "302",
+                "title": "Organizational Behavior",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 304",
+                "prefix": "BHA",
+                "number": "304",
+                "title": "Management of Health Services",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 308",
+                "prefix": "BHA",
+                "number": "308",
+                "title": "Cultural Competence in Healthcare",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 400",
+                "prefix": "BHA",
+                "number": "400",
+                "title": "Healthcare Delivery System",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 402",
+                "prefix": "BHA",
+                "number": "402",
+                "title": "Policies and Ethics in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 406",
+                "prefix": "BHA",
+                "number": "406",
+                "title": "Development and Evaluation of Health Programs",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 408",
+                "prefix": "BHA",
+                "number": "408",
+                "title": "Health Care Marketing",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 410",
+                "prefix": "BHA",
+                "number": "410",
+                "title": "Non-Profit Organizations in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 412",
+                "prefix": "BHA",
+                "number": "412",
+                "title": "Environmental Health and Safety",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 416",
+                "prefix": "BHA",
+                "number": "416",
+                "title": "Research Methods for Health Care Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 418",
+                "prefix": "BHA",
+                "number": "418",
+                "title": "Health Information Systems",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 499",
+                "prefix": "BHA",
+                "number": "499",
+                "title": "Capstone",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "519b6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 8,
+            "min_count": 8,
+            "max_count": 8,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 8.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "e0c50abe-c0d2-4261-9d48-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 303",
+                "prefix": "BHA",
+                "number": "303",
+                "title": "Health Care Finance",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 305",
+                "prefix": "BHA",
+                "number": "305",
+                "title": "Health Care Policy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 307",
+                "prefix": "BHA",
+                "number": "307",
+                "title": "Survey of International Health Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 309",
+                "prefix": "BHA",
+                "number": "309",
+                "title": "Navigating the US Health Care System",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 313",
+                "prefix": "BHA",
+                "number": "313",
+                "title": "Gerontology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "HEALTH 21",
+                    "prefix": "HEALTH",
+                    "number": "21",
+                    "title": "Aging and Older Adulthood",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HEALTH 20",
+                    "prefix": "HEALTH",
+                    "number": "20",
+                    "title": "Introduction to Gerontology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 315",
+                "prefix": "BHA",
+                "number": "315",
+                "title": "Human Resource Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 317",
+                "prefix": "BHA",
+                "number": "317",
+                "title": "Principles of Epidemiology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 321",
+                "prefix": "BHA",
+                "number": "321",
+                "title": "Safety Issues in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 323",
+                "prefix": "BHA",
+                "number": "323",
+                "title": "Health Care Advocacy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 404",
+                "prefix": "BHA",
+                "number": "404",
+                "title": "Research for Evidence Based Practice",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "529b6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 6,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "f1607507-b8b6-4b1d-9d49-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 301",
+                "prefix": "BHA",
+                "number": "301",
+                "title": "Health Problems in the Life Cycle",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 305",
+                "prefix": "BHA",
+                "number": "305",
+                "title": "Health Care Policy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 307",
+                "prefix": "BHA",
+                "number": "307",
+                "title": "Survey of International Health Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 311",
+                "prefix": "BHA",
+                "number": "311",
+                "title": "Strategic Planning in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Health Sciences, B.S. Health Education Track ",
+      "university": {
+        "id": 215,
+        "code": "TUW",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Touro University Worldwide",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Bachelor of Science in Health Sciences (BSHS) Health Education Track"
+      ],
+      "general_texts": [
+        "<p>Students within the Bachelor of Science in Health Sciences (BSHS) program of the Health Education Track are to complete 45 semester credits towards the GE breadth (see General Education Breadth template for specifics), including the pre-requisites of the GE applicable areas (The following general education courses or equivalent for the BSHS Health Education track must be taken: ANT 106, BIO 201, BIO 202, HEA 229, MIC 206, PSY 101 and STA 206), 39 core semester credits, 24 semester credits towards the elective category and 12 semester credits towards the concentration category.  Please connect with an advisor for the recommended course progression. Full program details and transfer information can be viewed within the <a href=\"https://www.tuw.edu/students/university-catalog/\" rel=\"noopener noreferrer\" target=\"_blank\">university catalog</a>. <strong style=\"color: rgb(169, 62, 58);\"><u>Please note</u></strong>: any potential transfer found must be completed with a final grade of C or higher, worth 3 semester credits, and can only be applied to <strong style=\"color: rgb(169, 62, 58);\"><u>one area</u></strong> of the degree program, including the GE breadth.</p>"
+      ],
+      "requirements": [
+        {
+          "id": "0c9e6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "0793addb-00db-4889-9d4d-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 300",
+                "prefix": "BHS",
+                "number": "300",
+                "title": "Intro to Health Education",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 302",
+                "prefix": "BHS",
+                "number": "302",
+                "title": "Health Promotions & Lifestyle Modification",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 304",
+                "prefix": "BHS",
+                "number": "304",
+                "title": "Principles of Educating & Teaching Individuals & Communities",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 305",
+                "prefix": "BHS",
+                "number": "305",
+                "title": "Human Nutrition",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 306",
+                "prefix": "BHS",
+                "number": "306",
+                "title": "Developing & Working in Teams",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 308",
+                "prefix": "BHS",
+                "number": "308",
+                "title": "Cultural Competence in Healthcare",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 315",
+                "prefix": "BHS",
+                "number": "315",
+                "title": "Environmental Health & Safety",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 317",
+                "prefix": "BHS",
+                "number": "317",
+                "title": "Principles of Epidemiology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 400",
+                "prefix": "BHS",
+                "number": "400",
+                "title": "Healthcare Delivery System",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 402",
+                "prefix": "BHS",
+                "number": "402",
+                "title": "Policies & Ethics in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 404",
+                "prefix": "BHS",
+                "number": "404",
+                "title": "Research for Evidence Based Practice",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 406",
+                "prefix": "BHS",
+                "number": "406",
+                "title": "Development & Evaluation of Health Programs",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 499",
+                "prefix": "BHS",
+                "number": "499",
+                "title": "Capstone",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "0e9e6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 8,
+            "min_count": 8,
+            "max_count": 8,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 8.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "d266ecc0-5b47-4e15-9d4e-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 303",
+                "prefix": "BHS",
+                "number": "303",
+                "title": "Obesity and Other Eating Disorders",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 307",
+                "prefix": "BHS",
+                "number": "307",
+                "title": "Nutrition and Disease",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 311",
+                "prefix": "BHS",
+                "number": "311",
+                "title": "Stress and Disease",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 313",
+                "prefix": "BHS",
+                "number": "313",
+                "title": "Gerontology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "HEALTH 20",
+                    "prefix": "HEALTH",
+                    "number": "20",
+                    "title": "Introduction to Gerontology",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HEALTH 21",
+                    "prefix": "HEALTH",
+                    "number": "21",
+                    "title": "Aging and Older Adulthood",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 321",
+                "prefix": "BHS",
+                "number": "321",
+                "title": "Long Term Care Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 325",
+                "prefix": "BHS",
+                "number": "325",
+                "title": "Human Sexuality",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 25",
+                    "prefix": "PSYCH",
+                    "number": "25",
+                    "title": "Human Sexuality",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 327",
+                "prefix": "BHS",
+                "number": "327",
+                "title": "Consumer Health",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 330",
+                "prefix": "BHS",
+                "number": "330",
+                "title": "Global Health",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 331",
+                "prefix": "BHS",
+                "number": "331",
+                "title": "School Health Programs",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 333",
+                "prefix": "BHS",
+                "number": "333",
+                "title": "Community Health Statistics",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "c2cd6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 6,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "4e27909d-ee99-49bf-9d4f-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 301",
+                "prefix": "BHS",
+                "number": "301",
+                "title": "Health Problems in the Life Cycle",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 309",
+                "prefix": "BHS",
+                "number": "309",
+                "title": "Issues of Alcohol & Substance Abuse",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 319",
+                "prefix": "BHS",
+                "number": "319",
+                "title": "Special Topics in Health Education",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 323",
+                "prefix": "BHS",
+                "number": "323",
+                "title": "Health Care Communication and Advocacy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Health Sciences, B.S. Long Team Care Administration Track",
+      "university": {
+        "id": 215,
+        "code": "TUW",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Touro University Worldwide",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Bachelor of Science in Health Sciences (BSHS)- Long Term Care Administration Track "
+      ],
+      "general_texts": [
+        "<p>Students within the Bachelor of Science in Health Sciences (BSHS) program of the Long Term Care Administration Track are to complete 45 semester credits towards the GE Breath within the appropriate areas (see General Education Breadth template for specifics), 39 semester credits towards the core, 24 semester credits towards the elective category and 12 semester courses towards the concentration category. Please connect with an advisor for the recommended course progression map. Full program information and transfer details can be found in the <a href=\"https://www.tuw.edu/students/university-catalog/\" rel=\"noopener noreferrer\" target=\"_blank\">university catalog</a>. <strong style=\"color: rgb(169, 62, 58);\"><u>Please note</u></strong>: any potential transfer found must be completed with a final grade of C or higher, worth 3 semester credits, and can only be applied to <strong style=\"color: rgb(169, 62, 58);\"><u>one area</u></strong> of the degree program, including the GE breadth.</p>"
+      ],
+      "requirements": [
+        {
+          "id": "4c9b6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "e159e65f-5c7b-4bcb-9d70-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 300",
+                "prefix": "BHA",
+                "number": "300",
+                "title": "Leadership in Health Services Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 302",
+                "prefix": "BHA",
+                "number": "302",
+                "title": "Organizational Behavior",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 306",
+                "prefix": "BHA",
+                "number": "306",
+                "title": "Developing & Working in Teams",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 308",
+                "prefix": "BHA",
+                "number": "308",
+                "title": "Cultural Competence in Healthcare",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 313",
+                "prefix": "BHA",
+                "number": "313",
+                "title": "Gerontology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "HEALTH 21",
+                    "prefix": "HEALTH",
+                    "number": "21",
+                    "title": "Aging and Older Adulthood",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HEALTH 20",
+                    "prefix": "HEALTH",
+                    "number": "20",
+                    "title": "Introduction to Gerontology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 315",
+                "prefix": "BHA",
+                "number": "315",
+                "title": "Human Resource Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 323",
+                "prefix": "BHA",
+                "number": "323",
+                "title": "Health Care Advocacy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 406",
+                "prefix": "BHA",
+                "number": "406",
+                "title": "Development and Evaluation of Health Programs",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 410",
+                "prefix": "BHA",
+                "number": "410",
+                "title": "Non-Profit Organizations in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 414",
+                "prefix": "BHA",
+                "number": "414",
+                "title": "Long Term Care Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 418",
+                "prefix": "BHA",
+                "number": "418",
+                "title": "Health Information Systems",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "LTC 427",
+                "prefix": "LTC",
+                "number": "427",
+                "title": "Substance Abuse and the Elderly",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "LTC 499",
+                "prefix": "LTC",
+                "number": "499",
+                "title": "Capstone",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "4d9b6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 8,
+            "min_count": 8,
+            "max_count": 8,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 8.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "e3fa6583-1f1c-4f1d-9d71-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 301",
+                "prefix": "BHA",
+                "number": "301",
+                "title": "Health Problems in the Life Cycle",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 303",
+                "prefix": "BHA",
+                "number": "303",
+                "title": "Health Care Finance",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 304",
+                "prefix": "BHA",
+                "number": "304",
+                "title": "Management of Health Services",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 307",
+                "prefix": "BHA",
+                "number": "307",
+                "title": "Survey of International Health Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 309",
+                "prefix": "BHA",
+                "number": "309",
+                "title": "Navigating the US Health Care System",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 311",
+                "prefix": "BHA",
+                "number": "311",
+                "title": "Strategic Planning in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 317",
+                "prefix": "BHA",
+                "number": "317",
+                "title": "Principles of Epidemiology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 319",
+                "prefix": "BHA",
+                "number": "319",
+                "title": "Special Topics in Health Care Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 321",
+                "prefix": "BHA",
+                "number": "321",
+                "title": "Safety Issues in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 400",
+                "prefix": "BHA",
+                "number": "400",
+                "title": "Healthcare Delivery System",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 402",
+                "prefix": "BHA",
+                "number": "402",
+                "title": "Policies and Ethics in Health Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 404",
+                "prefix": "BHA",
+                "number": "404",
+                "title": "Research for Evidence Based Practice",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 408",
+                "prefix": "BHA",
+                "number": "408",
+                "title": "Health Care Marketing",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 412",
+                "prefix": "BHA",
+                "number": "412",
+                "title": "Environmental Health and Safety",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 416",
+                "prefix": "BHA",
+                "number": "416",
+                "title": "Research Methods for Health Care Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 305",
+                "prefix": "BHS",
+                "number": "305",
+                "title": "Human Nutrition",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHS 307",
+                "prefix": "BHS",
+                "number": "307",
+                "title": "Nutrition and Disease",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BHA 305",
+                "prefix": "BHA",
+                "number": "305",
+                "title": "Health Care Policy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "ec9d6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "34a01290-3a87-4f85-9d72-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "LTC 429",
+                "prefix": "LTC",
+                "number": "429",
+                "title": "End of Life Ethics",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "LTC 425",
+                "prefix": "LTC",
+                "number": "425",
+                "title": "Social Issues and Intervention Strategies with Older Adults",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "LTC 419",
+                "prefix": "LTC",
+                "number": "419",
+                "title": "Assisted Living Administration",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "LTC 421",
+                "prefix": "LTC",
+                "number": "421",
+                "title": "Hospice Care",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Psychology, B.A.",
+      "university": {
+        "id": 215,
+        "code": "TUW",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Touro University Worldwide",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Bachelor of Arts in Psychology (BA Psych)"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 12px;\">Students within the Bachelor of Arts in Psychology (BA Psych) program are to complete 45 semester credits towards the GE breadth within the applicable areas (see General Education Breadth Template for specifics), 39 semester credits of the core, 24 semester credits of the elective category and 12 semester credits of the selected concentration category. </span>Please connect with advisor for recommended course progression of program. <span style=\"font-size: 12px;\">Full program and transfer information can be viewed within the </span><a href=\"https://www.tuw.edu/students/university-catalog/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 12px;\">university catalog</a><span style=\"font-size: 12px;\">. </span><strong style=\"color: rgb(169, 62, 58);\"><u>Please note</u></strong>: any potential transfer found must be completed with a final grade of C or higher, worth 3 semester credits, and can only be applied to <strong style=\"color: rgb(169, 62, 58);\"><u>one area</u></strong> of the degree program, including the GE breadth.</p>"
+      ],
+      "requirements": [
+        {
+          "id": "449b6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 8,
+            "min_count": 8,
+            "max_count": 8,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 8.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "3b27c682-e21c-4d5f-9d68-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 311",
+                "prefix": "PSY",
+                "number": "311",
+                "title": "Educational Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 313",
+                "prefix": "PSY",
+                "number": "313",
+                "title": "Neurological Bases of Human Behavior",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 315",
+                "prefix": "PSY",
+                "number": "315",
+                "title": "Industrial & Organizational Behavior",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 317",
+                "prefix": "PSY",
+                "number": "317",
+                "title": "Health Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 319",
+                "prefix": "PSY",
+                "number": "319",
+                "title": "Parenting & Family Relations",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 321",
+                "prefix": "PSY",
+                "number": "321",
+                "title": "Addiction & Recovery",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 323",
+                "prefix": "PSY",
+                "number": "323",
+                "title": "Forensic Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 325",
+                "prefix": "PSY",
+                "number": "325",
+                "title": "Psychology & Culture",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 327",
+                "prefix": "PSY",
+                "number": "327",
+                "title": "Psychology of Adulthood & Aging",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "HEALTH 21",
+                    "prefix": "HEALTH",
+                    "number": "21",
+                    "title": "Aging and Older Adulthood",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 329",
+                "prefix": "PSY",
+                "number": "329",
+                "title": "Tests & Measurement in Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 331",
+                "prefix": "PSY",
+                "number": "331",
+                "title": "Positive Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "EDU 332",
+                "prefix": "EDU",
+                "number": "332",
+                "title": "Structured English Immersion Foundation",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 333",
+                "prefix": "PSY",
+                "number": "333",
+                "title": "Experimental Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "df9d6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "7dc862d4-cccc-46e2-9d69-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 300",
+                "prefix": "PSY",
+                "number": "300",
+                "title": "Principles of  Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYC C1000",
+                    "prefix": "PSYC",
+                    "number": "C1000",
+                    "title": "General Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 302",
+                "prefix": "PSY",
+                "number": "302",
+                "title": "Psychology as a Science & Profession",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 304",
+                "prefix": "PSY",
+                "number": "304",
+                "title": "Ethics in Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 310",
+                "prefix": "PSY",
+                "number": "310",
+                "title": "Intro to Developmental Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 19",
+                    "prefix": "PSYCH",
+                    "number": "19",
+                    "title": "Lifespan Human Development",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 308",
+                "prefix": "PSY",
+                "number": "308",
+                "title": "Research Methods in Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 312",
+                "prefix": "PSY",
+                "number": "312",
+                "title": "Intro to Social Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 13",
+                    "prefix": "PSYCH",
+                    "number": "13",
+                    "title": "Social Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 314",
+                "prefix": "PSY",
+                "number": "314",
+                "title": "Intro to Personality Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 3",
+                    "prefix": "PSYCH",
+                    "number": "3",
+                    "title": "Personality: Dynamics and Development",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 316",
+                "prefix": "PSY",
+                "number": "316",
+                "title": "Cognitive Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 320",
+                    "prefix": "PSYCH",
+                    "number": "320",
+                    "title": "Cognitive Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 318",
+                "prefix": "PSY",
+                "number": "318",
+                "title": "Abnormal Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 14",
+                    "prefix": "PSYCH",
+                    "number": "14",
+                    "title": "Abnormal Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 320",
+                "prefix": "PSY",
+                "number": "320",
+                "title": "Intro to Clinical Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 322",
+                "prefix": "PSY",
+                "number": "322",
+                "title": "Assessments in Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 324",
+                "prefix": "PSY",
+                "number": "324",
+                "title": "Community Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 8",
+                    "prefix": "PSYCH",
+                    "number": "8",
+                    "title": "Community Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 499",
+                "prefix": "PSY",
+                "number": "499",
+                "title": "Capstone",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "bbdd7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 6,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "b9c43dd5-7b44-4419-9d6a-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 311",
+                "prefix": "PSY",
+                "number": "311",
+                "title": "Educational Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 407",
+                "prefix": "PSY",
+                "number": "407",
+                "title": "Theories of Reading",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "HIS 120",
+                "prefix": "HIS",
+                "number": "120",
+                "title": "US History & Constitution",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "EDU 332",
+                "prefix": "EDU",
+                "number": "332",
+                "title": "Structured English Immersion Foundation",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "bcdd7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 8,
+          "titles": [],
+          "rule": {
+            "logic": "UP_TO_N",
+            "n": 4,
+            "min_count": 0,
+            "max_count": 4,
+            "raw_instruction": {
+              "type": "NFromConjunction",
+              "conjunction": "And",
+              "amountQuantifier": "UpTo",
+              "amount": 4.0,
+              "amountUnitType": "Course",
+              "id": "656fa276-d3be-4585-3af9-08de22e60ed3",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 311",
+                "prefix": "PSY",
+                "number": "311",
+                "title": "Educational Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "HIS 120",
+                "prefix": "HIS",
+                "number": "120",
+                "title": "US History & Constitution",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "EDU 332",
+                "prefix": "EDU",
+                "number": "332",
+                "title": "Structured English Immersion Foundation",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 407",
+                "prefix": "PSY",
+                "number": "407",
+                "title": "Theories of Reading",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "EDU 341",
+                "prefix": "EDU",
+                "number": "341",
+                "title": "Case Studies in Adolescent Mental Health Issues",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "bddd7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 10,
+          "titles": [],
+          "rule": {
+            "logic": "UP_TO_N",
+            "n": 4,
+            "min_count": 0,
+            "max_count": 4,
+            "raw_instruction": {
+              "type": "NFromConjunction",
+              "conjunction": "And",
+              "amountQuantifier": "UpTo",
+              "amount": 4.0,
+              "amountUnitType": "Course",
+              "id": "cda6db71-e6c8-412b-3afa-08de22e60ed3",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 311",
+                "prefix": "PSY",
+                "number": "311",
+                "title": "Educational Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "HIS 120",
+                "prefix": "HIS",
+                "number": "120",
+                "title": "US History & Constitution",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 407",
+                "prefix": "PSY",
+                "number": "407",
+                "title": "Theories of Reading",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "EDU 332",
+                "prefix": "EDU",
+                "number": "332",
+                "title": "Structured English Immersion Foundation",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "EDU 337",
+                "prefix": "EDU",
+                "number": "337",
+                "title": "Issues in Learning Disabilities",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "EDU 339",
+                "prefix": "EDU",
+                "number": "339",
+                "title": "Instructional Methods for Students At Risk Academically",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "bedd7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 12,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "2a5ed111-862a-4f5d-9d6d-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 408",
+                "prefix": "PSY",
+                "number": "408",
+                "title": "Child and Adolescent Development",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 11",
+                    "prefix": "PSYCH",
+                    "number": "11",
+                    "title": "Child Growth and Development",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 409",
+                "prefix": "PSY",
+                "number": "409",
+                "title": "Abnormal Child and Adolescent Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 410",
+                "prefix": "PSY",
+                "number": "410",
+                "title": "Psychology of Special Needs in Children and Adolescents",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 411",
+                "prefix": "PSY",
+                "number": "411",
+                "title": "Impact of Society on Child and Adolescents",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "bfdd7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 14,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "7b4ba498-37b1-4dd5-9d6e-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 413",
+                "prefix": "PSY",
+                "number": "413",
+                "title": "Criminal Behavior",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 323",
+                "prefix": "PSY",
+                "number": "323",
+                "title": "Forensic Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 401",
+                "prefix": "PSY",
+                "number": "401",
+                "title": "Applied Social Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 415",
+                "prefix": "PSY",
+                "number": "415",
+                "title": "Psychology and the Law",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "c0dd7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 16,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "864bd7b9-ae5a-481b-9d6f-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 400",
+                "prefix": "PSY",
+                "number": "400",
+                "title": "Effective Client Communication",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 401",
+                "prefix": "PSY",
+                "number": "401",
+                "title": "Applied Social Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 403",
+                "prefix": "PSY",
+                "number": "403",
+                "title": "Theories of Attitude Change & Persuasion",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 405",
+                "prefix": "PSY",
+                "number": "405",
+                "title": "Cross-Cultural Issues in Industrial & Organizational Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Psychology, B.A. Human Services Concentration",
+      "university": {
+        "id": 215,
+        "code": "TUW",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Touro University Worldwide",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Bachelor of Arts in Psychology (BA Psych)- Human Services Concentration "
+      ],
+      "general_texts": [
+        "<p>Students within the Bachelor of Arts in Psychology (BA Psych) program with the Human Services Concentration are to complete 45 semester credits of the GE breadth in the applicable areas (see general education breadth template for specifics), 30 semester credits towards the core, 30 semester credits towards the elective category and 15 semester credits towards the concentration category. Please connect with advisor for recommended course progression of program. Full program information and transfer details can be located within the <a href=\"https://www.tuw.edu/students/university-catalog/\" rel=\"noopener noreferrer\" target=\"_blank\">university catalog</a>. <strong style=\"color: rgb(169, 62, 58);\"><u>Please note</u></strong>: any potential transfer found must be completed with a final grade of C or higher, worth 3 semester credits, and can only be applied to <strong style=\"color: rgb(169, 62, 58);\"><u>one area</u></strong> of the degree program, including the GE breadth.</p>"
+      ],
+      "requirements": [
+        {
+          "id": "479b6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "927b86a4-e160-4f64-9d5a-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 300",
+                "prefix": "PSY",
+                "number": "300",
+                "title": "Principles of  Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYC C1000",
+                    "prefix": "PSYC",
+                    "number": "C1000",
+                    "title": "General Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 302",
+                "prefix": "PSY",
+                "number": "302",
+                "title": "Psychology as a Science & Profession",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 322",
+                "prefix": "PSY",
+                "number": "322",
+                "title": "Assessments in Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 304",
+                "prefix": "PSY",
+                "number": "304",
+                "title": "Ethics in Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 324",
+                "prefix": "PSY",
+                "number": "324",
+                "title": "Community Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 8",
+                    "prefix": "PSYCH",
+                    "number": "8",
+                    "title": "Community Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 308",
+                "prefix": "PSY",
+                "number": "308",
+                "title": "Research Methods in Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 325",
+                "prefix": "PSY",
+                "number": "325",
+                "title": "Psychology & Culture",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 321",
+                "prefix": "PSY",
+                "number": "321",
+                "title": "Addiction & Recovery",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 401",
+                "prefix": "PSY",
+                "number": "401",
+                "title": "Applied Social Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 499",
+                "prefix": "PSY",
+                "number": "499",
+                "title": "Capstone",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "489b6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 10,
+            "min_count": 10,
+            "max_count": 10,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 10.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "49ebc108-c896-466b-9d5b-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 319",
+                "prefix": "BSW",
+                "number": "319",
+                "title": "Human Heterogeneity",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 318",
+                "prefix": "BSW",
+                "number": "318",
+                "title": "Child Welfare Services",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 301",
+                "prefix": "BSW",
+                "number": "301",
+                "title": "Domestic Violence",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 303",
+                "prefix": "BSW",
+                "number": "303",
+                "title": "Victim Advocacy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 305",
+                "prefix": "BSW",
+                "number": "305",
+                "title": "Youth-at-Risk",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 310",
+                "prefix": "PSY",
+                "number": "310",
+                "title": "Intro to Developmental Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 19",
+                    "prefix": "PSYCH",
+                    "number": "19",
+                    "title": "Lifespan Human Development",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 312",
+                "prefix": "PSY",
+                "number": "312",
+                "title": "Intro to Social Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 13",
+                    "prefix": "PSYCH",
+                    "number": "13",
+                    "title": "Social Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 314",
+                "prefix": "PSY",
+                "number": "314",
+                "title": "Intro to Personality Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 3",
+                    "prefix": "PSYCH",
+                    "number": "3",
+                    "title": "Personality: Dynamics and Development",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 316",
+                "prefix": "PSY",
+                "number": "316",
+                "title": "Cognitive Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 320",
+                    "prefix": "PSYCH",
+                    "number": "320",
+                    "title": "Cognitive Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 318",
+                "prefix": "PSY",
+                "number": "318",
+                "title": "Abnormal Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 14",
+                    "prefix": "PSYCH",
+                    "number": "14",
+                    "title": "Abnormal Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 320",
+                "prefix": "PSY",
+                "number": "320",
+                "title": "Intro to Clinical Psychology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "499b6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 5,
+            "min_count": 5,
+            "max_count": 5,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 5.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "e1d2de85-ca16-4adb-9d5c-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 307",
+                "prefix": "BSW",
+                "number": "307",
+                "title": "Child Abuse",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 309",
+                "prefix": "BSW",
+                "number": "309",
+                "title": "Military Approach to Social Work",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 311",
+                "prefix": "BSW",
+                "number": "311",
+                "title": "International Social Work",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 327",
+                "prefix": "PSY",
+                "number": "327",
+                "title": "Psychology of Adulthood & Aging",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "HEALTH 21",
+                    "prefix": "HEALTH",
+                    "number": "21",
+                    "title": "Aging and Older Adulthood",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 319",
+                "prefix": "PSY",
+                "number": "319",
+                "title": "Parenting & Family Relations",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Social Work, B.A.",
+      "university": {
+        "id": 215,
+        "code": "TUW",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Touro University Worldwide",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Bachelor of Arts in Social Work (BSW)"
+      ],
+      "general_texts": [
+        "<p>Students within the Bachelor of Arts in Social Work (BSW) program are to complete 45 semester credits applicable to the GE Breadth within the applicable areas (see general education breadth template for specifics), 51 core semester credits, 24 semester credits towards the elective category. Please connect with advisor for recommended course progression of program. This program requires 450 hours of practicum in an approved social work agency. View full program details and transfer information can be found within the <a href=\"https://www.tuw.edu/students/university-catalog/\" rel=\"noopener noreferrer\" target=\"_blank\">university catalog</a>. <strong style=\"color: rgb(169, 62, 58);\"><u>Please note</u></strong>: any potential transfer found must be completed with a final grade of C or higher, worth 3 semester credits, and can only be applied to <strong style=\"color: rgb(169, 62, 58);\"><u>one area</u></strong> of the degree program, including the GE breadth.</p>"
+      ],
+      "requirements": [
+        {
+          "id": "e79d6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "5ded4e6d-db60-4d20-9d67-08dda831fbeb",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 300",
+                "prefix": "BSW",
+                "number": "300",
+                "title": "Introduction to Social Work",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 302",
+                "prefix": "BSW",
+                "number": "302",
+                "title": "Introduction to Social Welfare",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 304",
+                "prefix": "BSW",
+                "number": "304",
+                "title": "Interviewing and Assessment",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 308",
+                "prefix": "BSW",
+                "number": "308",
+                "title": "Ethics and Social Policy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 310",
+                "prefix": "BSW",
+                "number": "310",
+                "title": "Human Behavior and the Social Environment I",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 312",
+                "prefix": "BSW",
+                "number": "312",
+                "title": "Human Behavior and the Social Environment II",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 314",
+                "prefix": "BSW",
+                "number": "314",
+                "title": "Social Work Research",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 316",
+                "prefix": "BSW",
+                "number": "316",
+                "title": "Comparative Social Work",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 317",
+                "prefix": "BSW",
+                "number": "317",
+                "title": "Social Work Practice Tool Box",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 320",
+                "prefix": "BSW",
+                "number": "320",
+                "title": "Social Work Practice I (Individuals and Families)",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 326",
+                "prefix": "BSW",
+                "number": "326",
+                "title": "Social Work Practicum I",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 322",
+                "prefix": "BSW",
+                "number": "322",
+                "title": "Social Work Practice II (Groups)",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 328",
+                "prefix": "BSW",
+                "number": "328",
+                "title": "Social Work Practicum II",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 324",
+                "prefix": "BSW",
+                "number": "324",
+                "title": "Social Work Practice III (Communities and Organizations)",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 330",
+                "prefix": "BSW",
+                "number": "330",
+                "title": "Social Work Practicum III",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 399",
+                "prefix": "BSW",
+                "number": "399",
+                "title": "Capstone",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 319",
+                "prefix": "BSW",
+                "number": "319",
+                "title": "Human Heterogeneity",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "ee2f12d2-16b0-494c-929c-019a94ad1cec",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "UP_TO_N",
+            "n": 8,
+            "min_count": 0,
+            "max_count": 8,
+            "raw_instruction": {
+              "type": "NFromConjunction",
+              "conjunction": "And",
+              "amountQuantifier": "UpTo",
+              "amount": 8.0,
+              "amountUnitType": "Course",
+              "id": "b277b813-3515-4c0b-3afb-08de22e60ed3",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 301",
+                "prefix": "BSW",
+                "number": "301",
+                "title": "Domestic Violence",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 303",
+                "prefix": "BSW",
+                "number": "303",
+                "title": "Victim Advocacy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 305",
+                "prefix": "BSW",
+                "number": "305",
+                "title": "Youth-at-Risk",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 307",
+                "prefix": "BSW",
+                "number": "307",
+                "title": "Child Abuse",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 309",
+                "prefix": "BSW",
+                "number": "309",
+                "title": "Military Approach to Social Work",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 311",
+                "prefix": "BSW",
+                "number": "311",
+                "title": "International Social Work",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 313",
+                "prefix": "BSW",
+                "number": "313",
+                "title": "Drug and Alcohol Treatment in Social Work",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 315",
+                "prefix": "BSW",
+                "number": "315",
+                "title": "Social Work with Older Adults",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSW 318",
+                "prefix": "BSW",
+                "number": "318",
+                "title": "Child Welfare Services",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

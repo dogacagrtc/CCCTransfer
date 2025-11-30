@@ -1,0 +1,3830 @@
+{
+  "meta": {
+    "name": "All Majors",
+    "type": "AllMajors",
+    "publishDate": "2025-03-06T00:46:30.2375025",
+    "academicYear": {
+      "id": 75,
+      "code": "2024-2025",
+      "beginDate": "2024-10-01T00:00:00",
+      "endDate": "2025-10-01T00:00:00",
+      "isOpenForMaintenance": true,
+      "isOpenForPublic": true,
+      "isOpenForReporting": true,
+      "isLocked": false
+    },
+    "catalogYear": {
+      "receivingCatalogYearBegin": 2024,
+      "receivingCatalogYearEnd": 2025,
+      "sendingCatalogYearBegin": 2024,
+      "sendingCatalogYearEnd": 2025
+    },
+    "receivingInstitution": {
+      "id": 204,
+      "code": "CDU",
+      "isCommunityCollege": false,
+      "category": "Independent",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Charles R. Drew University of Medicine and Science",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2024
+        }
+      ],
+      "beginId": 75,
+      "endId": null
+    },
+    "sendingInstitution": {
+      "id": 137,
+      "code": "SMCC    ",
+      "isCommunityCollege": true,
+      "category": "CCC",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Santa Monica College",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2020
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 2016
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 1980
+        }
+      ],
+      "beginId": 31,
+      "endId": null
+    },
+    "document_type": "AllMajors",
+    "downloaded_year_id": 75,
+    "isSuccessful": true,
+    "validationFailure": null
+  },
+  "majors": [
+    {
+      "major": "Biomedical Sciences, B.S.",
+      "university": {
+        "id": 204,
+        "code": "CDU",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Charles R. Drew University of Medicine and Science",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Admission Information",
+        "Important Links"
+      ],
+      "general_texts": [
+        "<ul><li><a href=\"https://www.cdrewu.edu/academics/program/biomedical-sciences/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">About the Bachelor of Science in Biomedical Sciences</a></li><li><a href=\"https://www.cdrewu.edu/academics/program/biomedical-sciences/admission-requirements/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">BMS Admission Requirements</a></li><li><a href=\"https://apply.cdrewu.edu/apply\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Apply to the BMS program</a></li></ul>",
+        "<h2>General Information about the Biomedical Sciences B.S. degree:</h2><ul><li><span style=\"font-size: 16px;\">The Bachelor of Science degree in Biomedical Sciences prepares students for entry into graduate and professional programs in medicine, osteopathic, podiatry, optometry, physical therapy, physician assistant, pharmacy or dentistry. In addition, the BS-BMS program prepares students for master’s and doctoral programs, scientific research, and employment in biomedical laboratories and/or biotech companies. The program offers a multidisciplinary study of health and diseases, and particularly the biological and molecular sciences that constitute the foundation of modern medicine.&nbsp;</span></li><li><span style=\"font-size: 16px;\">The maximum transfer credit: </span><strong style=\"font-size: 16px;\">63 units</strong></li><li><span style=\"font-size: 16px;\">Approximate time to completion: </span><strong style=\"font-size: 16px;\">~8 semesters</strong></li></ul>"
+      ],
+      "requirements": [
+        {
+          "id": "c157ca81-d4be-4c32-8acf-019568d8ea45",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "3e881064-efc6-4be5-33ae-08dd5772c334",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 140L",
+                "prefix": "BMS",
+                "number": "140L",
+                "title": "General Chemistry I w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CHEM 11",
+                    "prefix": "CHEM",
+                    "number": "11",
+                    "title": "General Chemistry I",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 141L",
+                "prefix": "BMS",
+                "number": "141L",
+                "title": "General Chemistry II w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CHEM 12",
+                    "prefix": "CHEM",
+                    "number": "12",
+                    "title": "General Chemistry II",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 210L",
+                "prefix": "BMS",
+                "number": "210L",
+                "title": "Organic Chemistry I w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CHEM 21",
+                    "prefix": "CHEM",
+                    "number": "21",
+                    "title": "Organic Chemistry I",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 211L",
+                "prefix": "BMS",
+                "number": "211L",
+                "title": "Organic Chemistry II w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CHEM 22",
+                    "prefix": "CHEM",
+                    "number": "22",
+                    "title": "Organic Chemistry II",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 303L",
+                "prefix": "BMS",
+                "number": "303L",
+                "title": "Biochemistry w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CHEM 31",
+                    "prefix": "CHEM",
+                    "number": "31",
+                    "title": "Biochemistry I",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 310L",
+                "prefix": "BMS",
+                "number": "310L",
+                "title": "Anatomy & Physiology I w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ANATMY 1",
+                    "prefix": "ANATMY",
+                    "number": "1",
+                    "title": "General Human Anatomy",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 311L",
+                "prefix": "BMS",
+                "number": "311L",
+                "title": "Anatomy & Physiology II",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ANATMY 2",
+                    "prefix": "ANATMY",
+                    "number": "2",
+                    "title": "Advanced Human Anatomy",
+                    "units": 4.0
+                  },
+                  {
+                    "code": "PHYS 3",
+                    "prefix": "PHYS",
+                    "number": "3",
+                    "title": "Human Physiology",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 320L",
+                "prefix": "BMS",
+                "number": "320L",
+                "title": "General Microbiology w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MCRBIO 1",
+                    "prefix": "MCRBIO",
+                    "number": "1",
+                    "title": "Fundamentals of Microbiology",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "a2eb0afb-242e-4168-83e7-019568d8ea45",
+          "area": "Requirements",
+          "position": 2,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Each",
+              "toAmount": 1.0,
+              "areaType": "Areas",
+              "id": "3922a91f-1917-4836-33af-08dd5772c334",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 150",
+                "prefix": "MTH",
+                "number": "150",
+                "title": "Statistics for Research",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 54",
+                    "prefix": "MATH",
+                    "number": "54",
+                    "title": "Elementary Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 130",
+                "prefix": "MTH",
+                "number": "130",
+                "title": "Pre-Calculus",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 2",
+                    "prefix": "MATH",
+                    "number": "2",
+                    "title": "Precalculus",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 230",
+                "prefix": "MTH",
+                "number": "230",
+                "title": "Calculus I",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 7",
+                    "prefix": "MATH",
+                    "number": "7",
+                    "title": "Calculus 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 231",
+                "prefix": "MTH",
+                "number": "231",
+                "title": "Calculus II",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 8",
+                    "prefix": "MATH",
+                    "number": "8",
+                    "title": "Calculus 2",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "d3f73cc3-051b-4ae5-af3e-019568d8ea45",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "a82651f9-1863-4850-33b0-08dd5772c334",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 201",
+                "prefix": "BMS",
+                "number": "201",
+                "title": "Social Justice & Leadership Seminar I",
+                "units": 1.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 365",
+                "prefix": "BMS",
+                "number": "365",
+                "title": "Neuroscience and Behavior",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 450",
+                "prefix": "BMS",
+                "number": "450",
+                "title": "Ethical Issues in Biomedicine",
+                "units": 1.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "c7ed34f9-975e-40c4-8992-019568d8ea45",
+          "area": "Requirements",
+          "position": 4,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "bd540a03-407d-49e7-33b1-08dd5772c334",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 368L",
+                "prefix": "BMS",
+                "number": "368L",
+                "title": "Fundamentals of Biotechnology w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BIOL 30",
+                    "prefix": "BIOL",
+                    "number": "30",
+                    "title": "Fundamentals of Biotechnology 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "57ea94a4-b8f5-4356-bbab-019568d8ea45",
+          "area": "Requirements",
+          "position": 6,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 27,
+            "min_count": 27,
+            "max_count": 27,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 27.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Unit",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "Areas",
+              "id": "a1480e9f-8a00-47b2-33b2-08dd5772c334",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 155",
+                "prefix": "BMS",
+                "number": "155",
+                "title": "Introduction to Physical Therapy",
+                "units": 2.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "COM 113",
+                "prefix": "COM",
+                "number": "113",
+                "title": "Medical Terminology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "HEALTH 61",
+                    "prefix": "HEALTH",
+                    "number": "61",
+                    "title": "Medical Terminology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 260",
+                "prefix": "BMS",
+                "number": "260",
+                "title": "Pharmacy Calculations",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "NTR 220",
+                "prefix": "NTR",
+                "number": "220",
+                "title": "Nutrition",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "NUTR 1",
+                    "prefix": "NUTR",
+                    "number": "1",
+                    "title": "Introduction to Nutrition Science",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 230",
+                "prefix": "MTH",
+                "number": "230",
+                "title": "Calculus I",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 7",
+                    "prefix": "MATH",
+                    "number": "7",
+                    "title": "Calculus 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 231",
+                "prefix": "MTH",
+                "number": "231",
+                "title": "Calculus II",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 8",
+                    "prefix": "MATH",
+                    "number": "8",
+                    "title": "Calculus 2",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PHY 250",
+                "prefix": "PHY",
+                "number": "250",
+                "title": "General Physics I with Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PHYSCS 6",
+                    "prefix": "PHYSCS",
+                    "number": "6",
+                    "title": "General Physics 1 with Lab",
+                    "units": 4.0
+                  },
+                  {
+                    "code": "PHYSCS 8",
+                    "prefix": "PHYSCS",
+                    "number": "8",
+                    "title": "Calculus-Based Physics 1 with Lab",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PHY 251",
+                "prefix": "PHY",
+                "number": "251",
+                "title": "General Physics II w/ Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PHYSCS 7",
+                    "prefix": "PHYSCS",
+                    "number": "7",
+                    "title": "General Physics 2 with Lab",
+                    "units": 4.0
+                  },
+                  {
+                    "code": "PHYSCS 9",
+                    "prefix": "PHYSCS",
+                    "number": "9",
+                    "title": "Calculus-Based Physics 2 with Lab",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 330",
+                "prefix": "BMS",
+                "number": "330",
+                "title": "Histology & Histopathology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 333",
+                "prefix": "BMS",
+                "number": "333",
+                "title": "Cell and Molecular Biology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 350",
+                "prefix": "BMS",
+                "number": "350",
+                "title": "Fundamentals of Kinesiology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 368L",
+                "prefix": "BMS",
+                "number": "368L",
+                "title": "Fundamentals of Biotechnology w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BIOL 30",
+                    "prefix": "BIOL",
+                    "number": "30",
+                    "title": "Fundamentals of Biotechnology 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 401",
+                "prefix": "BMS",
+                "number": "401",
+                "title": "Pharmacology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "NURSNG 17",
+                    "prefix": "NURSNG",
+                    "number": "17",
+                    "title": "Pharmacological Aspects of Nursing",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 405L",
+                "prefix": "BMS",
+                "number": "405L",
+                "title": "Immunology w/Lab",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 410",
+                "prefix": "BMS",
+                "number": "410",
+                "title": "Human Genetics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 425",
+                "prefix": "BMS",
+                "number": "425",
+                "title": "Human Embryology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 444",
+                "prefix": "BMS",
+                "number": "444",
+                "title": "Clinical Immunology & Hematology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 453",
+                "prefix": "BMS",
+                "number": "453",
+                "title": "Biophysics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 475",
+                "prefix": "BMS",
+                "number": "475",
+                "title": "Evolutionary Medicine",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 480",
+                "prefix": "BMS",
+                "number": "480",
+                "title": "Global Oral Health",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 400",
+                "prefix": "BMS",
+                "number": "400",
+                "title": "Leadership Seminar II",
+                "units": 1.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Prelicensure Nursing, B.S. (BSN)",
+      "university": {
+        "id": 204,
+        "code": "CDU",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Charles R. Drew University of Medicine and Science",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Pre-Nursing Track",
+        "Important Links"
+      ],
+      "general_texts": [
+        "<h1><strong style=\"font-size: 16px;\">This program is ideal for two types of students:</strong></h1><ol><li><span style=\"font-size: 16px;\">Students who have not yet completed 52 units of transferable college coursework. This unique track, ideal for first-time college students, provides the foundational coursework and prerequisites necessary for upper division nursing coursework.</span></li><li><span style=\"font-size: 16px;\">Students who have completed most of the prerequisites and are almost ready to begin upper division nursing coursework.</span></li></ol><p><br></p><h1><strong style=\"font-size: 16px;\">In-residency coursework:</strong></h1><ul><li><span style=\"font-size: 16px;\">Starting in Fall 2025, pre-nursing students must complete </span><strong style=\"font-size: 16px;\">two </strong><span style=\"font-size: 16px;\">in-residency courses as part of their prerequisites in order to transition into upper division nursing coursework.</span></li></ul><p><br></p><h1><strong style=\"font-size: 16px;\">Prerequisites that can be transferred: </strong></h1><ul><li>College Algebra (3 units)</li><li>Intro/General Chemistry w/ Lab (4 units)</li><li>Intro/General Microbiology w/ Lab (4 units)</li><li>Human Anatomy w/ Lab (4 units)</li><li>Human Physiology w/ Lab (4 units)</li><li>Intro/General Biology w/o Lab (4 units)</li><li>English Composition (3 units)</li><li>English Critical Thinking (3 units)</li><li>Public Speaking (3 units)</li><li>Intro/General to Sociology (3 units)</li><li>Intro/General Psychology (3 units)</li><li>Creative Arts (3 units)</li><li>1. Humanities (3 units)</li><li>2. Humanities (3 units)</li></ul><p><br></p><p><br></p>",
+        "<ul><li><a href=\"https://www.cdrewu.edu/academics/program/bachelor-of-science-in-nursing/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">About the Bachelor of Science in Nursing</a></li><li><a href=\"https://nursingcas.liaisoncas.org/apply/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Apply to the Pre-Nursing Track</a></li></ul>"
+      ],
+      "requirements": [
+        {
+          "id": "8dd36f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "bfaf504f-a2d0-4467-c550-08dcac07b1b6",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 126",
+                "prefix": "MTH",
+                "number": "126",
+                "title": "College Algebra",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 4",
+                    "prefix": "MATH",
+                    "number": "4",
+                    "title": "College Algebra for STEM Majors",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CHM 100",
+                "prefix": "CHM",
+                "number": "100",
+                "title": "Basic Chemistry",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CHEM 10",
+                    "prefix": "CHEM",
+                    "number": "10",
+                    "title": "Introductory General Chemistry",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 320L",
+                "prefix": "BMS",
+                "number": "320L",
+                "title": "General Microbiology w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MCRBIO 1",
+                    "prefix": "MCRBIO",
+                    "number": "1",
+                    "title": "Fundamentals of Microbiology",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 310L",
+                "prefix": "BMS",
+                "number": "310L",
+                "title": "Anatomy & Physiology I w/Lab",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ANATMY 1",
+                    "prefix": "ANATMY",
+                    "number": "1",
+                    "title": "General Human Anatomy",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 311L",
+                "prefix": "BMS",
+                "number": "311L",
+                "title": "Anatomy & Physiology II",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ANATMY 2",
+                    "prefix": "ANATMY",
+                    "number": "2",
+                    "title": "Advanced Human Anatomy",
+                    "units": 4.0
+                  },
+                  {
+                    "code": "PHYS 3",
+                    "prefix": "PHYS",
+                    "number": "3",
+                    "title": "Human Physiology",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BMS 100",
+                "prefix": "BMS",
+                "number": "100",
+                "title": "Human Biology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BIOL 2",
+                    "prefix": "BIOL",
+                    "number": "2",
+                    "title": "Human Biology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "SOC 141",
+                "prefix": "SOC",
+                "number": "141",
+                "title": "Introduction to Sociology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "SOCIOL 1",
+                    "prefix": "SOCIOL",
+                    "number": "1",
+                    "title": "Introduction to Sociology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 111",
+                "prefix": "ENG",
+                "number": "111",
+                "title": "English Composition",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL 1",
+                    "prefix": "ENGL",
+                    "number": "1",
+                    "title": "Reading and Composition I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 1D",
+                    "prefix": "ENGL",
+                    "number": "1D",
+                    "title": "Reading and Composition 1--Diversity",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 112",
+                "prefix": "ENG",
+                "number": "112",
+                "title": "Critical Thinking and Text Analysis",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL 2",
+                    "prefix": "ENGL",
+                    "number": "2",
+                    "title": "Critical Analysis and Intermediate Composition",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 31",
+                    "prefix": "ENGL",
+                    "number": "31",
+                    "title": "Advanced Composition",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "COM ST 21",
+                    "prefix": "COM ST",
+                    "number": "21",
+                    "title": "Argumentation",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "PHILOS 7",
+                    "prefix": "PHILOS",
+                    "number": "7",
+                    "title": "Logic and Critical Thinking",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "PHILOS 9",
+                    "prefix": "PHILOS",
+                    "number": "9",
+                    "title": "Symbolic Logic",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "COM 111",
+                "prefix": "COM",
+                "number": "111",
+                "title": "Public Speaking",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "COM ST 11",
+                    "prefix": "COM ST",
+                    "number": "11",
+                    "title": "Elements of Public Speaking",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "COM ST 12",
+                    "prefix": "COM ST",
+                    "number": "12",
+                    "title": "Persuasion",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "COM ST 16",
+                    "prefix": "COM ST",
+                    "number": "16",
+                    "title": "Fundamentals of Small Group Discussion",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "COM ST 21",
+                    "prefix": "COM ST",
+                    "number": "21",
+                    "title": "Argumentation",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "COM ST 35",
+                    "prefix": "COM ST",
+                    "number": "35",
+                    "title": "Interpersonal Communication",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 141",
+                "prefix": "PSY",
+                "number": "141",
+                "title": "General Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 1",
+                    "prefix": "PSYCH",
+                    "number": "1",
+                    "title": "General Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ART 131",
+                "prefix": "ART",
+                "number": "131",
+                "title": "Health and Creative Arts",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "AHIS 1",
+                    "prefix": "AHIS",
+                    "number": "1",
+                    "title": "Western Art History I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "AHIS 2",
+                    "prefix": "AHIS",
+                    "number": "2",
+                    "title": "Western Art History II",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "AHIS 3",
+                    "prefix": "AHIS",
+                    "number": "3",
+                    "title": "Global Art History Since 1800",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "AHIS 5",
+                    "prefix": "AHIS",
+                    "number": "5",
+                    "title": "Latin American Art History 1",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "AHIS 6",
+                    "prefix": "AHIS",
+                    "number": "6",
+                    "title": "Latin American Art History 2",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "AHIS 11",
+                    "prefix": "AHIS",
+                    "number": "11",
+                    "title": "Art Appreciation: Introduction to Global Visual Culture",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "AHIS 15",
+                    "prefix": "AHIS",
+                    "number": "15",
+                    "title": "Mexican Art History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "AHIS 17",
+                    "prefix": "AHIS",
+                    "number": "17",
+                    "title": "Arts of Asia",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "AHIS 18",
+                    "prefix": "AHIS",
+                    "number": "18",
+                    "title": "Introduction to African Art History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "AHIS 71",
+                    "prefix": "AHIS",
+                    "number": "71",
+                    "title": "African-American Art History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "AHIS 72",
+                    "prefix": "AHIS",
+                    "number": "72",
+                    "title": "American Art History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 10A",
+                    "prefix": "ART",
+                    "number": "10A",
+                    "title": "Design I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 10B",
+                    "prefix": "ART",
+                    "number": "10B",
+                    "title": "Design Theory & Practice",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 10C",
+                    "prefix": "ART",
+                    "number": "10C",
+                    "title": "Digital Media",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 13",
+                    "prefix": "ART",
+                    "number": "13",
+                    "title": "Form and Space: Introduction to 3D Design",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 15",
+                    "prefix": "ART",
+                    "number": "15",
+                    "title": "Lettering",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 17A",
+                    "prefix": "ART",
+                    "number": "17A",
+                    "title": "3-D Jewelry Design I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 20A",
+                    "prefix": "ART",
+                    "number": "20A",
+                    "title": "Drawing I-Introduction to Drawing",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 17B",
+                    "prefix": "ART",
+                    "number": "17B",
+                    "title": "3D Jewelry Design II",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 20B",
+                    "prefix": "ART",
+                    "number": "20B",
+                    "title": "Drawing II-Drawing with Color",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 20C",
+                    "prefix": "ART",
+                    "number": "20C",
+                    "title": "Digital Drawing",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 21A",
+                    "prefix": "ART",
+                    "number": "21A",
+                    "title": "Figure Drawing I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 21B",
+                    "prefix": "ART",
+                    "number": "21B",
+                    "title": "Figure Drawing II",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 30A",
+                    "prefix": "ART",
+                    "number": "30A",
+                    "title": "Beginning Watercolor Painting I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 30B",
+                    "prefix": "ART",
+                    "number": "30B",
+                    "title": "Watercolor Painting II",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 21C",
+                    "prefix": "ART",
+                    "number": "21C",
+                    "title": "Figure Drawing for Portfolio Development",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 30C",
+                    "prefix": "ART",
+                    "number": "30C",
+                    "title": "Acrylic Painting Techniques",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 31",
+                    "prefix": "ART",
+                    "number": "31",
+                    "title": "Beginning Oil Painting",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 32",
+                    "prefix": "ART",
+                    "number": "32",
+                    "title": "Intermediate Painting",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 33",
+                    "prefix": "ART",
+                    "number": "33",
+                    "title": "Advanced Painting",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 34A",
+                    "prefix": "ART",
+                    "number": "34A",
+                    "title": "Contemporary Art Theory and Practice",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 34B",
+                    "prefix": "ART",
+                    "number": "34B",
+                    "title": "Contemporary Art Theory and Practice",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 35",
+                    "prefix": "ART",
+                    "number": "35",
+                    "title": "Airbrush Techniques",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 40A",
+                    "prefix": "ART",
+                    "number": "40A",
+                    "title": "Sculpture Fundamentals",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 40B",
+                    "prefix": "ART",
+                    "number": "40B",
+                    "title": "Sculpture Explorations",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 40C",
+                    "prefix": "ART",
+                    "number": "40C",
+                    "title": "Advanced Sculpture ",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 41A",
+                    "prefix": "ART",
+                    "number": "41A",
+                    "title": "Figure Modeling Sculpture I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 41B",
+                    "prefix": "ART",
+                    "number": "41B",
+                    "title": "Figure Modeling Sculpture II",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 43A",
+                    "prefix": "ART",
+                    "number": "43A",
+                    "title": "Glass Sculpture I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 43B",
+                    "prefix": "ART",
+                    "number": "43B",
+                    "title": "Glass Sculpture II",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 52A",
+                    "prefix": "ART",
+                    "number": "52A",
+                    "title": "Introduction to Ceramics",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 52B",
+                    "prefix": "ART",
+                    "number": "52B",
+                    "title": "Ceramics: Hand Building",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 52C",
+                    "prefix": "ART",
+                    "number": "52C",
+                    "title": "Ceramics III",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 53A",
+                    "prefix": "ART",
+                    "number": "53A",
+                    "title": "Introduction to Wheel Throwing",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 60",
+                    "prefix": "ART",
+                    "number": "60",
+                    "title": "Introduction to Printmaking",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 60B",
+                    "prefix": "ART",
+                    "number": "60B",
+                    "title": "Introduction to Digital Printing",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 61A",
+                    "prefix": "ART",
+                    "number": "61A",
+                    "title": "Etching",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 61B",
+                    "prefix": "ART",
+                    "number": "61B",
+                    "title": "Advanced Etching",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 62",
+                    "prefix": "ART",
+                    "number": "62",
+                    "title": "Serigraphy (Silkscreen)",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 63",
+                    "prefix": "ART",
+                    "number": "63",
+                    "title": "Lithography",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ART 74",
+                    "prefix": "ART",
+                    "number": "74",
+                    "title": "Introduction to Creative Coding and Generative Art",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "TH ART 2",
+                    "prefix": "TH ART",
+                    "number": "2",
+                    "title": "Introduction to the Theater",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "TH ART 5",
+                    "prefix": "TH ART",
+                    "number": "5",
+                    "title": "History of World Theatre",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "TH ART 20",
+                    "prefix": "TH ART",
+                    "number": "20",
+                    "title": "Stagecraft",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "TH ART 21",
+                    "prefix": "TH ART",
+                    "number": "21",
+                    "title": "Scenic Painting",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "TH ART 32",
+                    "prefix": "TH ART",
+                    "number": "32",
+                    "title": "Scenic Design",
+                    "units": 2.0
+                  },
+                  {
+                    "code": "TH ART 41",
+                    "prefix": "TH ART",
+                    "number": "41",
+                    "title": "Acting I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "TH ART 45",
+                    "prefix": "TH ART",
+                    "number": "45",
+                    "title": "Musical Theatre Workshop",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "FILM 1",
+                    "prefix": "FILM",
+                    "number": "1",
+                    "title": "Film Appreciation: Introduction to Cinema",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "FILM 2",
+                    "prefix": "FILM",
+                    "number": "2",
+                    "title": "History of Motion Pictures",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "FILM 5",
+                    "prefix": "FILM",
+                    "number": "5",
+                    "title": "Film and Society",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "FILM 6",
+                    "prefix": "FILM",
+                    "number": "6",
+                    "title": "Women in Film",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "FILM 7",
+                    "prefix": "FILM",
+                    "number": "7",
+                    "title": "American Cinema: Crossing Cultures",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "FILM 8",
+                    "prefix": "FILM",
+                    "number": "8",
+                    "title": "The Popular Film Genres",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "FILM 9",
+                    "prefix": "FILM",
+                    "number": "9",
+                    "title": "The Great Film Makers",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "MUSIC 29",
+                    "prefix": "MUSIC",
+                    "number": "29",
+                    "title": "A World of Music",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "MUSIC 33",
+                    "prefix": "MUSIC",
+                    "number": "33",
+                    "title": "Jazz in American Culture",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "MUSIC 36",
+                    "prefix": "MUSIC",
+                    "number": "36",
+                    "title": "History of Rock Music",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "MUSIC 37",
+                    "prefix": "MUSIC",
+                    "number": "37",
+                    "title": "Music in American Culture",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "MUSIC 39",
+                    "prefix": "MUSIC",
+                    "number": "39",
+                    "title": "History of Opera",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "MUSIC 66",
+                    "prefix": "MUSIC",
+                    "number": "66",
+                    "title": "Fundamentals of Music and Elementary Piano",
+                    "units": 5.0
+                  },
+                  {
+                    "code": "MUSIC 1",
+                    "prefix": "MUSIC",
+                    "number": "1",
+                    "title": "Fundamentals of Music",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "MUSIC 30",
+                    "prefix": "MUSIC",
+                    "number": "30",
+                    "title": "Music History I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "MUSIC 31",
+                    "prefix": "MUSIC",
+                    "number": "31",
+                    "title": "Music History II",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "MUSIC 32",
+                    "prefix": "MUSIC",
+                    "number": "32",
+                    "title": "Appreciation of Music",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "DANCE 2",
+                    "prefix": "DANCE",
+                    "number": "2",
+                    "title": "Dance in American Culture",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "DANCE 5",
+                    "prefix": "DANCE",
+                    "number": "5",
+                    "title": "Dance History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "DANCE 6",
+                    "prefix": "DANCE",
+                    "number": "6",
+                    "title": "20th and 21st Century Dance History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "DANCE 7",
+                    "prefix": "DANCE",
+                    "number": "7",
+                    "title": "Music for Dance",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "HUM 231",
+                "prefix": "HUM",
+                "number": "231",
+                "title": "Introduction to Humanities I",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "HUM 232",
+                "prefix": "HUM",
+                "number": "232",
+                "title": "Introduction to Humanities II",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Psychology, B.S.",
+      "university": {
+        "id": 204,
+        "code": "CDU",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Charles R. Drew University of Medicine and Science",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Admission Information",
+        "Important Links"
+      ],
+      "general_texts": [
+        "<h2>General Information about the Psychology B.S. degree:</h2><ul><li><span style=\"font-size: 16px;\">The Bachelor of Science in Psychology with an Emphasis in Community Counseling program equips students for roles in mental and behavioral health counseling within diverse and underserved communities. This program prepares students not only for immediate employment in mental health fields but also provides a strong foundation for graduate studies in psychology, public health, social work, education, and various medical and nursing programs. Additionally, coursework may fulfill requirements for a range of healthcare certifications and advanced degrees.</span></li><li><span style=\"font-size: 16px;\">Approximate time to completion: </span><strong style=\"font-size: 16px;\">~8 semesters</strong></li></ul><p><br></p><h2><span style=\"font-size: 16px;\">Curriculum and Transfer credit information:</span></h2><ul><li><span style=\"font-size: 16px;\">The program includes 12 units of psychology elective coursework outside of the required program courses (can be transferred)</span></li><li><span style=\"font-size: 16px;\">The program includes 20 units of general elective credit (can be transferred)</span></li><li><span style=\"font-size: 16px;\">Maximum transfer credit: </span><strong style=\"font-size: 16px;\">60 units</strong></li></ul>",
+        "<ul><li><a href=\"https://www.cdrewu.edu/academics/program/bachelor-of-science-in-psychology/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">About the Bachelor of Science in Psychology</a></li><li><a href=\"https://www.cdrewu.edu/academics/program/bachelor-of-science-in-psychology/admission-requirements/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">BS in Psychology Admission Requirements</a></li><li><a href=\"https://www.cdrewu.edu/apply/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Apply to BS Psychology</a></li></ul>"
+      ],
+      "requirements": [
+        {
+          "id": "a6cb6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "And",
+              "id": "d18b2e7c-8616-493a-accc-08dcabf35764",
+              "selectionType": "Select"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 141",
+                "prefix": "PSY",
+                "number": "141",
+                "title": "General Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 1",
+                    "prefix": "PSYCH",
+                    "number": "1",
+                    "title": "General Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 180",
+                "prefix": "PSY",
+                "number": "180",
+                "title": "Psychology of Addiction",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 210",
+                "prefix": "PSY",
+                "number": "210",
+                "title": "Counseling Theories",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 200",
+                "prefix": "PSY",
+                "number": "200",
+                "title": "Physiology & Pharmacology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 211",
+                "prefix": "PSY",
+                "number": "211",
+                "title": "Coun Tecchniques: Indiv, Families, Grps",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 300",
+                "prefix": "PSY",
+                "number": "300",
+                "title": "Law & Ethics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 310",
+                "prefix": "PSY",
+                "number": "310",
+                "title": "Personal & Professional Development",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 350",
+                "prefix": "PSY",
+                "number": "350",
+                "title": "Psychopathology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 14",
+                    "prefix": "PSYCH",
+                    "number": "14",
+                    "title": "Abnormal Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 351",
+                "prefix": "PSY",
+                "number": "351",
+                "title": "Human Development",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 19",
+                    "prefix": "PSYCH",
+                    "number": "19",
+                    "title": "Lifespan Human Development",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 415",
+                "prefix": "PSY",
+                "number": "415",
+                "title": "Human Sexuality",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 25",
+                    "prefix": "PSYCH",
+                    "number": "25",
+                    "title": "Human Sexuality",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 425",
+                "prefix": "PSY",
+                "number": "425",
+                "title": "Health Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 460",
+                "prefix": "PSY",
+                "number": "460",
+                "title": "Community Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 8",
+                    "prefix": "PSYCH",
+                    "number": "8",
+                    "title": "Community Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Public Health, B.S.",
+      "university": {
+        "id": 204,
+        "code": "CDU",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Charles R. Drew University of Medicine and Science",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Admission Information",
+        "Important Links"
+      ],
+      "general_texts": [
+        "<h2>General information about the Bachelor of Science in Public Health Program</h2><ul><li><span style=\"font-size: 16px;\">The CDU Bachelor of Science in Public Health (BSPH) program in Urban Health Disparities provides the next generation of scholars, public health practitioners, and future clinicians a rich educational foundation which integrates theoretical, applied, and social justice knowledge to public health research, practice, and policy.&nbsp;</span></li><li><span style=\"font-size: 16px;\">The BSPH program offers a public health curriculum through a social justice lens that integrates the foundational public health domains, knowledge, skills, and research experience. The BSPH program curriculum enhances our graduates’ ability to translate and apply the newly gained public health knowledge and skills to public health practice, graduate and clinical programs. Our program faculty provides a supportive and accessible learning environment to engage critically with course materials and share opportunities to gain hands-on experience.</span></li><li><span style=\"font-size: 16px;\">Maximum time for degree completion for freshmen is 8 Years&nbsp;</span></li><li><span style=\"font-size: 16px;\">Maximum transfer credit: </span><strong style=\"font-size: 16px;\">75 units</strong></li></ul>",
+        "<ul><li><a href=\"https://www.cdrewu.edu/academics/program/bachelor-of-science-in-public-health/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">About the Bachelor of Science in Public Health Program</a></li><li><a href=\"https://www.cdrewu.edu/academics/program/bachelor-of-science-in-public-health/admission-requirements/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Admission Requirements</a></li><li><a href=\"https://www.cdrewu.edu/apply/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Apply to BS in Public Health</a></li></ul>"
+      ],
+      "requirements": []
+    },
+    {
+      "major": "Radiologic Technology, A.S.",
+      "university": {
+        "id": 204,
+        "code": "CDU",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Charles R. Drew University of Medicine and Science",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Admission Information",
+        "Important Links"
+      ],
+      "general_texts": [
+        "<h2>General Information about the Associate of Science, Radiologic Technology Program</h2><ul><li><span style=\"font-size: 16px;\">The Associate of Science in Radiologic Technology program is a 21-month program that combines didactic instruction with practical experience, providing a sound foundation on which to build a career. Student radiographers are educated in the art and science of using radiation to provide images of tissues, organs, bones and blood vessels of the human body. Our program offers students the unique opportunity to experience all facets of radiology imaging. The core program revolves around clinical and didactic training.</span></li><li><span style=\"font-size: 16px;\">Admission Requirements: </span><strong style=\"font-size: 16px;\">Completion of Medical Terminology and Anatomy &amp; Physiology</strong></li><li><strong style=\"font-size: 16px;\">Transfer Credit: </strong><span style=\"font-size: 16px;\">Students are encouraged to transfer in the general education courses required for the AS Radiologic Technology Program. More information can be found at the links below.</span></li></ul>",
+        "<ul><li><a href=\"https://www.cdrewu.edu/academics/program/associate-of-science-radiologic-technology/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">About the Associate of Science, Radiologic Technology Program</a></li><li><a href=\"https://www.cdrewu.edu/academics/program/associate-of-science-radiologic-technology/admission-requirements/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Admission Requirements</a></li><li><a href=\"https://www.cdrewu.edu/apply/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Apply to AS in Radiologic Technology</a></li></ul>"
+      ],
+      "requirements": [
+        {
+          "id": "1ed46f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "And",
+              "id": "9ce04d53-a30f-444f-c55c-08dcac07b1b6",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CPU 125",
+                "prefix": "CPU",
+                "number": "125",
+                "title": "Introduction to Computer Applications",
+                "units": 2.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CIS 1",
+                    "prefix": "CIS",
+                    "number": "1",
+                    "title": "Introduction to Computer Information Systems",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ILR 101",
+                "prefix": "ILR",
+                "number": "101",
+                "title": "Information Literacy & Research Methods",
+                "units": 1.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSPH 101",
+                "prefix": "BSPH",
+                "number": "101",
+                "title": "Intro to Public Health",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSPH 303",
+                "prefix": "BSPH",
+                "number": "303",
+                "title": "Comparative Health Systems",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSPH 401",
+                "prefix": "BSPH",
+                "number": "401",
+                "title": "Health Policy, Leadership & Ethics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSPH 402",
+                "prefix": "BSPH",
+                "number": "402",
+                "title": "Ethnic Studies in Public Health",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "COM 231",
+                "prefix": "COM",
+                "number": "231",
+                "title": "Spanish for Healthcare Professionals",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "SPAN 3",
+                    "prefix": "SPAN",
+                    "number": "3",
+                    "title": "Intermediate Spanish I",
+                    "units": 5.0
+                  },
+                  {
+                    "code": "SPAN 4",
+                    "prefix": "SPAN",
+                    "number": "4",
+                    "title": "Intermediate Spanish II",
+                    "units": 5.0
+                  },
+                  {
+                    "code": "SPAN 25",
+                    "prefix": "SPAN",
+                    "number": "25",
+                    "title": "Spanish for the Professions",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "COM 315",
+                "prefix": "COM",
+                "number": "315",
+                "title": "Cross Cultural Comm in Healthcare",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "COM ST 37",
+                    "prefix": "COM ST",
+                    "number": "37",
+                    "title": "Intercultural Communication",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 314",
+                "prefix": "ENG",
+                "number": "314",
+                "title": "Writing for Health Professionals",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "HUM 233",
+                "prefix": "HUM",
+                "number": "233",
+                "title": "Cultural Diversity in Contemporary Lit",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL 3",
+                    "prefix": "ENGL",
+                    "number": "3",
+                    "title": "World Literature 1",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 4",
+                    "prefix": "ENGL",
+                    "number": "4",
+                    "title": "World Literature 2",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 5",
+                    "prefix": "ENGL",
+                    "number": "5",
+                    "title": "British Literature 1",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 6",
+                    "prefix": "ENGL",
+                    "number": "6",
+                    "title": "British Literature 2",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 7",
+                    "prefix": "ENGL",
+                    "number": "7",
+                    "title": "American Literature 1",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 8",
+                    "prefix": "ENGL",
+                    "number": "8",
+                    "title": "American Literature 2",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 9",
+                    "prefix": "ENGL",
+                    "number": "9",
+                    "title": "Literature of California",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 17",
+                    "prefix": "ENGL",
+                    "number": "17",
+                    "title": "Contemporary British Literature",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 27",
+                    "prefix": "ENGL",
+                    "number": "27",
+                    "title": "Latin American Literature",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 32",
+                    "prefix": "ENGL",
+                    "number": "32",
+                    "title": "History and Literature of Contemporary Africa",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 18",
+                    "prefix": "ENGL",
+                    "number": "18",
+                    "title": "Children's Literature",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 15",
+                    "prefix": "ENGL",
+                    "number": "15",
+                    "title": "Shakespeare",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 14",
+                    "prefix": "ENGL",
+                    "number": "14",
+                    "title": "Contemporary American Literature",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 10",
+                    "prefix": "ENGL",
+                    "number": "10",
+                    "title": "Ethnic Literature of the United States",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 34",
+                    "prefix": "ENGL",
+                    "number": "34",
+                    "title": "Afro-American Literature",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 38",
+                    "prefix": "ENGL",
+                    "number": "38",
+                    "title": "Literature of the Absurd",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 40",
+                    "prefix": "ENGL",
+                    "number": "40",
+                    "title": "Asian Literature",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 41",
+                    "prefix": "ENGL",
+                    "number": "41",
+                    "title": "Introduction to Asian American Literature",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 45",
+                    "prefix": "ENGL",
+                    "number": "45",
+                    "title": "Asian Film, Literature, and Society",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 49",
+                    "prefix": "ENGL",
+                    "number": "49",
+                    "title": "Asian Mythology",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 50",
+                    "prefix": "ENGL",
+                    "number": "50",
+                    "title": "Mythology",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 51",
+                    "prefix": "ENGL",
+                    "number": "51",
+                    "title": "Literature of the Bible: Old Testament",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 52",
+                    "prefix": "ENGL",
+                    "number": "52",
+                    "title": "Literature of the Bible: New Testament",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 53",
+                    "prefix": "ENGL",
+                    "number": "53",
+                    "title": "Latino Literature in the United States",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 54",
+                    "prefix": "ENGL",
+                    "number": "54",
+                    "title": "Indigenous Literatrues of North America",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 55",
+                    "prefix": "ENGL",
+                    "number": "55",
+                    "title": "Modern Drama",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 56",
+                    "prefix": "ENGL",
+                    "number": "56",
+                    "title": "Twentieth Century European Literature",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 57",
+                    "prefix": "ENGL",
+                    "number": "57",
+                    "title": "Latin American Literature",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 58",
+                    "prefix": "ENGL",
+                    "number": "58",
+                    "title": "Literature of Mexico",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 59",
+                    "prefix": "ENGL",
+                    "number": "59",
+                    "title": "Lesbian and Gay Literature",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 61",
+                    "prefix": "ENGL",
+                    "number": "61",
+                    "title": "Introduction to the Fairy Tale",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 62",
+                    "prefix": "ENGL",
+                    "number": "62",
+                    "title": "Crime Fiction in a Global Context",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 63",
+                    "prefix": "ENGL",
+                    "number": "63",
+                    "title": "Science Fiction: Worlds Within Worlds",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 64",
+                    "prefix": "ENGL",
+                    "number": "64",
+                    "title": "Graphic Literature",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "HUM 330",
+                "prefix": "HUM",
+                "number": "330",
+                "title": "Health Humanities Philosophy of Health",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "HUM 335",
+                "prefix": "HUM",
+                "number": "335",
+                "title": "Literature of Health",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 180",
+                "prefix": "PSY",
+                "number": "180",
+                "title": "Psychology of Addiction",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 350",
+                "prefix": "PSY",
+                "number": "350",
+                "title": "Psychopathology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 14",
+                    "prefix": "PSYCH",
+                    "number": "14",
+                    "title": "Abnormal Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 351",
+                "prefix": "PSY",
+                "number": "351",
+                "title": "Human Development",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 19",
+                    "prefix": "PSYCH",
+                    "number": "19",
+                    "title": "Lifespan Human Development",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 415",
+                "prefix": "PSY",
+                "number": "415",
+                "title": "Human Sexuality",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 25",
+                    "prefix": "PSYCH",
+                    "number": "25",
+                    "title": "Human Sexuality",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 425",
+                "prefix": "PSY",
+                "number": "425",
+                "title": "Health Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 460",
+                "prefix": "PSY",
+                "number": "460",
+                "title": "Community Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 8",
+                    "prefix": "PSYCH",
+                    "number": "8",
+                    "title": "Community Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 111",
+                "prefix": "ENG",
+                "number": "111",
+                "title": "English Composition",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL 1",
+                    "prefix": "ENGL",
+                    "number": "1",
+                    "title": "Reading and Composition I",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 1D",
+                    "prefix": "ENGL",
+                    "number": "1D",
+                    "title": "Reading and Composition 1--Diversity",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 112",
+                "prefix": "ENG",
+                "number": "112",
+                "title": "Critical Thinking and Text Analysis",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL 2",
+                    "prefix": "ENGL",
+                    "number": "2",
+                    "title": "Critical Analysis and Intermediate Composition",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "ENGL 31",
+                    "prefix": "ENGL",
+                    "number": "31",
+                    "title": "Advanced Composition",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "COM ST 21",
+                    "prefix": "COM ST",
+                    "number": "21",
+                    "title": "Argumentation",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "PHILOS 7",
+                    "prefix": "PHILOS",
+                    "number": "7",
+                    "title": "Logic and Critical Thinking",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "PHILOS 9",
+                    "prefix": "PHILOS",
+                    "number": "9",
+                    "title": "Symbolic Logic",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "COM 111",
+                "prefix": "COM",
+                "number": "111",
+                "title": "Public Speaking",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "COM ST 11",
+                    "prefix": "COM ST",
+                    "number": "11",
+                    "title": "Elements of Public Speaking",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "COM ST 12",
+                    "prefix": "COM ST",
+                    "number": "12",
+                    "title": "Persuasion",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "COM ST 16",
+                    "prefix": "COM ST",
+                    "number": "16",
+                    "title": "Fundamentals of Small Group Discussion",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "COM ST 21",
+                    "prefix": "COM ST",
+                    "number": "21",
+                    "title": "Argumentation",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "COM ST 35",
+                    "prefix": "COM ST",
+                    "number": "35",
+                    "title": "Interpersonal Communication",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 126",
+                "prefix": "MTH",
+                "number": "126",
+                "title": "College Algebra",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 4",
+                    "prefix": "MATH",
+                    "number": "4",
+                    "title": "College Algebra for STEM Majors",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 130",
+                "prefix": "MTH",
+                "number": "130",
+                "title": "Pre-Calculus",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 2",
+                    "prefix": "MATH",
+                    "number": "2",
+                    "title": "Precalculus",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 150",
+                "prefix": "MTH",
+                "number": "150",
+                "title": "Statistics for Research",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 54",
+                    "prefix": "MATH",
+                    "number": "54",
+                    "title": "Elementary Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "SOC 141",
+                "prefix": "SOC",
+                "number": "141",
+                "title": "Introduction to Sociology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "SOCIOL 1",
+                    "prefix": "SOCIOL",
+                    "number": "1",
+                    "title": "Introduction to Sociology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 415",
+                "prefix": "PSY",
+                "number": "415",
+                "title": "Human Sexuality",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 25",
+                    "prefix": "PSYCH",
+                    "number": "25",
+                    "title": "Human Sexuality",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 425",
+                "prefix": "PSY",
+                "number": "425",
+                "title": "Health Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 350",
+                "prefix": "PSY",
+                "number": "350",
+                "title": "Psychopathology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 14",
+                    "prefix": "PSYCH",
+                    "number": "14",
+                    "title": "Abnormal Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "HIS 141",
+                "prefix": "HIS",
+                "number": "141",
+                "title": "United States History",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "HIST 11",
+                    "prefix": "HIST",
+                    "number": "11",
+                    "title": "United States History through Reconstruction",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 12",
+                    "prefix": "HIST",
+                    "number": "12",
+                    "title": "United States History since Reconstruction",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 13",
+                    "prefix": "HIST",
+                    "number": "13",
+                    "title": "United States History after 1945",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 14",
+                    "prefix": "HIST",
+                    "number": "14",
+                    "title": "U.S. Environmental History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 15",
+                    "prefix": "HIST",
+                    "number": "15",
+                    "title": "Economic History of the United States",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 16",
+                    "prefix": "HIST",
+                    "number": "16",
+                    "title": "African-American History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 20",
+                    "prefix": "HIST",
+                    "number": "20",
+                    "title": "History of California",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 51",
+                    "prefix": "HIST",
+                    "number": "51",
+                    "title": "LGBTQ U.S. History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 43",
+                    "prefix": "HIST",
+                    "number": "43",
+                    "title": "Mexican-American History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 42",
+                    "prefix": "HIST",
+                    "number": "42",
+                    "title": "The Latina/o Experience in the United States",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 41",
+                    "prefix": "HIST",
+                    "number": "41",
+                    "title": "Native American History",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "HIST 52",
+                    "prefix": "HIST",
+                    "number": "52",
+                    "title": "The History of Women in American Culture",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "POL 141",
+                "prefix": "POL",
+                "number": "141",
+                "title": "US Government",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "POL SC 1",
+                    "prefix": "POL SC",
+                    "number": "1",
+                    "title": "National and California Government",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "POL SC 2",
+                    "prefix": "POL SC",
+                    "number": "2",
+                    "title": "Comparative Government and Politics",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "POL SC 3",
+                    "prefix": "POL SC",
+                    "number": "3",
+                    "title": "Introduction to Politics: Justice, Power and Agency",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 141",
+                "prefix": "PSY",
+                "number": "141",
+                "title": "General Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 1",
+                    "prefix": "PSYCH",
+                    "number": "1",
+                    "title": "General Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSY 351",
+                "prefix": "PSY",
+                "number": "351",
+                "title": "Human Development",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 19",
+                    "prefix": "PSYCH",
+                    "number": "19",
+                    "title": "Lifespan Human Development",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

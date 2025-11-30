@@ -1,0 +1,2369 @@
+{
+  "meta": {
+    "name": "All Majors",
+    "type": "AllMajors",
+    "publishDate": "2025-08-01T23:09:13.5944653",
+    "academicYear": {
+      "id": 75,
+      "code": "2024-2025",
+      "beginDate": "2024-10-01T00:00:00",
+      "endDate": "2025-10-01T00:00:00",
+      "isOpenForMaintenance": true,
+      "isOpenForPublic": true,
+      "isOpenForReporting": true,
+      "isLocked": false
+    },
+    "catalogYear": {
+      "receivingCatalogYearBegin": 2024,
+      "receivingCatalogYearEnd": 2025,
+      "sendingCatalogYearBegin": 2024,
+      "sendingCatalogYearEnd": 2025
+    },
+    "receivingInstitution": {
+      "id": 224,
+      "code": "WC",
+      "isCommunityCollege": false,
+      "category": "Independent",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Whittier College",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2024
+        }
+      ],
+      "beginId": 75,
+      "endId": null
+    },
+    "sendingInstitution": {
+      "id": 137,
+      "code": "SMCC    ",
+      "isCommunityCollege": true,
+      "category": "CCC",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Santa Monica College",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2020
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 2016
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 1980
+        }
+      ],
+      "beginId": 31,
+      "endId": null
+    },
+    "document_type": "AllMajors",
+    "downloaded_year_id": 75,
+    "isSuccessful": true,
+    "validationFailure": null
+  },
+  "majors": [
+    {
+      "major": "Biology",
+      "university": {
+        "id": 224,
+        "code": "WC",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Whittier College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Biology Major Requirements"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">Whittier College may accept a maximum of 90 semester credits in transfer, 70 of which may be taken at the community college level. To be eligible for transfer, courses must be completed with a final grade of C- or higher. Courses accepted in transfer will be accepted with a grade of \"TR\" indicating transfer credit. Letter grades will not transfer.</span></p><p><br></p><p><span style=\"font-size: 16px;\">﻿Whittier College </span><strong style=\"font-size: 16px;\">does not</strong><span style=\"font-size: 16px;\"> require completion of any minimum number of units or courses before students are eligible to transfer. However, listed below are the lower division major requirements that students are able to complete at the community college level.&nbsp;Any upper division requirements listed are for planning purposes but are not requirements to complete prior to transfer. </span></p><p><br></p><p><span style=\"font-size: 16px;\">We honor the Associate Degree for Transfer (ADT) Commitment with all accredited California Community Colleges. A California Community College student who has earned the ADT (AA-T or AS-T) will have guaranteed admission and junior standing based on the following criteria:</span></p><p><br></p><ul><li><span style=\"font-size: 16px;\">The student must submit an application and complete all application requirements.</span></li><li><span style=\"font-size: 16px;\">The student will have completed all IGETC or CSU GE-Breadth coursework with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student will have completed at least 60 transferable units with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student acknowledges that if a grade of D+ or below is earned in a transferable course, and they did not retake the course for a higher grade, that course will not be accepted for transfer credit, but will still be factored into the cumulative transfer grade point average.</span></li><li><span style=\"font-size: 16px;\">We will honor academic renewal from community college partners prior to matriculation into Whittier College.</span></li><li><span style=\"font-size: 16px;\">Proof of completion of the Associates Degree is required as are all IGETC or CSU GE-Breadth Certifications and official college transcripts.</span></li></ul>"
+      ],
+      "requirements": [
+        {
+          "id": "fa357445-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "c316fd8d-795f-4bce-82d9-08dcd8cf94e9",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BIOL 151",
+                "prefix": "BIOL",
+                "number": "151",
+                "title": "Cell & Molecular Biology",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BIOL 22",
+                    "prefix": "BIOL",
+                    "number": "22",
+                    "title": "Genetics and Molecular Biology",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BIOL 152",
+                "prefix": "BIOL",
+                "number": "152",
+                "title": "Biology of Organisms",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BIOL 21",
+                    "prefix": "BIOL",
+                    "number": "21",
+                    "title": "Cell Biology and Evolution",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BIOL 251",
+                "prefix": "BIOL",
+                "number": "251",
+                "title": "Ecology & Evolution of Organisms",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BIOL 23",
+                    "prefix": "BIOL",
+                    "number": "23",
+                    "title": "Organismal and Environmental Biology",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "f0b79ce5-e3bc-4e7e-9c73-01934adb54b1",
+          "area": "Requirements",
+          "position": 2,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "7658424f-5083-4fb4-b86b-08dd035f0937",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "b000e0a7-aede-413b-a1ad-01934adb54b2",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "AT_LEAST_N",
+            "n": 2,
+            "min_count": 2,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 2.0,
+              "amountQuantifier": "AtLeast",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "3e659ae5-1129-4c0b-a7d0-08dd3f05e46a",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 80",
+                "prefix": "MATH",
+                "number": "80",
+                "title": "Elementary Statistics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 54",
+                    "prefix": "MATH",
+                    "number": "54",
+                    "title": "Elementary Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 85",
+                "prefix": "MATH",
+                "number": "85",
+                "title": "Precalculus Mathematics",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 2",
+                    "prefix": "MATH",
+                    "number": "2",
+                    "title": "Precalculus",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 141",
+                "prefix": "MATH",
+                "number": "141",
+                "title": "Calculus and Analytical Geometry I",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 7",
+                    "prefix": "MATH",
+                    "number": "7",
+                    "title": "Calculus 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 142",
+                "prefix": "MATH",
+                "number": "142",
+                "title": "Calculus and Analytical Geometry II",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 8",
+                    "prefix": "MATH",
+                    "number": "8",
+                    "title": "Calculus 2",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 220",
+                "prefix": "MATH",
+                "number": "220",
+                "title": "Discrete Mathematics",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 241",
+                "prefix": "MATH",
+                "number": "241",
+                "title": "Calculus and Analytical Geometry III",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 11",
+                    "prefix": "MATH",
+                    "number": "11",
+                    "title": "Multivariable Calculus",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 242",
+                "prefix": "MATH",
+                "number": "242",
+                "title": "Introduction to Applied Elementary Linear Algebra",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 13",
+                    "prefix": "MATH",
+                    "number": "13",
+                    "title": "Linear Algebra",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 280",
+                "prefix": "MATH",
+                "number": "280",
+                "title": "Abstract Thinking",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Business Administration",
+      "university": {
+        "id": 224,
+        "code": "WC",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Whittier College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Business Administration Major Requirements"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">Whittier College may accept a maximum of 90 semester credits in transfer, 70 of which may be taken at the community college level. To be eligible for transfer, courses must be completed with a final grade of C- or higher. Courses accepted in transfer will be accepted with a grade of \"TR\" indicating transfer credit. Letter grades will not transfer.</span></p><p><br></p><p><span style=\"font-size: 16px;\">﻿Whittier College </span><strong style=\"font-size: 16px;\">does not</strong><span style=\"font-size: 16px;\"> require completion of any minimum number of units or courses before students are eligible to transfer. However, listed below are the lower division major requirements that students are able to complete at the community college level.&nbsp;Any upper division requirements listed are for planning purposes but are not requirements to complete prior to transfer. </span></p><p><br></p><p><span style=\"font-size: 16px;\">We honor the Associate Degree for Transfer (ADT) Commitment with all accredited California Community Colleges. A California Community College student who has earned the ADT (AA-T or AS-T) will have guaranteed admission and junior standing based on the following criteria:</span></p><p><br></p><ul><li><span style=\"font-size: 16px;\">The student must submit an application and complete all application requirements.</span></li><li><span style=\"font-size: 16px;\">The student will have completed all IGETC or CSU GE-Breadth coursework with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student will have completed at least 60 transferable units with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student acknowledges that if a grade of D+ or below is earned in a transferable course, and they did not retake the course for a higher grade, that course will not be accepted for transfer credit, but will still be factored into the cumulative transfer grade point average.</span></li><li><span style=\"font-size: 16px;\">We will honor academic renewal from community college partners prior to matriculation into Whittier College.</span></li><li><span style=\"font-size: 16px;\">Proof of completion of the Associates Degree is required as are all IGETC or CSU GE-Breadth Certifications and official college transcripts.</span></li></ul>"
+      ],
+      "requirements": [
+        {
+          "id": "27527445-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "c333b4b2-32a3-4b19-7f30-08dce49281d6",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 130",
+                "prefix": "BSAD",
+                "number": "130",
+                "title": "Business and Society",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 1",
+                    "prefix": "BUS",
+                    "number": "1",
+                    "title": "Introduction to Business",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 202",
+                "prefix": "BSAD",
+                "number": "202",
+                "title": "Principles of Managerial Accounting",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ACCTG 2",
+                    "prefix": "ACCTG",
+                    "number": "2",
+                    "title": "Corporate Financial and Managerial Accounting",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 231",
+                "prefix": "BSAD",
+                "number": "231",
+                "title": "Business Law",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 5",
+                    "prefix": "BUS",
+                    "number": "5",
+                    "title": "Business Law and the Legal Environment",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 201",
+                "prefix": "BSAD",
+                "number": "201",
+                "title": "Principles of Financial Accounting",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ACCTG 1",
+                    "prefix": "ACCTG",
+                    "number": "1",
+                    "title": "Introduction to Financial Accounting",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "84f72de5-17a1-465b-850d-01934aea9dfa",
+          "area": "Requirements",
+          "position": 2,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "d4f9e2fa-2949-4f45-04d4-08dd09946471",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 80",
+                "prefix": "MATH",
+                "number": "80",
+                "title": "Elementary Statistics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 54",
+                    "prefix": "MATH",
+                    "number": "54",
+                    "title": "Elementary Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "5a65cb90-353e-444f-8070-01934aea9e07",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "ee1778f1-d193-4c2d-b437-08dd09b0f11d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 141",
+                "prefix": "MATH",
+                "number": "141",
+                "title": "Calculus and Analytical Geometry I",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 7",
+                    "prefix": "MATH",
+                    "number": "7",
+                    "title": "Calculus 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 142",
+                "prefix": "MATH",
+                "number": "142",
+                "title": "Calculus and Analytical Geometry II",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 8",
+                    "prefix": "MATH",
+                    "number": "8",
+                    "title": "Calculus 2",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 85",
+                "prefix": "MATH",
+                "number": "85",
+                "title": "Precalculus Mathematics",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 2",
+                    "prefix": "MATH",
+                    "number": "2",
+                    "title": "Precalculus",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "07a4f634-94fc-40af-bc53-01934aea9e10",
+          "area": "Requirements",
+          "position": 4,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "bff6144c-8d78-4764-04d6-08dd09946471",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECON 200",
+                "prefix": "ECON",
+                "number": "200",
+                "title": "Principles of Economics: Macro",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ECON 2",
+                    "prefix": "ECON",
+                    "number": "2",
+                    "title": "Principles of Macroeconomics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECON 201",
+                "prefix": "ECON",
+                "number": "201",
+                "title": "Principles of Economics: Micro",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ECON 1",
+                    "prefix": "ECON",
+                    "number": "1",
+                    "title": "Principles of Microeconomics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "afd7c0eb-b7d3-47c9-86bf-01934aea9e10",
+          "area": "Requirements",
+          "position": 8,
+          "titles": [],
+          "rule": {
+            "logic": "AT_LEAST_N",
+            "n": 9,
+            "min_count": 9,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 9.0,
+              "amountQuantifier": "AtLeast",
+              "amountUnitType": "Unit",
+              "toAmountDeterminer": "Any",
+              "toAmount": 1.0,
+              "areaType": "Concentrations",
+              "id": "75f40249-9e95-4cf1-04d7-08dd09946471",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 301",
+                "prefix": "BSAD",
+                "number": "301",
+                "title": "Intermediate Accounting",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 306",
+                "prefix": "BSAD",
+                "number": "306",
+                "title": "Auditing & Case Simulations",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 307",
+                "prefix": "BSAD",
+                "number": "307",
+                "title": "Federal Tax Accounting",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 308",
+                "prefix": "BSAD",
+                "number": "308",
+                "title": "Accounting Information: Decision Making",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 213",
+                "prefix": "BSAD",
+                "number": "213",
+                "title": "Financial Crises",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 308",
+                "prefix": "BSAD",
+                "number": "308",
+                "title": "Accounting Information: Decision Making",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 414",
+                "prefix": "BSAD",
+                "number": "414",
+                "title": "Derivatives and Financial Modeling",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECON 305",
+                "prefix": "ECON",
+                "number": "305",
+                "title": "Introduction to Econometrics",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 360",
+                "prefix": "BSAD",
+                "number": "360",
+                "title": "Sustainable Development and the Triple Bottom Line",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 423",
+                "prefix": "BSAD",
+                "number": "423",
+                "title": "International Marketing",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECON 386",
+                "prefix": "ECON",
+                "number": "386",
+                "title": "Growth & Development",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PLSC 220",
+                "prefix": "PLSC",
+                "number": "220",
+                "title": "International Relations",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 360",
+                "prefix": "BSAD",
+                "number": "360",
+                "title": "Sustainable Development and the Triple Bottom Line",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 431",
+                "prefix": "BSAD",
+                "number": "431",
+                "title": "Human Resources Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 435",
+                "prefix": "BSAD",
+                "number": "435",
+                "title": "Leading & Growing the Small Business",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 422",
+                "prefix": "BSAD",
+                "number": "422",
+                "title": "Consumer Behavior",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 423",
+                "prefix": "BSAD",
+                "number": "423",
+                "title": "International Marketing",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 362",
+                "prefix": "BSAD",
+                "number": "362",
+                "title": "Social Media Marketing",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 421",
+                "prefix": "BSAD",
+                "number": "421",
+                "title": "Branding",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "9221f3df-7d4b-4f21-bad0-0193d6ce6a24",
+          "area": "Requirements",
+          "position": 6,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "4bd4b0cd-1116-4c77-d7fd-08dd1354cb70",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 310",
+                "prefix": "BSAD",
+                "number": "310",
+                "title": "Business Finance I",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 320",
+                "prefix": "BSAD",
+                "number": "320",
+                "title": "Marketing Principles",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 330",
+                "prefix": "BSAD",
+                "number": "330",
+                "title": "Management & Organizational Behavior",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 350",
+                "prefix": "BSAD",
+                "number": "350",
+                "title": "International Business",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BSAD 489",
+                "prefix": "BSAD",
+                "number": "489",
+                "title": "Management Strategy and Policy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Child Development",
+      "university": {
+        "id": 224,
+        "code": "WC",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Whittier College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "CHILD DEVELOPMENT MAJOR REQUIREMENTS"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">Whittier College may accept a maximum of 90 semester credits in transfer, 70 of which may be taken at the community college level. To be eligible for transfer, courses must be completed with a final grade of C- or higher. Courses accepted in transfer will be accepted with a grade of \"TR\" indicating transfer credit. Letter grades will not transfer.</span></p><p><br></p><p><span style=\"font-size: 16px;\">﻿Whittier College </span><strong style=\"font-size: 16px;\">does not</strong><span style=\"font-size: 16px;\"> require completion of any minimum number of units or courses before students are eligible to transfer. However, listed below are the lower division major requirements that students are able to complete at the community college level.&nbsp;Any upper division requirements listed are for planning purposes but are not requirements to complete prior to transfer. </span></p><p><br></p><p><span style=\"font-size: 16px;\">We honor the Associate Degree for Transfer (ADT) Commitment with all accredited California Community Colleges. A California Community College student who has earned the ADT (AA-T or AS-T) will have guaranteed admission and junior standing based on the following criteria:</span></p><p><br></p><ul><li><span style=\"font-size: 16px;\">The student must submit an application and complete all application requirements.</span></li><li><span style=\"font-size: 16px;\">The student will have completed all IGETC or CSU GE-Breadth coursework with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student will have completed at least 60 transferable units with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student acknowledges that if a grade of D+ or below is earned in a transferable course, and they did not retake the course for a higher grade, that course will not be accepted for transfer credit, but will still be factored into the cumulative transfer grade point average.</span></li><li><span style=\"font-size: 16px;\">We will honor academic renewal from community college partners prior to matriculation into Whittier College.</span></li><li><span style=\"font-size: 16px;\">Proof of completion of the Associates Degree is required as are all IGETC or CSU GE-Breadth Certifications and official college transcripts.</span></li></ul>"
+      ],
+      "requirements": [
+        {
+          "id": "529f9f9f-1a6b-417e-bd9f-019326716809",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "c523b7d7-9ff4-4391-afb0-08dd035f0937",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CHDV 105",
+                "prefix": "CHDV",
+                "number": "105",
+                "title": "Introduction to Child Development",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 11",
+                    "prefix": "PSYCH",
+                    "number": "11",
+                    "title": "Child Growth and Development",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CHDV 225",
+                "prefix": "CHDV",
+                "number": "225",
+                "title": "Research Methods",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CHDV 211",
+                "prefix": "CHDV",
+                "number": "211",
+                "title": "Child, Family and Community",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ECE 11",
+                    "prefix": "ECE",
+                    "number": "11",
+                    "title": "Child, Family, and the Community",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "65048da6-982e-4e33-a8da-01935088d54b",
+          "area": "Requirements",
+          "position": 2,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "ae6512fd-180c-4cce-a815-08dd3f05e46a",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 80",
+                "prefix": "MATH",
+                "number": "80",
+                "title": "Elementary Statistics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 54",
+                    "prefix": "MATH",
+                    "number": "54",
+                    "title": "Elementary Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSYC 214",
+                "prefix": "PSYC",
+                "number": "214",
+                "title": "Statistics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 54",
+                    "prefix": "MATH",
+                    "number": "54",
+                    "title": "Elementary Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "ead74aac-febc-4cc6-a10c-01935088d54b",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "01ef637e-b33f-401b-b443-08dd09b0f11d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PLSC 110",
+                "prefix": "PLSC",
+                "number": "110",
+                "title": "American Government and Politics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "POL SC 1",
+                    "prefix": "POL SC",
+                    "number": "1",
+                    "title": "National and California Government",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "English",
+      "university": {
+        "id": 224,
+        "code": "WC",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Whittier College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "ENGLISH MAJOR REQUIREMENTS"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">Whittier College may accept a maximum of 90 semester credits in transfer, 70 of which may be taken at the community college level. To be eligible for transfer, courses must be completed with a final grade of C- or higher. Courses accepted in transfer will be accepted with a grade of \"TR\" indicating transfer credit. Letter grades will not transfer.</span></p><p><br></p><p><span style=\"font-size: 16px;\">﻿Whittier College </span><strong style=\"font-size: 16px;\">does not</strong><span style=\"font-size: 16px;\"> require completion of any minimum number of units or courses before students are eligible to transfer. However, listed below are the lower division major requirements that students are able to complete at the community college level.&nbsp;Any upper division requirements listed are for planning purposes but are not requirements to complete prior to transfer. </span></p><p><br></p><p><span style=\"font-size: 16px;\">We honor the Associate Degree for Transfer (ADT) Commitment with all accredited California Community Colleges. A California Community College student who has earned the ADT (AA-T or AS-T) will have guaranteed admission and junior standing based on the following criteria:</span></p><p><br></p><ul><li><span style=\"font-size: 16px;\">The student must submit an application and complete all application requirements.</span></li><li><span style=\"font-size: 16px;\">The student will have completed all IGETC or CSU GE-Breadth coursework with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student will have completed at least 60 transferable units with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student acknowledges that if a grade of D+ or below is earned in a transferable course, and they did not retake the course for a higher grade, that course will not be accepted for transfer credit, but will still be factored into the cumulative transfer grade point average.</span></li><li><span style=\"font-size: 16px;\">We will honor academic renewal from community college partners prior to matriculation into Whittier College.</span></li><li><span style=\"font-size: 16px;\">Proof of completion of the Associates Degree is required as are all IGETC or CSU GE-Breadth Certifications and official college transcripts.</span></li></ul>",
+        "<p><span style=\"font-size: 16px;\">English majors select one of three areas of emphasis, each with its own specific requirements.</span></p><ul><li><span style=\"font-size: 16px;\">Major in English with an Emphasis in Literature</span></li><li><span style=\"font-size: 16px;\">Major in English with an Emphasis in Creative Writing</span></li><li><span style=\"font-size: 16px;\">Major in English with an Emphasis in Applied Media Studies</span></li></ul>"
+      ],
+      "requirements": [
+        {
+          "id": "2e379905-f9a7-4d71-9c3f-01938d9b0195",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "5fcab7f2-5a19-40d4-a849-08dd3f05e46a",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 103",
+                "prefix": "ENGL",
+                "number": "103",
+                "title": "Better Living Through Media Literacy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 210",
+                "prefix": "ENGL",
+                "number": "210",
+                "title": "Critical Procedures",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 102",
+                "prefix": "ENGL",
+                "number": "102",
+                "title": "Introduction to Journalism",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 107",
+                "prefix": "ENGL",
+                "number": "107",
+                "title": "Ã‚Â Intro to Professional Writing",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 202",
+                "prefix": "ENGL",
+                "number": "202",
+                "title": "Writing Short Fiction",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL 72",
+                    "prefix": "ENGL",
+                    "number": "72",
+                    "title": "Writing in Fiction",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 203",
+                "prefix": "ENGL",
+                "number": "203",
+                "title": "Writing Poetry",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL 73",
+                    "prefix": "ENGL",
+                    "number": "73",
+                    "title": "Writing in Poetry",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 205",
+                "prefix": "ENGL",
+                "number": "205",
+                "title": "Writing Workshop: Ecopoetry",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "f60738b2-4edc-40c2-86cf-0194b4522574",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "1ed71f06-51e7-4ee9-a84a-08dd3f05e46a",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 270",
+                "prefix": "ENGL",
+                "number": "270",
+                "title": "Transcultural Literature",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 134",
+                "prefix": "ENGL",
+                "number": "134",
+                "title": "Horror!",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 210",
+                "prefix": "ENGL",
+                "number": "210",
+                "title": "Critical Procedures",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "3dab9570-e8ea-4995-8328-0194b4522574",
+          "area": "Requirements",
+          "position": 2,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "936be9b2-9e59-4488-a84b-08dd3f05e46a",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 202",
+                "prefix": "ENGL",
+                "number": "202",
+                "title": "Writing Short Fiction",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL 72",
+                    "prefix": "ENGL",
+                    "number": "72",
+                    "title": "Writing in Fiction",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 203",
+                "prefix": "ENGL",
+                "number": "203",
+                "title": "Writing Poetry",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL 73",
+                    "prefix": "ENGL",
+                    "number": "73",
+                    "title": "Writing in Poetry",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 205",
+                "prefix": "ENGL",
+                "number": "205",
+                "title": "Writing Workshop: Ecopoetry",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENGL 210",
+                "prefix": "ENGL",
+                "number": "210",
+                "title": "Critical Procedures",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Kinesiology BA, no emphasis",
+      "university": {
+        "id": 224,
+        "code": "WC",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Whittier College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Kinesiology Major (no emphasis) Requirements"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">Whittier College may accept a maximum of 90 semester credits in transfer, 70 of which may be taken at the community college level. To be eligible for transfer, courses must be completed with a final grade of C- or higher. Courses accepted in transfer will be accepted with a grade of \"TR\" indicating transfer credit. Letter grades will not transfer.</span></p><p><br></p><p><span style=\"font-size: 16px;\">﻿﻿Whittier College </span><strong style=\"font-size: 16px;\">does not</strong><span style=\"font-size: 16px;\"> require completion of any minimum number of units or courses before students are eligible to transfer. However, listed below are the lower division major requirements that students are able to complete at the community college level.&nbsp;Any upper division requirements listed are for planning purposes but are not requirements to complete prior to transfer. </span></p><p><br></p><p><span style=\"font-size: 16px;\">We honor the Associate Degree for Transfer (ADT) Commitment with all accredited California Community Colleges. A California Community College student who has earned the ADT (AA-T or AS-T) will have guaranteed admission and junior standing based on the following criteria:</span></p><p><br></p><ul><li><span style=\"font-size: 16px;\">The student must submit an application and complete all application requirements.</span></li><li><span style=\"font-size: 16px;\">The student will have completed all IGETC or CSU GE-Breadth coursework with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student will have completed at least 60 transferable units with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student acknowledges that if a grade of D+ or below is earned in a transferable course, and they did not retake the course for a higher grade, that course will not be accepted for transfer credit, but will still be factored into the cumulative transfer grade point average.</span></li><li><span style=\"font-size: 16px;\">We will honor academic renewal from community college partners prior to matriculation into Whittier College.</span></li><li><span style=\"font-size: 16px;\">Proof of completion of the Associates Degree is required as are all IGETC or CSU GE-Breadth Certifications and official college transcripts.</span></li></ul>"
+      ],
+      "requirements": [
+        {
+          "id": "4b20dae9-4a0d-4609-a7c8-0192d95b8b55",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "06fdf65f-3428-4778-7d42-08dcea0701e9",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "KNS 250",
+                "prefix": "KNS",
+                "number": "250",
+                "title": "Applied Musculoskeletal Anatomy",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "KNS 280",
+                "prefix": "KNS",
+                "number": "280",
+                "title": "Introduction to Sport and Exercise Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "KIN PE 4",
+                    "prefix": "KIN PE",
+                    "number": "4",
+                    "title": "Sport Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "KNS 150",
+                "prefix": "KNS",
+                "number": "150",
+                "title": "Introduction to Kinesiology",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PRO CR 10",
+                    "prefix": "PRO CR",
+                    "number": "10",
+                    "title": "Introduction to Kinesiology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "c7f633b9-07e1-4122-8023-019354dcdc6c",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "b4a1b0c4-afac-41f0-7486-08dd0b118d84",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "KNS 307",
+                "prefix": "KNS",
+                "number": "307",
+                "title": "Research Methods and Statistics",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "KNS 311",
+                "prefix": "KNS",
+                "number": "311",
+                "title": "Biomechanics",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "KNS 313",
+                "prefix": "KNS",
+                "number": "313",
+                "title": "Exercise Physiology",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "KNS 340",
+                "prefix": "KNS",
+                "number": "340",
+                "title": "History and Philosophy of Sport and Leisure",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "KNS 382",
+                "prefix": "KNS",
+                "number": "382",
+                "title": "Social Issues in Sport",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "KNS 440",
+                "prefix": "KNS",
+                "number": "440",
+                "title": "Motor Learning and Control",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "KNS 489",
+                "prefix": "KNS",
+                "number": "489",
+                "title": "Seminar in Kinesiology and Nutrition",
+                "units": 1.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Psychology",
+      "university": {
+        "id": 224,
+        "code": "WC",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Whittier College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "PSYCHOLOGY MAJOR REQUIREMENTS "
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">Whittier College may accept a maximum of 90 semester credits in transfer, 70 of which may be taken at the community college level. To be eligible for transfer, courses must be completed with a final grade of C- or higher. Courses accepted in transfer will be accepted with a grade of \"TR\" indicating transfer credit. Letter grades will not transfer.</span></p><p><br></p><p><span style=\"font-size: 16px;\">﻿Whittier College </span><strong style=\"font-size: 16px;\">does not</strong><span style=\"font-size: 16px;\"> require completion of any minimum number of units or courses before students are eligible to transfer. However, listed below are the lower division major requirements that students are able to complete at the community college level.&nbsp;Any upper division requirements listed are for planning purposes but are not requirements to complete prior to transfer. </span></p><p><br></p><p><span style=\"font-size: 16px;\">We honor the Associate Degree for Transfer (ADT) Commitment with all accredited California Community Colleges. A California Community College student who has earned the ADT (AA-T or AS-T) will have guaranteed admission and junior standing based on the following criteria:</span></p><p><br></p><ul><li><span style=\"font-size: 16px;\">The student must submit an application and complete all application requirements.</span></li><li><span style=\"font-size: 16px;\">The student will have completed all IGETC or CSU GE-Breadth coursework with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student will have completed at least 60 transferable units with a grade of C- or better.</span></li><li><span style=\"font-size: 16px;\">The student acknowledges that if a grade of D+ or below is earned in a transferable course, and they did not retake the course for a higher grade, that course will not be accepted for transfer credit, but will still be factored into the cumulative transfer grade point average.</span></li><li><span style=\"font-size: 16px;\">We will honor academic renewal from community college partners prior to matriculation into Whittier College.</span></li><li><span style=\"font-size: 16px;\">Proof of completion of the Associates Degree is required as are all IGETC or CSU GE-Breadth Certifications and official college transcripts.</span></li></ul><p><br></p>"
+      ],
+      "requirements": [
+        {
+          "id": "ddee3a20-7086-4b4c-ac97-01930cc3fde7",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "0f749170-ef58-4ef7-e31d-08dcf906318a",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSYC 100",
+                "prefix": "PSYC",
+                "number": "100",
+                "title": "Introductory Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 1",
+                    "prefix": "PSYCH",
+                    "number": "1",
+                    "title": "General Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSYC 222",
+                "prefix": "PSYC",
+                "number": "222",
+                "title": "Biological Bases of Behavior",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 2",
+                    "prefix": "PSYCH",
+                    "number": "2",
+                    "title": "Physiological Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSYC 212",
+                "prefix": "PSYC",
+                "number": "212",
+                "title": "Research Methods",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 7",
+                    "prefix": "PSYCH",
+                    "number": "7",
+                    "title": "Research Methods in Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSYC 214",
+                "prefix": "PSYC",
+                "number": "214",
+                "title": "Statistics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 54",
+                    "prefix": "MATH",
+                    "number": "54",
+                    "title": "Elementary Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSYC 227",
+                "prefix": "PSYC",
+                "number": "227",
+                "title": "Stress and Disease in the 21st Century",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYCH 33",
+                    "prefix": "PSYCH",
+                    "number": "33",
+                    "title": "Introduction to Stress, Trauma, and Mental Health",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "schema_version": "2.0",
+  "description": "GE + transfer-eligibility rules for SMC. Course lists come from raw_GE folder files.",
+  "notes": "This file merges the normalized systems/targets schema with all patterns (IGETC, CalGETC, CSU GE-Breadth, CSU American Institutions, UC 7-course pattern) and richer descriptions/LOTE methods.",
+  "systems": {
+    "IGETC": {
+      "pattern_name": "IGETC for UC and CSU",
+      "description": "Intersegmental General Education Transfer Curriculum",
+      "targets": [
+        "CSU",
+        "UC"
+      ],
+      "areas": {
+        "1": {
+          "code": "1",
+          "name": "English Communication",
+          "per_target": {
+            "CSU": {
+              "min_courses": 3,
+              "required_subareas": [
+                "1A",
+                "1B",
+                "1C"
+              ],
+              "min_units_semester": 9,
+              "min_units_quarter": 12
+            },
+            "UC": {
+              "min_courses": 2,
+              "required_subareas": [
+                "1A",
+                "1B"
+              ],
+              "min_units_semester": 6,
+              "min_units_quarter": 8
+            }
+          },
+          "subareas": {
+            "1A": {
+              "name": "English Composition",
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            },
+            "1B": {
+              "name": "Critical Thinking - English Composition",
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            },
+            "1C": {
+              "name": "Oral Communication",
+              "csu_only": true,
+              "uc_only": false,
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            }
+          },
+          "description": "CSU - 3 courses required, one each from Group A, B and C. UC - 2 courses required, one each from Group A and B."
+        },
+        "2": {
+          "code": "2",
+          "name": "Mathematical Concepts and Quantitative Reasoning",
+          "per_target": {
+            "CSU": {
+              "min_courses": 1,
+              "required_subareas": [
+                "2A"
+              ],
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            },
+            "UC": {
+              "min_courses": 1,
+              "required_subareas": [
+                "2A"
+              ],
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            }
+          },
+          "subareas": {
+            "2A": {
+              "name": "Math",
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            }
+          }
+        },
+        "3": {
+          "code": "3",
+          "name": "Arts and Humanities",
+          "per_target": {
+            "CSU": {
+              "min_courses": 3,
+              "min_units_semester": 9,
+              "min_units_quarter": 12,
+              "constraints": {
+                "require_at_least_one_subarea": [
+                  "3A",
+                  "3B"
+                ]
+              }
+            },
+            "UC": {
+              "min_courses": 3,
+              "min_units_semester": 9,
+              "min_units_quarter": 12,
+              "constraints": {
+                "require_at_least_one_subarea": [
+                  "3A",
+                  "3B"
+                ]
+              }
+            }
+          },
+          "subareas": {
+            "3A": {
+              "name": "Arts"
+            },
+            "3B": {
+              "name": "Humanities"
+            }
+          }
+        },
+        "4": {
+          "code": "4",
+          "name": "Social and Behavioral Sciences",
+          "per_target": {
+            "CSU": {
+              "min_courses": 2,
+              "min_units_semester": 6,
+              "min_units_quarter": 9,
+              "constraints": {
+                "require_distinct_disciplines": true
+              }
+            },
+            "UC": {
+              "min_courses": 2,
+              "min_units_semester": 6,
+              "min_units_quarter": 9,
+              "constraints": {
+                "require_distinct_disciplines": true
+              }
+            }
+          }
+        },
+        "5": {
+          "code": "5",
+          "name": "Physical and Biological Sciences",
+          "per_target": {
+            "CSU": {
+              "min_courses": 2,
+              "min_units_semester": 7,
+              "min_units_quarter": 9,
+              "constraints": {
+                "require_subareas": [
+                  "5A",
+                  "5B"
+                ],
+                "require_at_least_one_lab": true
+              }
+            },
+            "UC": {
+              "min_courses": 2,
+              "min_units_semester": 7,
+              "min_units_quarter": 9,
+              "constraints": {
+                "require_subareas": [
+                  "5A",
+                  "5B"
+                ],
+                "require_at_least_one_lab": true
+              }
+            }
+          },
+          "subareas": {
+            "5A": {
+              "name": "Physical Science"
+            },
+            "5B": {
+              "name": "Biological Science"
+            },
+            "5C": {
+              "name": "Laboratory Science",
+              "notes": "At least one of the 5A/5B selections must have an associated lab."
+            }
+          }
+        },
+        "6": {
+          "code": "6",
+          "name": "Language Other Than English (UC requirement only)",
+          "per_target": {
+            "CSU": {
+              "required": false
+            },
+            "UC": {
+              "required": true,
+              "notes": "Proficiency equivalent to two years of high school study in the same language."
+            }
+          },
+          "subareas": {
+            "6A": {
+              "name": "Language Courses",
+              "notes": "College-level language courses that can satisfy UC LOTE; may also appear in Area 3B in the yearly course files."
+            }
+          },
+          "description": "Proficiency equivalent to two years of high school study in the same language.",
+          "notes": "Can be satisfied by: (1) 2 years of high school study in same language with C or better, (2) SAT II/AP exam scores, (3) College coursework in language, (4) Proficiency exam. Required for UC, optional for CSU.",
+          "satisfaction_methods": [
+            "Two years of high school in same language with grades of C or better",
+            "SAT II Language Subject Test score of 550 or higher",
+            "AP Language Exam score of 3 or higher",
+            "College coursework equivalent to 2 years high school",
+            "Proficiency examination at college"
+          ]
+        },
+        "7": {
+          "code": "7",
+          "name": "Ethnic Studies",
+          "per_target": {
+            "CSU": {
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4,
+              "required": true
+            },
+            "UC": {
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4,
+              "required": true
+            }
+          },
+          "description": "3 lower-division semester units (4 quarter units)."
+        }
+      },
+      "global_rules": {
+        "double_counting": {
+          "default_policy": "one_area_only",
+          "exceptions": [
+            {
+              "areas": [
+                "3B",
+                "6A"
+              ],
+              "description": "Some LOTE courses may be certified in both 3B and 6A per IGETC standards."
+            }
+          ]
+        }
+      },
+      "year_overrides": [
+        {
+          "description": "Old Area 4 pattern (3 courses / 9 units) and no Ethnic Studies area.",
+          "year_id_min": 70,
+          "year_id_max": 73,
+          "areas": {
+            "4": {
+              "per_target": {
+                "CSU": {
+                  "min_courses": 3,
+                  "min_units_semester": 9,
+                  "min_units_quarter": 12,
+                  "constraints": {
+                    "require_distinct_disciplines": true
+                  }
+                },
+                "UC": {
+                  "min_courses": 3,
+                  "min_units_semester": 9,
+                  "min_units_quarter": 12,
+                  "constraints": {
+                    "require_distinct_disciplines": true
+                  }
+                }
+              }
+            },
+            "7": {
+              "per_target": {
+                "CSU": {
+                  "required": false
+                },
+                "UC": {
+                  "required": false
+                }
+              },
+              "disabled": true
+            }
+          }
+        },
+        {
+          "description": "New pattern (starting 2023-2024: id >= 74) with Area 4 = 2 courses and Area 7 required.",
+          "year_id_min": 74,
+          "year_id_max": 999,
+          "areas": {
+            "4": {
+              "per_target": {
+                "CSU": {
+                  "min_courses": 2,
+                  "min_units_semester": 6,
+                  "min_units_quarter": 9,
+                  "constraints": {
+                    "require_distinct_disciplines": true
+                  }
+                },
+                "UC": {
+                  "min_courses": 2,
+                  "min_units_semester": 6,
+                  "min_units_quarter": 9,
+                  "constraints": {
+                    "require_distinct_disciplines": true
+                  }
+                }
+              }
+            },
+            "7": {
+              "per_target": {
+                "CSU": {
+                  "required": true,
+                  "min_courses": 1,
+                  "min_units_semester": 3,
+                  "min_units_quarter": 4
+                },
+                "UC": {
+                  "required": true,
+                  "min_courses": 1,
+                  "min_units_semester": 3,
+                  "min_units_quarter": 4
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "CalGETC": {
+      "pattern_name": "Cal-GETC for UC and CSU",
+      "effective_date": "Fall 2025",
+      "notes": "Unified GE pattern replacing IGETC for students starting Fall 2025 or later.",
+      "description": "California General Education Transfer Curriculum (SMC Cal-GETC 2025-2026 pattern)",
+      "targets": [
+        "CSU",
+        "UC"
+      ],
+      "areas": {
+        "1": {
+          "code": "1",
+          "name": "English Communication",
+          "per_target": {
+            "CSU": {
+              "min_courses": 3,
+              "required_subareas": [
+                "1A",
+                "1B",
+                "1C"
+              ],
+              "min_units_semester": 9,
+              "min_units_quarter": 12
+            },
+            "UC": {
+              "min_courses": 3,
+              "required_subareas": [
+                "1A",
+                "1B",
+                "1C"
+              ],
+              "min_units_semester": 9,
+              "min_units_quarter": 12
+            }
+          },
+          "subareas": {
+            "1A": {
+              "name": "English Composition",
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            },
+            "1B": {
+              "name": "Critical Thinking and Composition",
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            },
+            "1C": {
+              "name": "Oral Communication",
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            }
+          },
+          "description": "3 courses (9 semester or 12 quarter units; 3 semester or 4 quarter units for each of 1A, 1B, and 1C)."
+        },
+        "2": {
+          "code": "2",
+          "name": "Mathematical Concepts and Quantitative Reasoning",
+          "per_target": {
+            "CSU": {
+              "min_courses": 1,
+              "required_subareas": [
+                "2"
+              ],
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            },
+            "UC": {
+              "min_courses": 1,
+              "required_subareas": [
+                "2"
+              ],
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            }
+          },
+          "subareas": {
+            "2": {
+              "name": "Mathematical Concepts and Quantitative Reasoning"
+            }
+          },
+          "description": "1 course (3 semester or 4 quarter units) in math/quantitative reasoning."
+        },
+        "3": {
+          "code": "3",
+          "name": "Arts and Humanities",
+          "per_target": {
+            "CSU": {
+              "min_courses": 2,
+              "min_units_semester": 6,
+              "min_units_quarter": 8,
+              "constraints": {
+                "require_one_each_from": [
+                  "3A",
+                  "3B"
+                ]
+              }
+            },
+            "UC": {
+              "min_courses": 2,
+              "min_units_semester": 6,
+              "min_units_quarter": 8,
+              "constraints": {
+                "require_one_each_from": [
+                  "3A",
+                  "3B"
+                ]
+              }
+            }
+          },
+          "subareas": {
+            "3A": {
+              "name": "Arts",
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            },
+            "3B": {
+              "name": "Humanities",
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            }
+          },
+          "description": "2 courses (6 semester or 8 quarter units), one from Arts and one from Humanities."
+        },
+        "4": {
+          "code": "4",
+          "name": "Social and Behavioral Sciences",
+          "per_target": {
+            "CSU": {
+              "min_courses": 2,
+              "min_units_semester": 6,
+              "min_units_quarter": 8,
+              "constraints": {
+                "require_distinct_disciplines_or_sequence": true
+              }
+            },
+            "UC": {
+              "min_courses": 2,
+              "min_units_semester": 6,
+              "min_units_quarter": 8,
+              "constraints": {
+                "require_distinct_disciplines_or_sequence": true
+              }
+            }
+          },
+          "description": "2 courses (6 semester or 8 quarter units) from social and behavioral science disciplines."
+        },
+        "5": {
+          "code": "5",
+          "name": "Physical and Biological Sciences",
+          "per_target": {
+            "CSU": {
+              "min_courses": 2,
+              "min_units_semester": 7,
+              "min_units_quarter": 9,
+              "constraints": {
+                "require_subareas": [
+                  "5A",
+                  "5B"
+                ],
+                "require_at_least_one_lab": true
+              }
+            },
+            "UC": {
+              "min_courses": 2,
+              "min_units_semester": 7,
+              "min_units_quarter": 9,
+              "constraints": {
+                "require_subareas": [
+                  "5A",
+                  "5B"
+                ],
+                "require_at_least_one_lab": true
+              }
+            }
+          },
+          "subareas": {
+            "5A": {
+              "name": "Physical Science",
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            },
+            "5B": {
+              "name": "Biological Science",
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            },
+            "5C": {
+              "name": "Science Laboratory",
+              "notes": "One of the two 5A/5B courses must include a lab."
+            }
+          },
+          "description": "2 courses (7–9 semester units) including one Physical Science and one Biological Science, with at least one lab."
+        },
+        "6": {
+          "code": "6",
+          "name": "Ethnic Studies",
+          "per_target": {
+            "CSU": {
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            },
+            "UC": {
+              "min_courses": 1,
+              "min_units_semester": 3,
+              "min_units_quarter": 4
+            }
+          },
+          "description": "1 course (3 semester or 4 quarter units).",
+          "min_courses": 1,
+          "min_units_semester": 3
+        }
+      },
+      "global_rules": {
+        "double_counting": {
+          "default_policy": "one_area_only"
+        }
+      },
+      "year_overrides": [
+        {
+          "description": "Cal-GETC rules verified from SMC Cal-GETC 2025-2026 text (academicYear id 76).",
+          "year_id_min": 76,
+          "year_id_max": 999,
+          "areas": {}
+        }
+      ]
+    },
+    "CSU_GE_BREADTH": {
+      "pattern_name": "CSU GE-Breadth",
+      "description": "CSU General Education-Breadth pattern.",
+      "targets": [
+        "CSU"
+      ],
+      "areas": {
+        "A": {
+          "code": "A",
+          "name": "English Language Communication and Critical Thinking",
+          "description": "9 semester or 12-15 quarter units required with at least one course each from A1, A2 and A3.",
+          "min_units_semester": 9,
+          "subareas": {
+            "A1": {
+              "name": "Oral Communication",
+              "min_courses": 1,
+              "min_units": 3
+            },
+            "A2": {
+              "name": "Written Communication",
+              "min_courses": 1,
+              "min_units": 3
+            },
+            "A3": {
+              "name": "Critical Thinking",
+              "min_courses": 1,
+              "min_units": 3
+            }
+          }
+        },
+        "B": {
+          "code": "B",
+          "name": "Scientific Inquiry and Quantitative Reasoning",
+          "description": "At least 9 semester or 12 quarter units including one course each from Physical Science, Life Science (at least one to contain a laboratory component) and Mathematics/Quantitative Reasoning.",
+          "min_units_semester": 9,
+          "subareas": {
+            "B1": {
+              "name": "Physical Science",
+              "min_courses": 1
+            },
+            "B2": {
+              "name": "Life Science",
+              "min_courses": 1
+            },
+            "B3": {
+              "name": "Laboratory Science",
+              "min_courses": 1,
+              "notes": "Can be combined with B1 or B2 in a 4-unit lab course."
+            },
+            "B4": {
+              "name": "Mathematics/Quantitative Reasoning",
+              "min_courses": 1,
+              "min_units": 3
+            }
+          }
+        },
+        "C": {
+          "code": "C",
+          "name": "Arts and Humanities",
+          "description": "12 semester or 18 quarter units with at least one course in Arts and one in Humanities.",
+          "min_units_semester": 12,
+          "subareas": {
+            "C1": {
+              "name": "Arts",
+              "min_courses": 1
+            },
+            "C2": {
+              "name": "Humanities",
+              "min_courses": 1
+            }
+          }
+        },
+        "D": {
+          "code": "D",
+          "name": "Social Sciences",
+          "description": "6 semester units in social science courses (recent pattern). Some older catalogs required 9 units; handled via year_overrides in app logic if needed.",
+          "min_units_semester": 6,
+          "subareas": {}
+        },
+        "E": {
+          "code": "E",
+          "name": "Lifelong Learning and Self-Development",
+          "description": "3 semester or 4 quarter units.",
+          "min_units_semester": 3,
+          "subareas": {}
+        },
+        "F": {
+          "code": "F",
+          "name": "Ethnic Studies (CSU GE Area F)",
+          "description": "3 semester or 4 quarter units in an approved Ethnic Studies course.",
+          "min_units_semester": 3,
+          "subareas": {}
+        }
+      },
+      "global_rules": {
+        "double_counting": {
+          "default_policy": "one_area_only",
+          "description": "Most courses may only be used in one CSU GE area, unless explicitly noted in local policy."
+        }
+      },
+      "year_overrides": []
+    },
+    "CSU_AI": {
+      "pattern_name": "CSU American Institutions (US History, Constitution and American Ideals)",
+      "description": "Graduation requirement that may be completed before or after transfer; often double-counts with GE.",
+      "targets": [
+        "CSU"
+      ],
+      "areas": {
+        "US-1": {
+          "name": "Historical development of American institutions and ideals",
+          "min_courses": 1,
+          "min_units": 3
+        },
+        "US-2": {
+          "name": "United States Constitution and government",
+          "min_courses": 1,
+          "min_units": 3
+        },
+        "US-3": {
+          "name": "California state and local government",
+          "min_courses": 1,
+          "min_units": 3
+        }
+      },
+      "overall_rule": {
+        "required_areas": [
+          "US-1",
+          "US-2",
+          "US-3"
+        ],
+        "min_total_courses": 2,
+        "notes": "Some courses may satisfy multiple US- areas; student must cover all three areas with at least two courses total."
+      }
+    },
+    "UC_7_COURSE_PATTERN": {
+      "pattern_name": "UC Transfer Admission Eligibility – 7-course pattern",
+      "description": "UC transfer admission 7-course pattern (not a GE pattern but admission requirement).",
+      "targets": [
+        "UC"
+      ],
+      "min_total_courses": 7,
+      "unit_range_per_course": {
+        "min_semester_units": 3,
+        "max_semester_units": 4
+      },
+      "requirements": [
+        {
+          "code": "UC-E",
+          "name": "English Composition",
+          "min_courses": 2
+        },
+        {
+          "code": "UC-M",
+          "name": "Mathematical Concepts and Quantitative Reasoning",
+          "min_courses": 1
+        },
+        {
+          "code": "UC-B/H/S",
+          "name": "Breadth in Arts & Humanities, Social & Behavioral Sciences, Physical & Biological Sciences",
+          "min_courses": 4,
+          "notes": "Four courses chosen from at least two of UC-H (arts & humanities), UC-B (social & behavioral sciences), and UC-S (physical & biological sciences)."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "name": "All General Education",
+    "type": "AllGeneralEducation",
+    "publishDate": "2025-10-29T22:17:03.0787938",
+    "academicYear": {
+      "id": 76,
+      "code": "2025-2026",
+      "beginDate": "2025-10-01T00:00:00",
+      "endDate": "2026-10-01T00:00:00",
+      "isOpenForMaintenance": true,
+      "isOpenForPublic": true,
+      "isOpenForReporting": true,
+      "isLocked": false
+    },
+    "catalogYear": {
+      "receivingCatalogYearBegin": 2025,
+      "receivingCatalogYearEnd": 2026,
+      "sendingCatalogYearBegin": 2025,
+      "sendingCatalogYearEnd": 2026
+    },
+    "receivingInstitution": {
+      "id": 212,
+      "code": "MSMU",
+      "isCommunityCollege": false,
+      "category": "Independent",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Mount Saint Mary's University Los Angeles",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2024
+        }
+      ],
+      "beginId": 75,
+      "endId": null
+    },
+    "sendingInstitution": {
+      "id": 137,
+      "code": "SMCC    ",
+      "isCommunityCollege": true,
+      "category": "CCC",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Santa Monica College",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2020
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 2016
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 1980
+        }
+      ],
+      "beginId": 31,
+      "endId": null
+    },
+    "document_type": "AllGeneralEducation",
+    "downloaded_year_id": 76,
+    "isSuccessful": true,
+    "validationFailure": null
+  },
+  "majors": [
+    {
+      "major": "Liberal Arts Core Education (LACE) ",
+      "university": {
+        "id": 212,
+        "code": "MSMU",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Mount Saint Mary's University Los Angeles",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Liberal Arts Core Education (LACE) Requirements",
+        "LACE Core Curriculum"
+      ],
+      "general_texts": [
+        "<p>﻿<span style=\"font-size: 24px;\">The purpose of LACE is to offer a liberal education intentionally grounded in the ideals of the CSJ Core Values and the Mission of Mount Saint Mary’s University. The goal of the curriculum is to emphasize leadership and a spirit to serve while enabling students with the knowledge and skills needed to better themselves, their environments, and the world. In the pursuit of this goal, innovative teaching and learning surround the principles central to a Mount education: the Spirit of our Founders, Community, Global Awareness and Understanding, and Women and Gender.</span></p><p><br></p><p><span style=\"font-size: 24px;\">The LACE General Education Curriculum applies to all Bachelor degrees with the exception that there is no modern language requirement for the Bachelor of Science degree.</span></p><p><br></p><p><span style=\"font-size: 24px;\">Students may not take general education courses on a Credit/No Credit basis. All courses used to fulfill General Education requirements must be passed with a grade of C- or above, with the exception of&nbsp;ENG 1A&nbsp;and&nbsp;ENG 1B, which must be completed with a grade of C or better; or&nbsp;ENG 5H&nbsp;alone if completed with a B or above.</span></p><p><br></p><p><span style=\"font-size: 24px;\">For more information regarding our Liberal Arts Core Education (LACE) requirements, please visit our catalog link at: </span><a href=\"https://msmu.smartcatalogiq.com/2024-2026/2024-2026-catalog/academic-policies-and-procedures/baccalaureate-degrees/baccalaureate-degree-requirements/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 24px;\"><strong>https://msmu.smartcatalogiq.com/2024-2026/2024-2026-catalog/academic-policies-and-procedures/baccalaureate-degrees/baccalaureate-degree-requirements/</strong></a></p><p><br></p><p><span style=\"font-size: 24px;\">For more information regarding our transfer credit policies and resources, please visit our website at</span><strong style=\"font-size: 24px;\"> </strong><a href=\"https://www.msmu.edu/academics/academic-support/academic-advisement/transfer-credit/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 24px;\"><strong>https://www.msmu.edu/academics/academic-support/academic-advisement/transfer-credit/</strong></a></p><p><br></p>",
+        "<p><strong style=\"font-size: 24px;\">Complete Sections #1-8 below to meet the Liberal Arts Core Education (LACE) Requirements.</strong><span style=\"font-size: 24px;\"> </span></p><p><br></p><p><span style=\"font-size: 20px;\">The LACE Curriculum requires the following categories:</span></p><p><span style=\"font-size: 20px;\">GE 2: Written Communication (3- 6 units)</span></p><p><span style=\"font-size: 20px;\">GE 3: Reasoning, with a Math course (3-6 units) and a Critical Thinking course (3 units)</span></p><p><span style=\"font-size: 20px;\">GE 4: Modern Language- </span><strong style=\"font-size: 20px;\">BA degrees only</strong><span style=\"font-size: 20px;\"> (8 units of same language)</span></p><p><br></p><p><span style=\"font-size: 20px;\">GE 5 Central Core courses:</span></p><p><span style=\"font-size: 20px;\">GE 5A: Spirit of the Founders (3 units)</span></p><p><span style=\"font-size: 20px;\">GE 5B: Community (3 units)</span></p><p><span style=\"font-size: 20px;\">GE 5C: Global Awareness &amp; Understanding (3 units)</span></p><p><span style=\"font-size: 20px;\">GE 5D: Women &amp; Gender (3 units)</span></p><p><br></p><p><span style=\"font-size: 20px;\">GE 6 Integrative Scholarship (6 units)-should be taken after completion of the Central Core courses and must be upper division. These courses may either be two 3-unit linked courses or two interdisciplinary courses.</span></p><p><br></p><p><span style=\"font-size: 24px;\">Note: Some courses may be equivalent to more than one LACE category and may be listed under multiple Central Core areas; however a course may only be equated towards one category. The course will be equated to a specific LACE category at the time of the Transfer Credit Evaluation. There are no courses within the LACE Central Core categories that may fulfill other areas of the LACE GE curriculum. Additionally, no more than two courses can be taken within a single department to satisfy the Central Core. The courses fulfilling the LACE Written Communication, Reasoning, and Language requirements may double count towards a student’s major and/or minor.</span></p>"
+      ],
+      "requirements": [
+        {
+          "id": "61e77145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Each",
+              "toAmount": 1.0,
+              "areaType": "Areas",
+              "id": "ae991b93-835c-49bb-49fa-08de050a3a62",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "63e77145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 7,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "1d1ddd9d-b62a-41ca-49fb-08de050a3a62",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "cb894581-e1cb-4ce7-a87a-0192bf6d960d",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ONE_OF",
+            "n": null,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "Or",
+              "id": "445a9645-895c-4a6d-49fc-08de050a3a62",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 001A",
+                "prefix": "ENG",
+                "number": "001A",
+                "title": "Freshman English",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL C1000",
+                    "prefix": "ENGL",
+                    "number": "C1000",
+                    "title": "Academic Reading and Writing",
+                    "units": 3.0
+                  }
+                ],
+                [
+                  {
+                    "code": "ENGL 1D",
+                    "prefix": "ENGL",
+                    "number": "1D",
+                    "title": "Reading and Composition 1--Diversity",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 001B",
+                "prefix": "ENG",
+                "number": "001B",
+                "title": "Freshman English",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL C1001",
+                    "prefix": "ENGL",
+                    "number": "C1001",
+                    "title": "Critical Thinking and Writing",
+                    "units": 3.0
+                  }
+                ],
+                [
+                  {
+                    "code": "ENGL 31",
+                    "prefix": "ENGL",
+                    "number": "31",
+                    "title": "Advanced Composition",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 005H",
+                "prefix": "ENG",
+                "number": "005H",
+                "title": "Freshman Honors English",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "8f93b272-9ab7-49f0-a3b6-0192c02c3ce1",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromConjunction",
+              "conjunction": "And",
+              "amountQuantifier": "None",
+              "amount": 1.0,
+              "amountUnitType": "Course",
+              "id": "3ee2911a-aa48-42b2-49fd-08de050a3a62",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "34382560-cac0-4378-84e4-0192c05e6688",
+          "area": "Requirements",
+          "position": 8,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "171edf25-7985-449f-49fe-08de050a3a62",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "3869a516-b90b-4052-854c-0192c05e6689",
+          "area": "Requirements",
+          "position": 9,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "02128023-6252-4c81-49ff-08de050a3a62",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "65a1a69a-23f1-4cfc-b71f-0192c05e6689",
+          "area": "Requirements",
+          "position": 10,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "463436be-6e58-45c6-4a00-08de050a3a62",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "8c5bc8ba-3eb8-4c70-85f3-0192c05e6689",
+          "area": "Requirements",
+          "position": 11,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "And",
+              "id": "dbafd546-397d-4c83-4a01-08de050a3a62",
+              "selectionType": "Select"
+            }
+          },
+          "items": []
+        }
+      ]
+    }
+  ]
+}

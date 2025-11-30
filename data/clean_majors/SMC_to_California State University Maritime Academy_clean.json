@@ -1,0 +1,2771 @@
+{
+  "meta": {
+    "name": "All Majors",
+    "type": "AllMajors",
+    "publishDate": "2025-11-15T00:28:42.1511671",
+    "academicYear": {
+      "id": 76,
+      "code": "2025-2026",
+      "beginDate": "2025-10-01T00:00:00",
+      "endDate": "2026-10-01T00:00:00",
+      "isOpenForMaintenance": true,
+      "isOpenForPublic": true,
+      "isOpenForReporting": true,
+      "isLocked": false
+    },
+    "catalogYear": {
+      "receivingCatalogYearBegin": 2025,
+      "receivingCatalogYearEnd": 2026,
+      "sendingCatalogYearBegin": 2025,
+      "sendingCatalogYearEnd": 2026
+    },
+    "receivingInstitution": {
+      "id": 1,
+      "code": "CSUMA   ",
+      "isCommunityCollege": false,
+      "category": "CSU",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "California Maritime Academy",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        },
+        {
+          "name": "California State University, Maritime Academy",
+          "hasDepartments": true,
+          "fromYear": 2015,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2015
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 1980
+        }
+      ],
+      "beginId": 31,
+      "endId": null
+    },
+    "sendingInstitution": {
+      "id": 137,
+      "code": "SMCC    ",
+      "isCommunityCollege": true,
+      "category": "CCC",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Santa Monica College",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2020
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 2016
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 1980
+        }
+      ],
+      "beginId": 31,
+      "endId": null
+    },
+    "document_type": "AllMajors",
+    "downloaded_year_id": 76,
+    "isSuccessful": true,
+    "validationFailure": null
+  },
+  "majors": [
+    {
+      "major": "Business Administration, B.S.",
+      "university": {
+        "id": 1,
+        "code": "CSUMA   ",
+        "isCommunityCollege": false,
+        "category": "CSU",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "California Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          },
+          {
+            "name": "California State University, Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 2015,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2015
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Cal Poly and Cal Maritime Integration Information",
+        "program overview",
+        "grade requirement",
+        "General information"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">The California State University (CSU) system is in transition to 22 universities. California Polytechnic State University, San Luis Obispo and California State University Maritime Academy (Cal Maritime) are integrating into one university with two locations. The maritime campus in Solano County will be known as Cal Poly Solano Campus and will house the Cal Poly Maritime Academy. The first Cal Poly Maritime Academy and Cal Poly Solano Campus students enrolling as Cal Poly students will take place in fall of 2026.</span></p><p><br></p><p><span style=\"font-size: 16px;\">For integration updates, visit our </span><a href=\"https://www.calpoly.edu/maritime/faq\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Maritime Integration</a><span style=\"font-size: 16px;\"> page.</span></p>",
+        "<p><span style=\"font-size: 16px;\">Refer to the </span><a href=\"https://maritime-archive.calpoly.edu/registrar/catalog/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">CSU Maritime Academy catalog</a><span style=\"font-size: 16px;\"> for a full description of the program and degree requirements. Refer to the </span><a href=\"https://maritime.calpoly.edu/admissions\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Admissions Office</a><span style=\"font-size: 16px;\"> website for admission requirements and information.</span></p>",
+        "<p><span style=\"font-size: 16px;\">A cumulative GPA of 2.00 is required for the lower division major requirements.</span></p>",
+        "<p><span style=\"font-size: 16px;\">The Bachelor of Science in Business Administration requires a minimum of 120 units consisting of general education, major, and graduation requirements. This agreement only lists the lower division major requirements that may be fulfilled at the community college.</span></p><p><br></p><p><span style=\"font-size: 16px;\"><span class=\"ql-cursor\">﻿</span>The program emphasizes a balanced approach, combining deep theoretical knowledge with immersive experiential learning, all while fostering strong ethical values and global leadership capabilities. Students thrive in an environment that offers career development, close engagement with industry partners, hands-on learning opportunities, opportunities for travel, and exposure to a wide range of ideas and backgrounds.</span></p>"
+      ],
+      "requirements": [
+        {
+          "id": "0f746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECO 101",
+                "prefix": "ECO",
+                "number": "101",
+                "title": "Microeconomics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ECON 1",
+                    "prefix": "ECON",
+                    "number": "1",
+                    "title": "Principles of Microeconomics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECO 100",
+                "prefix": "ECO",
+                "number": "100",
+                "title": "Macroeconomics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ECON 2",
+                    "prefix": "ECON",
+                    "number": "2",
+                    "title": "Principles of Macroeconomics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 107",
+                "prefix": "MTH",
+                "number": "107",
+                "title": "Elementary Statistics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "STAT C1000",
+                    "prefix": "STAT",
+                    "number": "C1000",
+                    "title": "Introduction to Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 200",
+                "prefix": "MGT",
+                "number": "200",
+                "title": "Information Systems Management",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MGT 205",
+                "prefix": "MGT",
+                "number": "205",
+                "title": "Org Behavior & Labor Rel",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BUS 125",
+                "prefix": "BUS",
+                "number": "125",
+                "title": "Introduction to International Maritime Bus and Supply Chain Management ",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 1",
+                    "prefix": "BUS",
+                    "number": "1",
+                    "title": "Introduction to Business",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "BUS 32",
+                    "prefix": "BUS",
+                    "number": "32",
+                    "title": "Business Communications",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "LAW 100",
+                "prefix": "LAW",
+                "number": "100",
+                "title": "Business Law",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 5",
+                    "prefix": "BUS",
+                    "number": "5",
+                    "title": "Business Law and the Legal Environment",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BUS 101",
+                "prefix": "BUS",
+                "number": "101",
+                "title": "Accounting Principles II: Managerial",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ACCTG 2",
+                    "prefix": "ACCTG",
+                    "number": "2",
+                    "title": "Corporate Financial and Managerial Accounting",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BUS 165",
+                "prefix": "BUS",
+                "number": "165",
+                "title": "Business Decision Analysis",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BUS 100",
+                "prefix": "BUS",
+                "number": "100",
+                "title": "Accounting Principles I: Financial",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ACCTG 1",
+                    "prefix": "ACCTG",
+                    "number": "1",
+                    "title": "Introduction to Financial Accounting",
+                    "units": 5.0
+                  }
+                ],
+                [
+                  {
+                    "code": "ACCTG 2",
+                    "prefix": "ACCTG",
+                    "number": "2",
+                    "title": "Corporate Financial and Managerial Accounting",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BUS 200",
+                "prefix": "BUS",
+                "number": "200",
+                "title": "Introduction to Marketing",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 20",
+                    "prefix": "BUS",
+                    "number": "20",
+                    "title": "Principles of Marketing",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "15746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "And",
+              "id": "dcdb02a1-d629-49a7-e1b4-08de17ffc29b",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 101",
+                "prefix": "MTH",
+                "number": "101",
+                "title": "College Algebra",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 4",
+                    "prefix": "MATH",
+                    "number": "4",
+                    "title": "College Algebra for STEM Majors",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "3c9a6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "87b0c474-da26-4f64-e1b6-08de17ffc29b",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MPM 190",
+                "prefix": "MPM",
+                "number": "190",
+                "title": "TSGB/International Experience Preparation",
+                "units": 1.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MPM 195",
+                "prefix": "MPM",
+                "number": "195",
+                "title": "TSGB/International Experience Special Topics",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Facilities Engineering Technology, B.S.",
+      "university": {
+        "id": 1,
+        "code": "CSUMA   ",
+        "isCommunityCollege": false,
+        "category": "CSU",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "California Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          },
+          {
+            "name": "California State University, Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 2015,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2015
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Cal Poly and Cal Maritime Integration Information",
+        "General Information",
+        "Program Overview",
+        "Grade Requirement",
+        "calculus prerequisite recommendation"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">The California State University (CSU) system is in transition to 22 universities. California Polytechnic State University, San Luis Obispo and California State University Maritime Academy (Cal Maritime) are integrating into one university with two locations. The maritime campus in Solano County will be known as Cal Poly Solano Campus and will house the Cal Poly Maritime Academy. The first Cal Poly Maritime Academy and Cal Poly Solano Campus students enrolling as Cal Poly students will take place in fall of 2026.</span></p><p><br></p><p><span style=\"font-size: 16px;\">For integration updates, visit our </span><a href=\"https://www.calpoly.edu/maritime/faq\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Maritime Integration</a><span style=\"font-size: 16px;\"> page.</span></p>",
+        "<p><span style=\"font-size: 16px;\">Refer to the </span><a href=\"https://maritime-archive.calpoly.edu/registrar/catalog/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">CSU Maritime Academy Catalog</a><span style=\"font-size: 16px;\"> for a full description of the program and degree requirements. Refer to the</span><a href=\"https://maritime.calpoly.edu/admissions\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\"> Admission Office</a><span style=\"font-size: 16px;\"> website for admission requirements and information. </span></p>",
+        "<p><span style=\"font-size: 16px;\">The Bachelor of Science in Facilities Engineering Technology requires a minimum of 153 units consisting of general education, major and graduation requirements. This agreement only lists the lower division major requirements that may be taken at the community college.</span></p><p><br></p><p><span style=\"font-size: 16px;\">The curriculum provides a foundation in the fundamentals of mechanical and electrical system engineering, as well as practical training in the operation and maintenance of real-world commercial and industrial facilities. The FET curriculum includes three 60-day practical training experiences; one sea training period aboard Training Ship Golden Bear and two industry co-operative education opportunities. The FET program also requires satisfactory completion of a qualifying examination administered by the Association for Facilities Engineering (AFE) to become a Certified Plant Engineer-in-Training (CPE-IT).</span></p>",
+        "<p><span style=\"font-size: 16px;\">A minimum cumulative GPA of 2.00 is required for the lower division major requirements listed in the Lower Division Major Requirements Area &gt; Section B.</span></p>",
+        "<p><span style=\"font-size: 16px;\">Calculus I is required for this major. It is highly recommended for students to enroll in a pre-calculus course before transferring. See Calculus Prerequisite Courses section.</span></p>"
+      ],
+      "requirements": [
+        {
+          "id": "30746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "8d95c309-b9df-4ca1-e1b2-08de17ffc29b",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 100",
+                "prefix": "ENG",
+                "number": "100",
+                "title": "Engineering Graphics",
+                "units": 2.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "LIB 100",
+                "prefix": "LIB",
+                "number": "100",
+                "title": "Information Fluency in the Digital World",
+                "units": 2.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 110",
+                "prefix": "ET",
+                "number": "110",
+                "title": "Intro to Engineering Tech",
+                "units": 1.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 230",
+                "prefix": "ET",
+                "number": "230",
+                "title": "Properties of Materials",
+                "units": 2.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 232",
+                "prefix": "ET",
+                "number": "232",
+                "title": "Statics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 250",
+                "prefix": "ET",
+                "number": "250",
+                "title": "Electrical Circuits",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 250L",
+                "prefix": "ET",
+                "number": "250L",
+                "title": "Electrical Circuits Lab",
+                "units": 1.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 230L",
+                "prefix": "ET",
+                "number": "230L",
+                "title": "Properties of Materials Lab",
+                "units": 1.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "31746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "87e5abaa-0473-419d-e1b3-08de17ffc29b",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 210",
+                "prefix": "MTH",
+                "number": "210",
+                "title": "Calculus I",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 7",
+                    "prefix": "MATH",
+                    "number": "7",
+                    "title": "Calculus 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 211",
+                "prefix": "MTH",
+                "number": "211",
+                "title": "Calculus II",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 8",
+                    "prefix": "MATH",
+                    "number": "8",
+                    "title": "Calculus 2",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CHE 205",
+                "prefix": "CHE",
+                "number": "205",
+                "title": "Chem of Power Plant Processes",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "0fce6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 100",
+                "prefix": "MTH",
+                "number": "100",
+                "title": "College Algebra and Trigonometry",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 2",
+                    "prefix": "MATH",
+                    "number": "2",
+                    "title": "Precalculus",
+                    "units": 5.0
+                  }
+                ],
+                [
+                  {
+                    "code": "MATH 4",
+                    "prefix": "MATH",
+                    "number": "4",
+                    "title": "College Algebra for STEM Majors",
+                    "units": 4.0
+                  },
+                  {
+                    "code": "MATH 3",
+                    "prefix": "MATH",
+                    "number": "3",
+                    "title": "Trigonometry with Applications",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "International Strategy and Security, B.A.",
+      "university": {
+        "id": 1,
+        "code": "CSUMA   ",
+        "isCommunityCollege": false,
+        "category": "CSU",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "California Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          },
+          {
+            "name": "California State University, Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 2015,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2015
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Cal Poly and Cal Maritime Integration Information",
+        "GENERAL INFORMATION",
+        "PROGAM OVERVIEW"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">The California State University (CSU) system is in transition to 22 universities. California Polytechnic State University, San Luis Obispo and California State University Maritime Academy (Cal Maritime) are integrating into one university with two locations. The maritime campus in Solano County will be known as Cal Poly Solano Campus and will house the Cal Poly Maritime Academy. The first Cal Poly Maritime Academy and Cal Poly Solano Campus students enrolling as Cal Poly students will take place in fall of 2026.</span></p><p><br></p><p><span style=\"font-size: 16px;\">For integration updates, visit our </span><a href=\"https://www.calpoly.edu/maritime/faq\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Maritime Integration</a><span style=\"font-size: 16px;\"> page.</span></p>",
+        "<p><span style=\"font-size: 16px;\">Refer to the </span><a href=\"https://maritime-archive.calpoly.edu/registrar/catalog/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">CSU Maritime Academy catalog</a><span style=\"font-size: 16px;\"> for a full description of the program and degree requirements. Refer to the </span><a href=\"https://maritime.calpoly.edu/admissions\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Admissions Office</a><span style=\"font-size: 16px;\"> website for admission requirements and information.</span></p>",
+        "<p><span style=\"font-size: 16px;\">The Bachelor of Arts in International Security and Strategy requires a minimum of 120 units consisting of general education, major, and graduation requirements. This agreement only lists the lower division major requirements.﻿</span></p><p><br></p><p><span style=\"font-size: 16px;\">Our unique curriculum is focused on equipping future leaders to tackle the most important international security and policy challenges of our time, from energy and environmental security to maritime and cybersecurity issues. Students will build skills in oral and written communication, critical thinking, problem solving, leadership development, policy analysis, research methods, and quantitative analysis.&nbsp;</span></p>"
+      ],
+      "requirements": [
+        {
+          "id": "7a2212ba-d5c3-47c3-a07a-019a4bd42ff2",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "75e220f7-bb02-444f-0616-08de177eea87",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MPM 190",
+                "prefix": "MPM",
+                "number": "190",
+                "title": "TSGB/International Experience Preparation",
+                "units": 1.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MPM 195",
+                "prefix": "MPM",
+                "number": "195",
+                "title": "TSGB/International Experience Special Topics",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "9cdf7145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "3edd0a7f-c1c3-4cee-0617-08de177eea87",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "GMA 100",
+                "prefix": "GMA",
+                "number": "100",
+                "title": "Introduction to International Relations",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "POL SC 7",
+                    "prefix": "POL SC",
+                    "number": "7",
+                    "title": "International Politics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 101",
+                "prefix": "MTH",
+                "number": "101",
+                "title": "College Algebra",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 4",
+                    "prefix": "MATH",
+                    "number": "4",
+                    "title": "College Algebra for STEM Majors",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 107",
+                "prefix": "MTH",
+                "number": "107",
+                "title": "Elementary Statistics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "STAT C1000",
+                    "prefix": "STAT",
+                    "number": "C1000",
+                    "title": "Introduction to Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECO 100",
+                "prefix": "ECO",
+                "number": "100",
+                "title": "Macroeconomics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ECON 2",
+                    "prefix": "ECON",
+                    "number": "2",
+                    "title": "Principles of Macroeconomics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECO 101",
+                "prefix": "ECO",
+                "number": "101",
+                "title": "Microeconomics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ECON 1",
+                    "prefix": "ECON",
+                    "number": "1",
+                    "title": "Principles of Microeconomics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "GMA 115",
+                "prefix": "GMA",
+                "number": "115",
+                "title": "Intro to Security Studies",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "GMA 215",
+                "prefix": "GMA",
+                "number": "215",
+                "title": "Introduction to Comparative Politics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "POL SC 2",
+                    "prefix": "POL SC",
+                    "number": "2",
+                    "title": "Comparative Government and Politics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "GMA 230",
+                "prefix": "GMA",
+                "number": "230",
+                "title": "U.S. Maritime Policy",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "GMA 240",
+                "prefix": "GMA",
+                "number": "240",
+                "title": "World Geography",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "GEOG 11",
+                    "prefix": "GEOG",
+                    "number": "11",
+                    "title": "World Geography: Introduction to Global Studies",
+                    "units": 3.0
+                  }
+                ],
+                [
+                  {
+                    "code": "GLOBAL 11",
+                    "prefix": "GLOBAL",
+                    "number": "11",
+                    "title": "World Geography: Introduction to Global Studies",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Marine Engineering Technology, B.S.",
+      "university": {
+        "id": 1,
+        "code": "CSUMA   ",
+        "isCommunityCollege": false,
+        "category": "CSU",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "California Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          },
+          {
+            "name": "California State University, Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 2015,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2015
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Cal Poly and Cal Maritime Integration Information",
+        "General Information",
+        "Program Overview",
+        "Grade Requirement",
+        "calculus prerequisite recommendation"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">The California State University (CSU) system is in transition to 22 universities. California Polytechnic State University, San Luis Obispo and California State University Maritime Academy (Cal Maritime) are integrating into one university with two locations. The maritime campus in Solano County will be known as Cal Poly Solano Campus and will house the Cal Poly Maritime Academy. The first Cal Poly Maritime Academy and Cal Poly Solano Campus students enrolling as Cal Poly students will take place in fall of 2026.</span></p><p><br></p><p><span style=\"font-size: 16px;\">For integration updates, visit our </span><a href=\"https://www.calpoly.edu/maritime/faq\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Maritime Integration</a><span style=\"font-size: 16px;\"> page.</span></p>",
+        "<p><span style=\"font-size: 16px;\">Refer to the </span><a href=\"https://maritime-archive.calpoly.edu/registrar/catalog/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">CSU Maritime Academy catalog</a><span style=\"font-size: 16px;\"> for a full description of the program and degree requirements. Refer to the </span><a href=\"https://maritime.calpoly.edu/admissions\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Admissions Office</a><span style=\"font-size: 16px;\"> website for admission requirements and information.</span></p><p><span style=\"font-size: 16px;\">﻿</span></p>",
+        "<p><span style=\"font-size: 16px;\">The Bachelor of Science in Marine Engineering Technology requires 158 units consisting of general education, major, and graduation requirements. This agreement only lists the lower division major courses that may be taken at the community college. Due to STCW requirements, some lower division courses in the major must be completed at Cal Maritime.&nbsp;</span></p><p><br></p><p><span style=\"font-size: 16px;\">The curriculum provides a foundation in the engineering fundamentals of shipboard mechanical and electrical systems, as well as practical training in the operation and maintenance of steam, motor, and gas turbine propulsion plants. The MET curriculum includes three 60-day practical training experiences; two sea training periods aboard Training Ship </span><em style=\"font-size: 16px;\">Golden Bear </em><span style=\"font-size: 16px;\">and one sea training period aboard a military or commercial vessel. The MET program also requires satisfactory completion of a qualifying examination administered by the U.S. Coast Guard to become a Third Assistant Engineer, Steam and Motor Vessels, Unlimited Horsepower.</span></p>",
+        "<p><span style=\"font-size: 16px;\">A minimum cumulative GPA of 2.00 is required for the lower division major requirements listed in the Lower Division Major Requirements Area &gt; Section B.</span></p>",
+        "<p><span style=\"font-size: 16px;\">Calculus I is required for this major. It is highly recommended for students to enroll in a pre-calculus course before transferring. See Calculus Prerequisite Courses section.</span></p>"
+      ],
+      "requirements": [
+        {
+          "id": "38746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "befde8b4-8873-44ed-e1af-08de17ffc29b",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "LIB 100",
+                "prefix": "LIB",
+                "number": "100",
+                "title": "Information Fluency in the Digital World",
+                "units": 2.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 100",
+                "prefix": "ENG",
+                "number": "100",
+                "title": "Engineering Graphics",
+                "units": 2.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 110",
+                "prefix": "ET",
+                "number": "110",
+                "title": "Intro to Engineering Tech",
+                "units": 1.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 230",
+                "prefix": "ET",
+                "number": "230",
+                "title": "Properties of Materials",
+                "units": 2.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 232",
+                "prefix": "ET",
+                "number": "232",
+                "title": "Statics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 250",
+                "prefix": "ET",
+                "number": "250",
+                "title": "Electrical Circuits",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 250L",
+                "prefix": "ET",
+                "number": "250L",
+                "title": "Electrical Circuits Lab",
+                "units": 1.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ET 230L",
+                "prefix": "ET",
+                "number": "230L",
+                "title": "Properties of Materials Lab",
+                "units": 1.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "39746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "393aeebc-93a2-47bb-e1b0-08de17ffc29b",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 210",
+                "prefix": "MTH",
+                "number": "210",
+                "title": "Calculus I",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 7",
+                    "prefix": "MATH",
+                    "number": "7",
+                    "title": "Calculus 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 211",
+                "prefix": "MTH",
+                "number": "211",
+                "title": "Calculus II",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 8",
+                    "prefix": "MATH",
+                    "number": "8",
+                    "title": "Calculus 2",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "1ace6f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 100",
+                "prefix": "MTH",
+                "number": "100",
+                "title": "College Algebra and Trigonometry",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 2",
+                    "prefix": "MATH",
+                    "number": "2",
+                    "title": "Precalculus",
+                    "units": 5.0
+                  }
+                ],
+                [
+                  {
+                    "code": "MATH 4",
+                    "prefix": "MATH",
+                    "number": "4",
+                    "title": "College Algebra for STEM Majors",
+                    "units": 4.0
+                  },
+                  {
+                    "code": "MATH 3",
+                    "prefix": "MATH",
+                    "number": "3",
+                    "title": "Trigonometry with Applications",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Marine Transportation, B.S.",
+      "university": {
+        "id": 1,
+        "code": "CSUMA   ",
+        "isCommunityCollege": false,
+        "category": "CSU",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "California Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          },
+          {
+            "name": "California State University, Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 2015,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2015
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Cal Poly and Cal Maritime Integration Information",
+        "Program overview",
+        "general information"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">The California State University (CSU) system is in transition to 22 universities. California Polytechnic State University, San Luis Obispo and California State University Maritime Academy (Cal Maritime) are integrating into one university with two locations. The maritime campus in Solano County will be known as Cal Poly Solano Campus and will house the Cal Poly Maritime Academy. The first Cal Poly Maritime Academy and Cal Poly Solano Campus students enrolling as Cal Poly students will take place in fall of 2026.</span></p><p><br></p><p><span style=\"font-size: 16px;\">For integration updates, visit our </span><a href=\"https://www.calpoly.edu/maritime/faq\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Maritime Integration</a><span style=\"font-size: 16px;\"> page.</span></p>",
+        "<p><span style=\"font-size: 16px;\">The Bachelor of Science in Marine Transportation requires a minimum of 148 units consisting of general education, major, and graduation requirements. Due to STCW requirements, some lower division courses in the major must be completed at Cal Maritime.&nbsp;</span></p><p><br></p><p><br></p><p><span style=\"font-size: 16px;\">﻿The MT curriculum includes three practical training experiences: two sea training periods aboard the Training Ship GOLDEN BEAR, and one sea training period aboard a military or commercial vessel. The MT program also requires satisfactory completion of a qualifying examination administered by the U.S. Coast Guard to obtain a Third Mate, Unlimited, Any Ocean license, which is essential to gaining employment as a licensed deck officer on a commercial vessel. This agreement only lists the lower division major requirements. Due to STCW requirements, all lower division courses in the major must be completed at Cal Maritime. The courses below are recommended in order to fulfill GE requirements and/or upper division course prerequisites in the major.</span></p>",
+        "<p><span style=\"font-size: 16px;\">Refer to the </span><a href=\"https://maritime-archive.calpoly.edu/registrar/catalog/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">CSU Maritime Academy Catalog</a><span style=\"font-size: 16px;\"> for a full description of the program and degree requirements. Refer to the </span><a href=\"https://maritime.calpoly.edu/admissions\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Admissions Office</a><span style=\"font-size: 16px;\"> website for admission requirements and information.</span></p>"
+      ],
+      "requirements": [
+        {
+          "id": "ad776f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "ccb0751d-9371-40ad-0618-08de177eea87",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECO 100",
+                "prefix": "ECO",
+                "number": "100",
+                "title": "Macroeconomics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ECON 2",
+                    "prefix": "ECON",
+                    "number": "2",
+                    "title": "Principles of Macroeconomics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 100",
+                "prefix": "MTH",
+                "number": "100",
+                "title": "College Algebra and Trigonometry",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 2",
+                    "prefix": "MATH",
+                    "number": "2",
+                    "title": "Precalculus",
+                    "units": 5.0
+                  }
+                ],
+                [
+                  {
+                    "code": "MATH 4",
+                    "prefix": "MATH",
+                    "number": "4",
+                    "title": "College Algebra for STEM Majors",
+                    "units": 4.0
+                  },
+                  {
+                    "code": "MATH 3",
+                    "prefix": "MATH",
+                    "number": "3",
+                    "title": "Trigonometry with Applications",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Mechanical Engineering, General Option , B.S.",
+      "university": {
+        "id": 1,
+        "code": "CSUMA   ",
+        "isCommunityCollege": false,
+        "category": "CSU",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "California Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          },
+          {
+            "name": "California State University, Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 2015,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2015
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Cal Poly and Cal Maritime Integration Information",
+        "program overview",
+        "General Information",
+        "Grade Requirement"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">The California State University (CSU) system is in transition to 22 universities. California Polytechnic State University, San Luis Obispo and California State University Maritime Academy (Cal Maritime) are integrating into one university with two locations. The maritime campus in Solano County will be known as Cal Poly Solano Campus and will house the Cal Poly Maritime Academy. The first Cal Poly Maritime Academy and Cal Poly Solano Campus students enrolling as Cal Poly students will take place in fall of 2026.</span></p><p><br></p><p><span style=\"font-size: 16px;\">For integration updates, visit our </span><a href=\"https://www.calpoly.edu/maritime/faq\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Maritime Integration</a><span style=\"font-size: 16px;\"> page.</span></p>",
+        "<p><span style=\"font-size: 16px;\">The Bachelor of Science in Mechanical Engineering (general option) requires a minimum of 146 units consisting of general education, major and graduation requirements. The courses below are recommended in order to fulfill GE requirements and/or upper division course prerequisites for the Mechanical Engineering B.S. non license program only.</span></p><p><br></p><p><span style=\"font-size: 16px;\">The mission of the Mechanical Engineering program is to produce entry-level professionals capable of applying their knowledge of science and engineering in the design, analysis, evaluation, and production of engineering devices and systems. It also provides students with the necessary academic preparation for further education and professional development in their chosen career. </span></p>",
+        "<p><span style=\"font-size: 16px;\">Refer to the </span><a href=\"https://maritime-archive.calpoly.edu/registrar/catalog/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">CSU Maritime Academy catalog</a><span style=\"font-size: 16px;\"> for a full description of the program and degree requirements. Refer to the </span><a href=\"https://maritime.calpoly.edu/admissions\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Admission Office website</a><span style=\"font-size: 16px;\"> for admission requirements and information. </span></p>",
+        "<p><span style=\"font-size: 16px;\">A minimum cumulative GPA of 2.0 is required for the lower division requirements for this major. All transferable courses must be completed with a C- average or higher.</span></p>"
+      ],
+      "requirements": [
+        {
+          "id": "a3776f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ME 240",
+                "prefix": "ME",
+                "number": "240",
+                "title": "Engineering Thermodynamics",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ME 230",
+                "prefix": "ME",
+                "number": "230",
+                "title": "Engineering Materials",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ME 232",
+                "prefix": "ME",
+                "number": "232",
+                "title": "Engineering Statics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGR 12",
+                    "prefix": "ENGR",
+                    "number": "12",
+                    "title": "Statics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ME 220",
+                "prefix": "ME",
+                "number": "220",
+                "title": "Computer Aided Engineering",
+                "units": 2.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 212",
+                "prefix": "MTH",
+                "number": "212",
+                "title": "Calculus III",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 11",
+                    "prefix": "MATH",
+                    "number": "11",
+                    "title": "Multivariable Calculus",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 215",
+                "prefix": "MTH",
+                "number": "215",
+                "title": "Differential Equations",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 15",
+                    "prefix": "MATH",
+                    "number": "15",
+                    "title": "Differential Equations",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 210",
+                "prefix": "MTH",
+                "number": "210",
+                "title": "Calculus I",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 7",
+                    "prefix": "MATH",
+                    "number": "7",
+                    "title": "Calculus 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 211",
+                "prefix": "MTH",
+                "number": "211",
+                "title": "Calculus II",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 8",
+                    "prefix": "MATH",
+                    "number": "8",
+                    "title": "Calculus 2",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 210",
+                "prefix": "ENG",
+                "number": "210",
+                "title": "Engineering Computer Programming",
+                "units": 2.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 110",
+                "prefix": "ENG",
+                "number": "110",
+                "title": "Intro to Engineering and Technology",
+                "units": 1.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGR 1",
+                    "prefix": "ENGR",
+                    "number": "1",
+                    "title": "Introduction to Engineering",
+                    "units": 2.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Mechanical Engineering, U.S. Coast Guard License, B.S.",
+      "university": {
+        "id": 1,
+        "code": "CSUMA   ",
+        "isCommunityCollege": false,
+        "category": "CSU",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "California Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          },
+          {
+            "name": "California State University, Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 2015,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2015
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Cal Poly and Cal Maritime Integration Information",
+        "GENERAL INFORMATION",
+        "PROGRAM OVERVIEW",
+        "GRADE REQUIREMENT"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">The California State University (CSU) system is in transition to 22 universities. California Polytechnic State University, San Luis Obispo and California State University Maritime Academy (Cal Maritime) are integrating into one university with two locations. The maritime campus in Solano County will be known as Cal Poly Solano Campus and will house the Cal Poly Maritime Academy. The first Cal Poly Maritime Academy and Cal Poly Solano Campus students enrolling as Cal Poly students will take place in fall of 2026.</span></p><p><br></p><p><span style=\"font-size: 16px;\">For integration updates, visit our </span><a href=\"https://www.calpoly.edu/maritime/faq\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Maritime Integration</a><span style=\"font-size: 16px;\"> page.</span></p>",
+        "<p><span style=\"font-size: 16px;\">Refer to the </span><a href=\"https://maritime-archive.calpoly.edu/registrar/catalog/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">CSU Maritime Academy catalog</a><span style=\"font-size: 16px;\"> for a full description of the program and degree requirements. Refer to the </span><a href=\"https://maritime.calpoly.edu/admissions\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Admission Office website</a><span style=\"font-size: 16px;\"> for admission requirements and information. </span></p>",
+        "<p><span style=\"font-size: 16px;\"> The Bachelor of Science in Mechanical Engineering carries a Third Assistant Engineer's License in partnership with the U.S. Coast Guard. The degree requires a minimum of 171 units consisting of general education, major and graduation requirements. Due to STCW requirements, some lower division courses in the major must be completed at Cal Maritime.&nbsp;</span></p><p><br></p><p><span style=\"font-size: 16px;\">﻿The mission of the Mechanical Engineering program is to produce entry-level professionals capable of applying their knowledge of science and engineering in the design, analysis, evaluation, and production of engineering devices and systems. It also provides students with the necessary academic preparation for further education and professional development in their chosen career.</span></p>",
+        "<p><span style=\"font-size: 16px;\">A minimum cumulative GPA of 2.0 or higher is required for the lower division requirements for this major. All transferable courses must be completed with a C-average or higher.</span></p>"
+      ],
+      "requirements": [
+        {
+          "id": "27746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": []
+        },
+        {
+          "id": "28746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 2,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 215",
+                "prefix": "MTH",
+                "number": "215",
+                "title": "Differential Equations",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 15",
+                    "prefix": "MATH",
+                    "number": "15",
+                    "title": "Differential Equations",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 210",
+                "prefix": "MTH",
+                "number": "210",
+                "title": "Calculus I",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 7",
+                    "prefix": "MATH",
+                    "number": "7",
+                    "title": "Calculus 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 211",
+                "prefix": "MTH",
+                "number": "211",
+                "title": "Calculus II",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 8",
+                    "prefix": "MATH",
+                    "number": "8",
+                    "title": "Calculus 2",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 212",
+                "prefix": "MTH",
+                "number": "212",
+                "title": "Calculus III",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 11",
+                    "prefix": "MATH",
+                    "number": "11",
+                    "title": "Multivariable Calculus",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "29746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": []
+        },
+        {
+          "id": "2a746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 4,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 110",
+                "prefix": "ENG",
+                "number": "110",
+                "title": "Intro to Engineering and Technology",
+                "units": 1.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGR 1",
+                    "prefix": "ENGR",
+                    "number": "1",
+                    "title": "Introduction to Engineering",
+                    "units": 2.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 210",
+                "prefix": "ENG",
+                "number": "210",
+                "title": "Engineering Computer Programming",
+                "units": 2.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "2b746f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ME 230",
+                "prefix": "ME",
+                "number": "230",
+                "title": "Engineering Materials",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ME 232",
+                "prefix": "ME",
+                "number": "232",
+                "title": "Engineering Statics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGR 12",
+                    "prefix": "ENGR",
+                    "number": "12",
+                    "title": "Statics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ME 240",
+                "prefix": "ME",
+                "number": "240",
+                "title": "Engineering Thermodynamics",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "Oceanography B.S.",
+      "university": {
+        "id": 1,
+        "code": "CSUMA   ",
+        "isCommunityCollege": false,
+        "category": "CSU",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "California Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          },
+          {
+            "name": "California State University, Maritime Academy",
+            "hasDepartments": true,
+            "fromYear": 2015,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2015
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Cal Poly and Cal Maritime Integration Information",
+        "calculus prerequisite recommendation",
+        "Program overview",
+        "general information"
+      ],
+      "general_texts": [
+        "<p><span style=\"font-size: 16px;\">The California State University (CSU) system is in transition to 22 universities. California Polytechnic State University, San Luis Obispo and California State University Maritime Academy (Cal Maritime) are integrating into one university with two locations. The maritime campus in Solano County will be known as Cal Poly Solano Campus and will house the Cal Poly Maritime Academy. The first Cal Poly Maritime Academy and Cal Poly Solano Campus students enrolling as Cal Poly students will take place in fall of 2026.</span></p><p><br></p><p><span style=\"font-size: 16px;\">For integration updates, visit our </span><a href=\"https://www.calpoly.edu/maritime/faq\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Maritime Integration</a><span style=\"font-size: 16px;\"> page.</span></p>",
+        "<p><span style=\"font-size: 16px;\">Refer to the </span><a href=\"https://maritime-archive.calpoly.edu/registrar/catalog/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">CSU Maritime Academy catalog</a><span style=\"font-size: 16px;\"> for a full description of the program and degree requirements. Refer to the </span><a href=\"https://maritime.calpoly.edu/admissions\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">Admissions Office</a><span style=\"font-size: 16px;\"> website for admission requirements and information.</span></p>",
+        "<p><span style=\"font-size: 16px;\">Calculus I is required for this major. It is highly recommended for students to enroll in a pre-calculus course before transferring. See Calculus Prerequisite Courses section.</span></p>",
+        "<p><span style=\"font-size: 16px;\">The Bachelor of Science in Oceanography requires a minimum of 120 units consisting of general education, major, and graduation requirements. This agreement only lists the lower division major requirements that may be fulfilled at the community college.</span></p>"
+      ],
+      "requirements": [
+        {
+          "id": "bd736f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 100",
+                "prefix": "MTH",
+                "number": "100",
+                "title": "College Algebra and Trigonometry",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 2",
+                    "prefix": "MATH",
+                    "number": "2",
+                    "title": "Precalculus",
+                    "units": 5.0
+                  }
+                ],
+                [
+                  {
+                    "code": "MATH 4",
+                    "prefix": "MATH",
+                    "number": "4",
+                    "title": "College Algebra for STEM Majors",
+                    "units": 4.0
+                  },
+                  {
+                    "code": "MATH 3",
+                    "prefix": "MATH",
+                    "number": "3",
+                    "title": "Trigonometry with Applications",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "cc736f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "COM 107",
+                "prefix": "COM",
+                "number": "107",
+                "title": "Programming in R",
+                "units": 1.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 107",
+                "prefix": "MTH",
+                "number": "107",
+                "title": "Elementary Statistics",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "STAT C1000",
+                    "prefix": "STAT",
+                    "number": "C1000",
+                    "title": "Introduction to Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MTH 210",
+                "prefix": "MTH",
+                "number": "210",
+                "title": "Calculus I",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 7",
+                    "prefix": "MATH",
+                    "number": "7",
+                    "title": "Calculus 1",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "d5736f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "OCN 210",
+                "prefix": "OCN",
+                "number": "210",
+                "title": "Oceanography II: Physics and Biology",
+                "units": 3.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "OCN 210L",
+                "prefix": "OCN",
+                "number": "210L",
+                "title": "Introduction to Oceanography Laboratory II",
+                "units": 1.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "d8736f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 2,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {}
+          },
+          "items": []
+        }
+      ]
+    }
+  ]
+}

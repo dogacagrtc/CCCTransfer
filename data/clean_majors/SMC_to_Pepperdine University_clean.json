@@ -1,0 +1,821 @@
+{
+  "meta": {
+    "name": "All Majors",
+    "type": "AllMajors",
+    "publishDate": "2025-09-23T18:49:29.176747",
+    "academicYear": {
+      "id": 76,
+      "code": "2025-2026",
+      "beginDate": "2025-10-01T00:00:00",
+      "endDate": "2026-10-01T00:00:00",
+      "isOpenForMaintenance": true,
+      "isOpenForPublic": true,
+      "isOpenForReporting": true,
+      "isLocked": false
+    },
+    "catalogYear": {
+      "receivingCatalogYearBegin": 2025,
+      "receivingCatalogYearEnd": 2026,
+      "sendingCatalogYearBegin": 2025,
+      "sendingCatalogYearEnd": 2026
+    },
+    "receivingInstitution": {
+      "id": 214,
+      "code": "PEPRDN",
+      "isCommunityCollege": false,
+      "category": "Independent",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Pepperdine University",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2024
+        }
+      ],
+      "beginId": 75,
+      "endId": null
+    },
+    "sendingInstitution": {
+      "id": 137,
+      "code": "SMCC    ",
+      "isCommunityCollege": true,
+      "category": "CCC",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Santa Monica College",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2020
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 2016
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 1980
+        }
+      ],
+      "beginId": 31,
+      "endId": null
+    },
+    "document_type": "AllMajors",
+    "downloaded_year_id": 76,
+    "isSuccessful": true,
+    "validationFailure": null
+  },
+  "majors": [
+    {
+      "major": "College of Health Science - ELM-CNL",
+      "university": {
+        "id": 214,
+        "code": "PEPRDN",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Pepperdine University",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [],
+      "general_texts": [
+        "<p class=\"highlight\"><strong style=\"font-size: 54px;\">Must Read: </strong><strong style=\"font-size: 20px;\">ELM-CNL students only need to take a General Chemistry course to qualify for the program.</strong></p><p><br></p><p><strong style=\"font-size: 20px;\">Grading</strong></p><p>You must achieve a <strong>cumulative GPA exceeding 3.0</strong> across the following courses, with a <strong>minimum grade of \"C\" in each</strong>:</p><ul><li><strong>BIOL 230:</strong> Human Anatomy with laboratory</li><li><strong>BIOL 270:</strong> Human Physiology</li><li><strong>BIOL 280:</strong> Microbiology for the Healthcare Professions</li><li><strong>CHEM 220:</strong> Chemistry for the Healthcare Professions</li><li><strong>PSYC 200:</strong> Introduction to Psychology</li><li><strong>SOC 200:</strong> Introduction to Sociology</li></ul><p>Additionally, these courses require a <strong>minimum grade of \"C\" in each</strong>:</p><ul><li><strong>ENG 101:</strong> English Composition</li><li><strong>COM 180:</strong> Speech and Rhetoric</li><li><strong>STAT 250:</strong> Introductory Statistics for the Healthcare Professions</li></ul><p>Your combined English composition and communication coursework (like ENG 101 and COM 180) must total <strong>at least 6 semester credit hours</strong>.</p><p><strong style=\"font-size: 20px;\">Strongly Preferred</strong></p><p>While not mandatory, <strong>intermediate-level Spanish language competency is strongly preferred</strong>. You are also highly encouraged to take <strong>LANG 241, Medical Spanish for the Healthcare Professions</strong>, during your enrollment at Pepperdine, in addition to the ELM curriculum.</p>"
+      ],
+      "requirements": [
+        {
+          "id": "5caab7ba-149d-4510-928f-0197f5452e16",
+          "area": "Requirements",
+          "position": 0,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "And",
+              "id": "359b3e66-83a2-48df-6f9d-08ddab8e0d88",
+              "selectionType": "Select"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BIOL 230",
+                "prefix": "BIOL",
+                "number": "230",
+                "title": "Human Anatomy",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ANATMY 1",
+                    "prefix": "ANATMY",
+                    "number": "1",
+                    "title": "General Human Anatomy",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BIOL 270",
+                "prefix": "BIOL",
+                "number": "270",
+                "title": "Principles of Human Physiology",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PHYS 3",
+                    "prefix": "PHYS",
+                    "number": "3",
+                    "title": "Human Physiology",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BIOL 280",
+                "prefix": "BIOL",
+                "number": "280",
+                "title": "Microbiology for the Healthcare Professions",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MCRBIO 1",
+                    "prefix": "MCRBIO",
+                    "number": "1",
+                    "title": "Fundamentals of Microbiology",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CHEM 220.0",
+                "prefix": "CHEM",
+                "number": "220.0",
+                "title": "Chemistry for Nursing Professionals",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSYC 200",
+                "prefix": "PSYC",
+                "number": "200",
+                "title": "Introduction to Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYC C1000",
+                    "prefix": "PSYC",
+                    "number": "C1000",
+                    "title": "General Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "SOC 200",
+                "prefix": "SOC",
+                "number": "200",
+                "title": "Intro to Sociology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "SOCIOL 1",
+                    "prefix": "SOCIOL",
+                    "number": "1",
+                    "title": "Introduction to Sociology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 101",
+                "prefix": "ENG",
+                "number": "101",
+                "title": "English Composition",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL C1000",
+                    "prefix": "ENGL",
+                    "number": "C1000",
+                    "title": "Academic Reading and Writing",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "COM 180",
+                "prefix": "COM",
+                "number": "180",
+                "title": "Public Spkng/Rhet Analys",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "COMM C1000",
+                    "prefix": "COMM",
+                    "number": "C1000",
+                    "title": "Introduction to Public Speaking",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "STAT 250",
+                "prefix": "STAT",
+                "number": "250",
+                "title": "Introductory Statistics for the Healthcare Professions",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "STAT C1000",
+                    "prefix": "STAT",
+                    "number": "C1000",
+                    "title": "Introduction to Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "SPAN 152",
+                "prefix": "SPAN",
+                "number": "152",
+                "title": "Elementary Spanish II",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "SPAN 2",
+                    "prefix": "SPAN",
+                    "number": "2",
+                    "title": "Elementary Spanish II",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "College of Health Science - Two Year BSN Nursing",
+      "university": {
+        "id": 214,
+        "code": "PEPRDN",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Pepperdine University",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [],
+      "general_texts": [],
+      "requirements": [
+        {
+          "id": "8117f7bd-1fe3-4be4-bc46-0197ae6dd111",
+          "area": "Requirements",
+          "position": 0,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "f13884ce-70a4-412a-645e-08ddb3499762",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CHEM 220",
+                "prefix": "CHEM",
+                "number": "220",
+                "title": "Chemistry for Nursing Professionals",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CHEM 19",
+                    "prefix": "CHEM",
+                    "number": "19",
+                    "title": "Fundamentals of General, Organic, and Biological Chemistry",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "SOC 200",
+                "prefix": "SOC",
+                "number": "200",
+                "title": "Intro to Sociology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "SOCIOL 1",
+                    "prefix": "SOCIOL",
+                    "number": "1",
+                    "title": "Introduction to Sociology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ENG 101",
+                "prefix": "ENG",
+                "number": "101",
+                "title": "English Composition",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGL C1000",
+                    "prefix": "ENGL",
+                    "number": "C1000",
+                    "title": "Academic Reading and Writing",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "COM 180",
+                "prefix": "COM",
+                "number": "180",
+                "title": "Public Spkng/Rhet Analys",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "COMM C1000",
+                    "prefix": "COMM",
+                    "number": "C1000",
+                    "title": "Introduction to Public Speaking",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "STAT 250",
+                "prefix": "STAT",
+                "number": "250",
+                "title": "Introductory Statistics for the Healthcare Professions",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "STAT C1000",
+                    "prefix": "STAT",
+                    "number": "C1000",
+                    "title": "Introduction to Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "SPAN 152",
+                "prefix": "SPAN",
+                "number": "152",
+                "title": "Elementary Spanish II",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "SPAN 2",
+                    "prefix": "SPAN",
+                    "number": "2",
+                    "title": "Elementary Spanish II",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "LANG 241",
+                "prefix": "LANG",
+                "number": "241",
+                "title": "Medical Spanish for the Healthcare Professions",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BIOL 280",
+                "prefix": "BIOL",
+                "number": "280",
+                "title": "Microbiology for the Healthcare Professions",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MCRBIO 1",
+                    "prefix": "MCRBIO",
+                    "number": "1",
+                    "title": "Fundamentals of Microbiology",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BIOL 230",
+                "prefix": "BIOL",
+                "number": "230",
+                "title": "Human Anatomy",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ANATMY 1",
+                    "prefix": "ANATMY",
+                    "number": "1",
+                    "title": "General Human Anatomy",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BIOL 270",
+                "prefix": "BIOL",
+                "number": "270",
+                "title": "Principles of Human Physiology",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PHYS 3",
+                    "prefix": "PHYS",
+                    "number": "3",
+                    "title": "Human Physiology",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PSYC 200",
+                "prefix": "PSYC",
+                "number": "200",
+                "title": "Introduction to Psychology",
+                "units": 3.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "PSYC C1000",
+                    "prefix": "PSYC",
+                    "number": "C1000",
+                    "title": "General Psychology",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "a9e992e6-0ba5-40b7-b0a9-0197c294ca3f",
+          "area": "Requirements",
+          "position": 2,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "afabeaa9-1449-4518-6460-08ddb3499762",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "c9fc3e9b-e03b-4945-a558-0199108ad4d3",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "a780a0fb-2649-40f4-380c-08dde8f5024d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        }
+      ]
+    }
+  ]
+}

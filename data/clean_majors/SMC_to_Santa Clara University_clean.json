@@ -1,0 +1,2256 @@
+{
+  "meta": {
+    "name": "All General Education",
+    "type": "AllGeneralEducation",
+    "publishDate": "2025-10-27T21:19:07.350151",
+    "academicYear": {
+      "id": 76,
+      "code": "2025-2026",
+      "beginDate": "2025-10-01T00:00:00",
+      "endDate": "2026-10-01T00:00:00",
+      "isOpenForMaintenance": true,
+      "isOpenForPublic": true,
+      "isOpenForReporting": true,
+      "isLocked": false
+    },
+    "catalogYear": {
+      "receivingCatalogYearBegin": 2025,
+      "receivingCatalogYearEnd": 2026,
+      "sendingCatalogYearBegin": 2025,
+      "sendingCatalogYearEnd": 2026
+    },
+    "receivingInstitution": {
+      "id": 227,
+      "code": "SCU",
+      "isCommunityCollege": false,
+      "category": "Independent",
+      "termType": "Quarter",
+      "names": [
+        {
+          "name": "Santa Clara University",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Quarter",
+          "fromYear": 2024
+        }
+      ],
+      "beginId": 75,
+      "endId": null
+    },
+    "sendingInstitution": {
+      "id": 137,
+      "code": "SMCC    ",
+      "isCommunityCollege": true,
+      "category": "CCC",
+      "termType": "Semester",
+      "names": [
+        {
+          "name": "Santa Monica College",
+          "hasDepartments": true,
+          "fromYear": 0,
+          "hideInList": false
+        }
+      ],
+      "termTypeAcademicYears": [
+        {
+          "termType": "Semester",
+          "fromYear": 2020
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 2016
+        },
+        {
+          "termType": "Semester",
+          "fromYear": 1980
+        }
+      ],
+      "beginId": 31,
+      "endId": null
+    },
+    "document_type": "AllGeneralEducation",
+    "downloaded_year_id": 76,
+    "isSuccessful": true,
+    "validationFailure": null
+  },
+  "majors": [
+    {
+      "major": "Leavey School of Business",
+      "university": {
+        "id": 227,
+        "code": "SCU",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Quarter",
+        "names": [
+          {
+            "name": "Santa Clara University",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Quarter",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Admission Recommendations for the Leavey School of Business"
+      ],
+      "general_texts": [
+        "<p>Thank you for your interest in Santa Clara University! This guide has been designed to help make the course-planning process easier for students who wish to transfer to Santa Clara University. Head to our <a href=\"https://www.scu.edu/registrar/transfercredit/\" rel=\"noopener noreferrer\" target=\"_blank\">Transfer Guides</a> page for more details on the credit transfer process.</p><p><br></p><p><strong>Leavey School of Business Admission <em>Recommendations</em> for Transfer Students</strong>:</p><p>This page shows the SCU Core and Leavey School of Business courses recommended for transferring to Santa Clara University. While there are no transfer requirements, we recommend prioritizing the following in your application.</p><p><br></p><p><strong>Bachelor of Science in Commerce majors:</strong>&nbsp;Accounting, Accounting and Information Systems, Economics, Finance, Management, Marketing, Management Information Systems Courses strongly recommended for admission:</p><ul><li>Two English composition courses</li><li>One-Two Calculus courses</li><li class=\"ql-indent-1\"><strong><em>MATHEMATICS: Starting Fall 2024 Finance and Economics majors require two Calculus courses (Calculus 1 and 2). All other business majors only require Calculus 1.&nbsp;</em></strong></li><li>One Macroeconomics course and One Microeconomics course</li><li>One Financial Accounting Course and One Managerial Accounting Course</li><li>GPA 3.5&nbsp;</li></ul><p><br></p><p>You may also choose to complete other SCU Course requirements listed below before transferring.</p><p><br></p><p><strong>*NOTE: Business majors will complete their Cultures &amp; Ideas 3 class and Ethics class upon enrollment at SCU. Economics courses will fulfill the Social Sciences requirement. Additional recommendations specific to the Leavey School of Business are listed at the bottom of this page. View our </strong><a href=\"https://www.scu.edu/registrar/transfercredit/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Transfer Guides</strong></a><strong> page for more details. </strong></p>",
+        "<p><strong>Structure of Santa Clara University General Core</strong></p><p><br></p><p>To view the Santa Clara University core curriculum requirements check out our <a href=\"https://www.scu.edu/provost/core/\" rel=\"noopener noreferrer\" target=\"_blank\">Core Curriculum</a> page.</p><p>Some Core requirements must be met at SCU: Civic Engagement, Religion Theology &amp; Culture 2, Science Technology &amp; Society, Religion Theology &amp; Culture 3, Experiential Learning for Social Justice, Advanced Writing, and Pathways.</p><p>Moreover, no courses listed in this guide can fulfill more than one core requirement.</p><p><br></p><p><strong>Navigating this Guide</strong></p><p><br></p><p>The first courses listed on this page are the<strong><em> recommended courses for admission to SCU</em></strong>. We do not have particular requirements for transferring, but we do recommend you complete most of the courses tagged as \"Recommended Courses\" below and meet the recommended GPA. The remaining courses listed will fulfill university core requirements or Leavey School of Business requirements.</p><p><br></p><p>*NOTE: Courses with a co-requisite must be completed together to meet the requirement</p>"
+      ],
+      "requirements": [
+        {
+          "id": "3331de22-1488-4942-bfb7-019327b0c0a6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Each",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "8c8b4360-f3c1-43dd-838e-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "2f754c0f-5f89-4b5a-8540-019327b0c0a7",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ONE_OF",
+            "n": null,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "Or",
+              "id": "0df5ea58-80b9-49f4-838f-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 30",
+                "prefix": "MATH",
+                "number": "30",
+                "title": "Calculus for Business I",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 28",
+                    "prefix": "MATH",
+                    "number": "28",
+                    "title": "Calculus 1 for Business and Social Science",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "dcc27a00-5436-4892-b51a-019327b0c0a7",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "And",
+              "id": "ba646c20-2adf-4471-8390-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECON 1",
+                "prefix": "ECON",
+                "number": "1",
+                "title": "Principles of Microeconomics",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ECON 1",
+                    "prefix": "ECON",
+                    "number": "1",
+                    "title": "Principles of Microeconomics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ECON 2",
+                "prefix": "ECON",
+                "number": "2",
+                "title": "Principles of Macroeconomics",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ECON 2",
+                    "prefix": "ECON",
+                    "number": "2",
+                    "title": "Principles of Macroeconomics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "826847db-6880-4305-baa8-019327b0c0a7",
+          "area": "Requirements",
+          "position": 7,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "And",
+              "id": "9cebded0-4be5-4e42-8391-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ACTG 11",
+                "prefix": "ACTG",
+                "number": "11",
+                "title": "Introduction to Financial Accounting",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ACCTG 1",
+                    "prefix": "ACCTG",
+                    "number": "1",
+                    "title": "Introduction to Financial Accounting",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "ACTG 12",
+                "prefix": "ACTG",
+                "number": "12",
+                "title": "Introduction to Managerial Accounting",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ACCTG 2",
+                    "prefix": "ACCTG",
+                    "number": "2",
+                    "title": "Corporate Financial and Managerial Accounting",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "8ef29877-222c-4b9f-a1ac-019327b0c0a7",
+          "area": "Requirements",
+          "position": 9,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "8ab61d9e-9522-4831-8392-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "0f51da4c-d984-4ef3-8432-019327bdbb87",
+          "area": "Requirements",
+          "position": 11,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Each",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "3258449c-54ab-49e1-8393-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "d112ee99-be44-4bbc-a569-019327bdbb87",
+          "area": "Requirements",
+          "position": 13,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "6be93434-5901-4586-8394-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "8f8810d6-2e91-42bf-9ae2-019327bdbb87",
+          "area": "Requirements",
+          "position": 19,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "0577cdee-f552-4c1c-8395-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "d069efdd-d8cf-484b-a3c1-019327bdbb87",
+          "area": "Requirements",
+          "position": 15,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "c970e6d5-1565-4f06-8396-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "d7561624-5cb4-4322-8646-019327bdbb87",
+          "area": "Requirements",
+          "position": 17,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 4,
+            "min_count": 4,
+            "max_count": 4,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 4.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "QuarterUnit",
+              "toAmountDeterminer": "None",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "daa37ee9-86bf-4198-8397-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "b3cf461f-80ab-4df8-b00b-019327bdbb88",
+          "area": "Requirements",
+          "position": 21,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "44bcfdae-1e93-49ff-8398-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BUSN 70",
+                "prefix": "BUSN",
+                "number": "70",
+                "title": "Contemporary Business Issues",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 1",
+                    "prefix": "BUS",
+                    "number": "1",
+                    "title": "Introduction to Business",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "OMIS 34",
+                "prefix": "OMIS",
+                "number": "34",
+                "title": "Science, Information Technology, Business and Society.",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CIS 1",
+                    "prefix": "CIS",
+                    "number": "1",
+                    "title": "Introduction to Computer Information Systems",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "BUSN 85",
+                "prefix": "BUSN",
+                "number": "85",
+                "title": "Business Law",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "BUS 5",
+                    "prefix": "BUS",
+                    "number": "5",
+                    "title": "Business Law and the Legal Environment",
+                    "units": 3.0
+                  },
+                  {
+                    "code": "BUS 6",
+                    "prefix": "BUS",
+                    "number": "6",
+                    "title": "Advanced Business Law",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "86181d77-1e4c-4b6c-9c27-019327bdbb88",
+          "area": "Requirements",
+          "position": 22,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "c2a76c76-e38f-4ff1-8399-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "OMIS 40",
+                "prefix": "OMIS",
+                "number": "40",
+                "title": "Statistics and Data Analysis I",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "STAT C1000",
+                    "prefix": "STAT",
+                    "number": "C1000",
+                    "title": "Introduction to Statistics",
+                    "units": 4.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "major": "School of Engineering",
+      "university": {
+        "id": 227,
+        "code": "SCU",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Quarter",
+        "names": [
+          {
+            "name": "Santa Clara University",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Quarter",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Admission Recommendations for the School of Engineering"
+      ],
+      "general_texts": [
+        "<p><br></p><p>Thank you for your interest in Santa Clara University! This guide has been designed to help make the course-planning process easier for students who wish to transfer to Santa Clara University. Head to our <a href=\"https://www.scu.edu/registrar/transfercredit/\" rel=\"noopener noreferrer\" target=\"_blank\">Transfer Guides</a> page for more details on the credit transfer process.</p><p><br></p><p><strong>The School of Engineering <em>Admission Recommendations</em> for Transfer Students</strong>:</p><p>This page shows the SCU Core and School of Engineering courses recommended for transferring to Santa Clara University. While there are no transfer requirements, we recommend prioritizing the following in your application.</p><p><br></p><p><strong>Bachelor of Science in Engineering Majors:</strong>&nbsp;Bioengineering, Civil Engineering, Computer Science and Engineering, Electrical Engineering, Electrical and Computer Engineering, General Engineering, Mechanical Engineering, Web Design and Engineering</p><ul><li>Two English composition courses</li><li>Two calculus courses</li><li>One general chemistry course</li><li>Two calculus-based physics courses</li><li>GPA 3.5</li></ul><p><br></p><p>You may also choose to complete other SCU Course requirements listed below before transferring.</p><p><br></p><p><strong>*NOTE: There is no Second Language requirement for Engineering majors and the Arts requirement will be fulfilled in the School of Engineering at SCU. Additional recommendations specific to your Engineering major of choice can be found on the </strong><a href=\"https://www.scu.edu/registrar/transfercredit/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Transfer Guides</strong></a><strong> page. </strong></p>",
+        "<p><strong>Structure of Santa Clara University General Core</strong></p><p><br></p><p>To view the Santa Clara University core curriculum requirements check out our <a href=\"https://www.scu.edu/provost/core/\" rel=\"noopener noreferrer\" target=\"_blank\">Core Curriculum</a> page.</p><p>Some Core requirements must be met at SCU: Civic Engagement, Religion Theology &amp; Culture 2, Science Technology &amp; Society, Religion Theology &amp; Culture 3, Experiential Learning for Social Justice, Advanced Writing, and Pathways.</p><p>Moreover, no courses listed in this guide can fulfill more than one core requirement.</p><p><br></p><p><strong>Navigating this Guide</strong></p><p><br></p><p>The first courses listed on this page are the <strong><em>recommended courses for admission to SCU</em></strong>. We do not have particular requirements for transferring, but we do recommend you complete most of the courses tagged as \"Recommended Courses\" below and meet the recommended GPA. The remaining courses listed will fulfill university core requirements or School of Engineering requirements.</p><p><br></p><p>*NOTE: Courses with a co-requisite must be completed together to meet the requirement</p><p><br></p><p><strong>FOR MORE DETAILS ON SPECIFIC ENGINEERING MAJORS PLEASE SEE THE BOTTOM OF THE </strong><a href=\"https://www.scu.edu/registrar/transfercredit/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>TRANSFER GUIDE</strong></a><strong> FOR YOUR COLLEGE.</strong></p><p><br></p><p><strong>The articulation of some major requirements follows the core requirements.</strong></p>"
+      ],
+      "requirements": [
+        {
+          "id": "4aa7b8d0-489a-4cd0-a8e6-0193281f1a98",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Each",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "4f878b59-c10f-493c-837b-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "d100a73e-c932-4091-a40d-0193281f1a99",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "7c37aaf5-6dd3-49af-837c-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "d1bc60b8-8598-4252-a79b-0193281f1a99",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "ONE_OF",
+            "n": null,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "Or",
+              "id": "48205e82-12e6-4523-837d-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CHEM 11",
+                "prefix": "CHEM",
+                "number": "11",
+                "title": "General Chemistry I L and L",
+                "units": 5.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CHEM 11",
+                    "prefix": "CHEM",
+                    "number": "11",
+                    "title": "General Chemistry I",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "f91c2711-8700-498a-95f0-0193281f1a99",
+          "area": "Requirements",
+          "position": 7,
+          "titles": [],
+          "rule": {
+            "logic": "ONE_OF",
+            "n": null,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "Or",
+              "id": "6f76eb03-71e5-4bc8-837e-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "5f175205-5b66-4f85-adc1-01932826f5fe",
+          "area": "Requirements",
+          "position": 9,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Each",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "523ab42f-2e41-4103-837f-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "a10556bc-312d-4a77-8fa6-0193282c0060",
+          "area": "Requirements",
+          "position": 11,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "6ca99a0d-15cd-440b-8380-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "ab7a0655-382b-4e96-a17c-0193282c0060",
+          "area": "Requirements",
+          "position": 13,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "10d360e2-a50e-4f9f-8381-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "5ae85f28-7a5f-4f44-8e30-0193282c0060",
+          "area": "Requirements",
+          "position": 15,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "61e499e1-c646-44e6-8382-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "d9350856-57f0-471d-af97-01944d091f05",
+          "area": "Requirements",
+          "position": 17,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "132f1d72-44e1-420b-8383-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "6d2e5ee9-b47d-4e83-a957-0199cf97ad1f",
+          "area": "Requirements",
+          "position": 21,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "4aa25f48-03d3-4624-ebce-08de00ff6dae",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CENG 41",
+                "prefix": "CENG",
+                "number": "41",
+                "title": "Mechanics I: Statics",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGR 12",
+                    "prefix": "ENGR",
+                    "number": "12",
+                    "title": "Statics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "AMTH 106",
+                "prefix": "AMTH",
+                "number": "106",
+                "title": "Differential Equations",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 15",
+                    "prefix": "MATH",
+                    "number": "15",
+                    "title": "Differential Equations",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "009823a0-bcda-45fd-b484-0199d0016cde",
+          "area": "Requirements",
+          "position": 23,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "4a7001ec-886f-416d-ec01-08de00ff6dae",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 53",
+                "prefix": "MATH",
+                "number": "53",
+                "title": "Linear Algebra",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 13",
+                    "prefix": "MATH",
+                    "number": "13",
+                    "title": "Linear Algebra",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "AMTH 106",
+                "prefix": "AMTH",
+                "number": "106",
+                "title": "Differential Equations",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 15",
+                    "prefix": "MATH",
+                    "number": "15",
+                    "title": "Differential Equations",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CSEN 19",
+                "prefix": "CSEN",
+                "number": "19",
+                "title": "Discrete Mathematics",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "57440cf8-d71d-4fe1-94d9-0199d009b0a7",
+          "area": "Requirements",
+          "position": 25,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "658163d9-b57a-4869-ec02-08de00ff6dae",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 51",
+                "prefix": "MATH",
+                "number": "51",
+                "title": "Discrete Mathematics",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 53",
+                "prefix": "MATH",
+                "number": "53",
+                "title": "Linear Algebra",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 13",
+                    "prefix": "MATH",
+                    "number": "13",
+                    "title": "Linear Algebra",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "AMTH 106",
+                "prefix": "AMTH",
+                "number": "106",
+                "title": "Differential Equations",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 15",
+                    "prefix": "MATH",
+                    "number": "15",
+                    "title": "Differential Equations",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "22a42028-60a3-43bb-8403-0199d0102d06",
+          "area": "Requirements",
+          "position": 27,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "d730a5ae-a6bf-425d-ec03-08de00ff6dae",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "AMTH 106",
+                "prefix": "AMTH",
+                "number": "106",
+                "title": "Differential Equations",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 15",
+                    "prefix": "MATH",
+                    "number": "15",
+                    "title": "Differential Equations",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "e3932426-8bd2-48bc-ad77-0199d0102d07",
+          "area": "Requirements",
+          "position": 28,
+          "titles": [],
+          "rule": {
+            "logic": "ONE_OF",
+            "n": null,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "Conjunction",
+              "conjunction": "Or",
+              "id": "03043a8e-80dc-43a4-ec04-08de00ff6dae",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 51",
+                "prefix": "MATH",
+                "number": "51",
+                "title": "Discrete Mathematics",
+                "units": 4.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "PHYS 34",
+                "prefix": "PHYS",
+                "number": "34",
+                "title": "Physics for Scientists and Engineers IV",
+                "units": 5.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "f1a3265b-683c-41ed-9873-0199d016a14e",
+          "area": "Requirements",
+          "position": 30,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "fc6ea8a6-2621-4c2a-ec05-08de00ff6dae",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "AMTH 106",
+                "prefix": "AMTH",
+                "number": "106",
+                "title": "Differential Equations",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 15",
+                    "prefix": "MATH",
+                    "number": "15",
+                    "title": "Differential Equations",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CENG 41",
+                "prefix": "CENG",
+                "number": "41",
+                "title": "Mechanics I: Statics",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGR 12",
+                    "prefix": "ENGR",
+                    "number": "12",
+                    "title": "Statics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MECH 10L",
+                "prefix": "MECH",
+                "number": "10L",
+                "title": "Engineering Graphics and Computer-Aided Design I",
+                "units": 1.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MECH 11",
+                "prefix": "MECH",
+                "number": "11",
+                "title": "Materials and Manufacturing Processes",
+                "units": 5.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "bd3ffa5b-e320-49c1-9a3d-0199d01c87a5",
+          "area": "Requirements",
+          "position": 32,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "bb393490-9d0e-4790-ec06-08de00ff6dae",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "AMTH 106",
+                "prefix": "AMTH",
+                "number": "106",
+                "title": "Differential Equations",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 15",
+                    "prefix": "MATH",
+                    "number": "15",
+                    "title": "Differential Equations",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CENG 41",
+                "prefix": "CENG",
+                "number": "41",
+                "title": "Mechanics I: Statics",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "ENGR 12",
+                    "prefix": "ENGR",
+                    "number": "12",
+                    "title": "Statics",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MECH 10L",
+                "prefix": "MECH",
+                "number": "10L",
+                "title": "Engineering Graphics and Computer-Aided Design I",
+                "units": 1.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MECH 11",
+                "prefix": "MECH",
+                "number": "11",
+                "title": "Materials and Manufacturing Processes",
+                "units": 5.0,
+                "attributes": null
+              },
+              "smc_options": [],
+              "articulation_type": "No Articulation"
+            }
+          ]
+        },
+        {
+          "id": "22fb907a-800d-4b79-b60d-019a170b2550",
+          "area": "Requirements",
+          "position": 19,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "0b51788c-4509-48b4-c5fa-08de0ffd5259",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "AMTH 106",
+                "prefix": "AMTH",
+                "number": "106",
+                "title": "Differential Equations",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 15",
+                    "prefix": "MATH",
+                    "number": "15",
+                    "title": "Differential Equations",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CHEM 12",
+                "prefix": "CHEM",
+                "number": "12",
+                "title": "General Chemistry II L and L",
+                "units": 5.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CHEM 12",
+                    "prefix": "CHEM",
+                    "number": "12",
+                    "title": "General Chemistry II",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            },
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "CHEM 31",
+                "prefix": "CHEM",
+                "number": "31",
+                "title": "Organic Chemistry I L&L",
+                "units": 5.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "CHEM 21",
+                    "prefix": "CHEM",
+                    "number": "21",
+                    "title": "Organic Chemistry I",
+                    "units": 5.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "255e18a8-c46d-4a95-b75e-019a170b2551",
+          "area": "Requirements",
+          "position": 34,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "Following",
+              "id": "ec976acf-06ec-4be7-c5fb-08de0ffd5259",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        }
+      ]
+    },
+    {
+      "major": "The College of Arts & Sciences (Bachelor of Arts)",
+      "university": {
+        "id": 227,
+        "code": "SCU",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Quarter",
+        "names": [
+          {
+            "name": "Santa Clara University",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Quarter",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Transfer Recommendations for the College of Arts and Sciences - Bachelor of Arts"
+      ],
+      "general_texts": [
+        "<p>Thank you for your interest in Santa Clara University! This guide has been designed to help make the course-planning process easier for students who wish to transfer to Santa Clara University. Head to our <a href=\"https://www.scu.edu/registrar/transfercredit/\" rel=\"noopener noreferrer\" target=\"_blank\">Transfer Guides</a> page for more details on the credit transfer process.</p><p><br></p><p><strong>College of Arts &amp; Sciences Admission<em> Recommendations</em> for Transfer Students:</strong></p><p>This page shows the Core and College of Arts and Sciences - Bachelor of Arts courses recommended for transferring to Santa Clara University. While there are no transfer requirements, we recommend prioritizing the following in your application.</p><p><br></p><p><strong>Bachelor of Arts majors</strong>: Art History, Studio Art, Classics (Ancient Studies, Classical Languages and Literature), Communication, English, History, Modern Languages (French, German, Italian, Spanish), Philosophy, Religious Studies, Performing Arts (Music, Theatre, Dance), Women’s and Gender Studies</p><ul><li>Two English composition courses (aka: Critical Thinking &amp; Writing 1 &amp; 2)</li><li>One college-level mathematics course</li><li>One natural science course with a lab</li><li>GPA 3.3</li></ul><p><br></p><p>You may also choose to complete additional SCU Core requirements listed below before transferring.</p>",
+        "<p><strong>Structure of Santa Clara University General Core</strong></p><p><br></p><p><span style=\"color: var(--mat-sidenav-content-text-color);\">To view the Santa Clara University core curriculum requirements head to our </span><a href=\"https://www.scu.edu/provost/core/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: var(--mat-sidenav-content-text-color);\">Core Curriculum</a><span style=\"color: var(--mat-sidenav-content-text-color);\"> page.</span></p><p>Some Core requirements must be met at SCU: Civic Engagement, Religion Theology &amp; Culture 2, Science Technology &amp; Society, Religion Theology &amp; Culture 3, Experiential Learning for Social Justice, Advanced Writing, and Pathways.</p><p>Moreover, no courses listed in this guide can fulfill more than one core requirement.</p><p><br></p><p><strong>Navigating this Guide</strong></p><p><br></p><p>The first courses listed on this page are the <strong><em>recommended courses for admission to SCU</em></strong>. We do not have particular requirements for transferring, but we do recommend you complete most of the courses tagged as \"Recommended Courses\" below and meet the recommended GPA. The remaining courses listed will fulfill university core requirements or College of Arts and Sciences requirements.</p><p><br></p><p>*NOTE: Courses with a co-requisite must be completed together to meet the requirement</p>"
+      ],
+      "requirements": [
+        {
+          "id": "8ee67145-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Each",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "8c13559e-247e-45bf-839a-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "2a367445-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 7,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Each",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "26abe26e-1123-4b1b-839b-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "2c367445-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 9,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "0e926014-3436-46e8-839c-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "62f96f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Any",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "ebb53364-06fc-4dd7-839d-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": [
+            {
+              "type": "COURSE",
+              "university_course": {
+                "code": "MATH 4",
+                "prefix": "MATH",
+                "number": "4",
+                "title": "The Nature of Mathematics",
+                "units": 4.0,
+                "attributes": {
+                  "type": "Course",
+                  "courseAttributes": [],
+                  "attributes": []
+                }
+              },
+              "smc_options": [
+                [
+                  {
+                    "code": "MATH 41",
+                    "prefix": "MATH",
+                    "number": "41",
+                    "title": "Mathamatics for Elementary School Teachers",
+                    "units": 3.0
+                  }
+                ]
+              ],
+              "articulation_type": "Articulated"
+            }
+          ]
+        },
+        {
+          "id": "63f96f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 11,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "f9fcca6a-e628-43df-839e-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "64f96f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 13,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 4,
+            "min_count": 4,
+            "max_count": 4,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 4.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "QuarterUnit",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "51dd332d-1118-4b4f-839f-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "65f96f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "f0138693-ae4a-4f7c-83a0-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "66f96f45-6887-ef11-8474-000d3a37e3b6",
+          "area": "Requirements",
+          "position": 15,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "f719ae82-4d9d-4be1-83a1-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "a34fdd5c-0ba4-419f-969c-019327df02b3",
+          "area": "Requirements",
+          "position": 17,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "790ef0f7-4854-4be9-83a2-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "20e054e1-b423-4e23-9a59-019327df02b4",
+          "area": "Requirements",
+          "position": 19,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": null,
+              "areaType": "None",
+              "id": "21adeb89-84fa-478a-83a3-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        }
+      ]
+    },
+    {
+      "major": "The College of Arts & Sciences (Bachelor of Science)",
+      "university": {
+        "id": 227,
+        "code": "SCU",
+        "isCommunityCollege": false,
+        "category": "Independent",
+        "termType": "Quarter",
+        "names": [
+          {
+            "name": "Santa Clara University",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Quarter",
+            "fromYear": 2024
+          }
+        ],
+        "beginId": 75,
+        "endId": null
+      },
+      "community_college": {
+        "id": 137,
+        "code": "SMCC    ",
+        "isCommunityCollege": true,
+        "category": "CCC",
+        "termType": "Semester",
+        "names": [
+          {
+            "name": "Santa Monica College",
+            "hasDepartments": true,
+            "fromYear": 0,
+            "hideInList": false
+          }
+        ],
+        "termTypeAcademicYears": [
+          {
+            "termType": "Semester",
+            "fromYear": 2020
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 2016
+          },
+          {
+            "termType": "Semester",
+            "fromYear": 1980
+          }
+        ],
+        "beginId": 31,
+        "endId": null
+      },
+      "general_titles": [
+        "Transfer Recommendations for the College of Arts and Sciences - Bachelor of Science"
+      ],
+      "general_texts": [
+        "<p>Thank you for your interest in Santa Clara University! This guide has been designed to help make the course-planning process easier for students who wish to transfer to Santa Clara University. Head to our <a href=\"https://www.scu.edu/registrar/transfercredit/\" rel=\"noopener noreferrer\" target=\"_blank\">Transfer Guides</a> page for more details on the credit transfer process.</p><p><br></p><p><strong>College of Arts &amp; Sciences Admission <em>Recommendations</em> for Transfer Students:</strong></p><p>This page shows the Core and College of Arts and Sciences - Bachelor of Science courses recommended for transferring to Santa Clara University. While there are no transfer requirements, we recommend prioritizing the following in your application.</p><p><br></p><p><strong>Bachelor of Science majors: </strong>Anthropology, Biology, Biochemistry, Chemistry, Child Studies, Economics, Engineering Physics, Environmental Science, Environmental Studies, Ethnic Studies, Mathematics, Computer Science, Neuroscience, Physics, Political Science, Psychology, Public Health Science, and Sociology</p><ul><li>Two English composition courses (aka: Critical Thinking &amp; Writing 1 &amp; 2)</li><li><strong> Two college-level mathematics courses</strong></li><li class=\"ql-indent-1\"><strong>Exception</strong>: the following B.S. majors require one mathematics course:</li><li class=\"ql-indent-2\">Anthropology, Child Studies, Environmental Studies, Ethnic Studies, and Sociology: Statistics course suggested</li><li class=\"ql-indent-2\">Environmental Science: one Calculus course suggested</li><li>One natural science course with a lab</li><li>GPA 3.3</li></ul><p><br></p><p>You may also choose to complete other SCU Core requirements listed below before transferring.</p>",
+        "<p><strong>Structure of Santa Clara University General Core</strong></p><p><br></p><p><strong>To view the Santa Clara University core curriculum requirements check out our </strong><a href=\"https://www.scu.edu/provost/core/\" rel=\"noopener noreferrer\" target=\"_blank\">Core Curriculum</a> page.</p><p>Some Core requirements must be met at SCU: Civic Engagement, Religion Theology &amp; Culture 2, Science Technology &amp; Society, Religion Theology &amp; Culture 3, Experiential Learning for Social Justice, Advanced Writing, and Pathways.</p><p>Moreover, no courses listed in this guide can fulfill more than one core requirement.</p><p><br></p><p><strong>Navigating this Guide</strong></p><p><br></p><p>The first courses listed on this page are the<strong> <em>recommended courses for admission to SCU</em></strong>. We do not have particular requirements for transferring, but we do recommend you complete most of the courses tagged as \"Recommended Courses\" below and meet the recommended GPA. The remaining courses listed will fulfill university core requirements or College of Arts and Sciences requirements.</p><p><br></p><p>*NOTE: Courses with a co-requisite must be completed together to meet the requirement</p>"
+      ],
+      "requirements": [
+        {
+          "id": "bd1182c8-85e2-4830-ad31-0192feb388d2",
+          "area": "Requirements",
+          "position": 1,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Each",
+              "toAmount": 1.0,
+              "areaType": "None",
+              "id": "26dd3261-cd09-4522-8384-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "1440126d-3fdb-47e7-a74b-0192feb388d2",
+          "area": "Requirements",
+          "position": 7,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "Each",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "5f156c68-0f55-4951-8385-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "276a645c-570d-44dd-9910-0192feb388d2",
+          "area": "Requirements",
+          "position": 9,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "3c594faa-1ea7-4284-8386-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "5b2cc449-d35a-420a-a533-0192feb388d3",
+          "area": "Requirements",
+          "position": 3,
+          "titles": [],
+          "rule": {
+            "logic": "ALL_OF",
+            "n": null,
+            "min_count": null,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "NToNFromConjunction",
+              "conjunction": "Or",
+              "fromAmount": 1.0,
+              "toAmount": 2.0,
+              "unitType": "Course",
+              "id": "9004c20f-293e-4cd4-8387-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "317be286-9954-4a5a-bbd2-0192feb388d3",
+          "area": "Requirements",
+          "position": 11,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "376aa6fe-6f42-4ebd-8388-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "88583fe5-244d-4d10-8646-0192feb388d3",
+          "area": "Requirements",
+          "position": 13,
+          "titles": [],
+          "rule": {
+            "logic": "AT_LEAST_N",
+            "n": 4,
+            "min_count": 4,
+            "max_count": null,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 4.0,
+              "amountQuantifier": "AtLeast",
+              "amountUnitType": "QuarterUnit",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "3816e1f7-5799-4b0f-8389-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "c9419ce7-115d-4de2-89e0-0192feb388d3",
+          "area": "Requirements",
+          "position": 5,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "d43ef790-490f-4d85-838a-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "ca221c9c-70b5-4ea1-bc10-0192feb388d3",
+          "area": "Requirements",
+          "position": 15,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "d8561698-b46a-4c1c-838b-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "a316a3b8-2746-40c3-8ce1-019327ddc97e",
+          "area": "Requirements",
+          "position": 17,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "6c731762-9700-4b86-838c-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        },
+        {
+          "id": "b43dfd0a-25cb-4b62-bbfb-019327ddc97f",
+          "area": "Requirements",
+          "position": 19,
+          "titles": [],
+          "rule": {
+            "logic": "CHOOSE_N",
+            "n": 1,
+            "min_count": 1,
+            "max_count": 1,
+            "raw_instruction": {
+              "type": "NFromArea",
+              "amount": 1.0,
+              "amountQuantifier": "None",
+              "amountUnitType": "Course",
+              "toAmountDeterminer": "None",
+              "toAmount": 0.0,
+              "areaType": "None",
+              "id": "801c990f-61b1-4a43-838d-08dd97eff93d",
+              "selectionType": "Complete"
+            }
+          },
+          "items": []
+        }
+      ]
+    }
+  ]
+}
