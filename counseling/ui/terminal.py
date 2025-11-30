@@ -840,4 +840,139 @@ class TerminalDisplay:
         
         if audit_result.cross_reference:
             cls.print_cross_reference(audit_result.cross_reference, audit_result.ge_pattern)
+    
+    # =========================================================================
+    #  MAJOR DISCOVERY DISPLAY
+    # =========================================================================
+    
+    @classmethod
+    def print_major_discovery_header(cls):
+        """Print the header for major discovery mode."""
+        print(f"\n{cls.BOLD}{cls.CYAN}{'═' * 70}{cls.RESET}")
+        print(f"  {cls.BOLD}{cls.GREEN}🔍 MAJOR DISCOVERY MODE{cls.RESET}")
+        print(f"{cls.BOLD}{cls.CYAN}{'═' * 70}{cls.RESET}")
+        print(f"\n  {cls.DIM}Finding majors that best match your completed courses...{cls.RESET}")
+        print(f"  {cls.DIM}Scanning all universities and majors...{cls.RESET}\n")
+    
+    @classmethod
+    def print_major_discovery_results(cls, matches: dict, total_scanned: int = 0):
+        """
+        Print the major discovery results.
+        
+        DISPLAY FORMAT:
+        ---------------
+        Shows two sections:
+        1. Substantial majors (≥3 requirements) - main ranking
+        2. Small majors (1-2 requirements) - shown separately at the end
+        
+        Each entry shows:
+        - Rank number and progress bar
+        - University and major name
+        - Requirement progress (X/Y satisfied)
+        - What's still needed
+        
+        Args:
+            matches: Dict with "substantial" and "small" lists of MajorMatch objects
+            total_scanned: Optional count of total majors scanned
+        """
+        # Handle both old list format and new dict format
+        if isinstance(matches, list):
+            substantial = matches
+            small = []
+        else:
+            substantial = matches.get("substantial", [])
+            small = matches.get("small", [])
+        
+        cls.print_header("🏆 TOP MATCHING MAJORS")
+        
+        if not substantial and not small:
+            print(f"\n  {cls.YELLOW}No matching majors found.{cls.RESET}")
+            print(f"  {cls.DIM}This could mean your courses don't satisfy any major requirements yet.{cls.RESET}")
+            return
+        
+        print(f"\n  {cls.DIM}Based on your completed and in-progress courses:{cls.RESET}")
+        if total_scanned:
+            print(f"  {cls.DIM}(Scanned {total_scanned} majors across all universities){cls.RESET}")
+        print()
+        
+        # Print substantial majors (main list)
+        for i, match in enumerate(substantial, 1):
+            cls._print_major_match(i, match)
+        
+        # Print small majors in a separate section
+        if small:
+            print(f"\n  {cls.DIM}{'─' * 66}{cls.RESET}")
+            print(f"\n  {cls.BOLD}{cls.YELLOW}📌 SMALL MAJORS (1-2 requirements){cls.RESET}")
+            print(f"  {cls.DIM}These may be minors or have limited articulation data:{cls.RESET}\n")
+            
+            for i, match in enumerate(small, 1):
+                cls._print_major_match(i, match)
+        
+        print(f"\n  {cls.DIM}{'─' * 66}{cls.RESET}")
+        print(f"  {cls.DIM}Tip: These are majors where you've already satisfied requirements.{cls.RESET}")
+        print(f"  {cls.DIM}Select one to see a full audit of what's still needed.{cls.RESET}")
+    
+    @classmethod
+    def _print_major_match(cls, rank: int, match):
+        """
+        Print a single major match result.
+        
+        VISUAL FORMAT:
+        --------------
+        Shows both absolute progress and percentage for clarity.
+        Absolute progress is what really matters (5/6 > 1/1 even though 83% < 100%)
+        
+        #1  ████████░░ 5/6 reqs done (83%)
+            UCLA - Computer Science/B.S.
+            ✓ 5 satisfied, ⏳ 1 in progress
+            → Need: MATH 15, PHYSCS 22
+        """
+        # Create progress bar (10 chars)
+        filled = int(match.percentage / 10)
+        empty = 10 - filled
+        progress_bar = "█" * filled + "░" * empty
+        
+        # Color based on percentage
+        if match.percentage >= 75:
+            bar_color = cls.GREEN
+        elif match.percentage >= 50:
+            bar_color = cls.YELLOW
+        else:
+            bar_color = cls.CYAN
+        
+        # Shorten university name for display
+        uni_short = match.university.replace("California State University ", "CSU ")
+        uni_short = uni_short.replace("University of California ", "UC ")
+        
+        # Calculate effective progress (for display)
+        effective = match.satisfied_count
+        if match.in_progress_count > 0:
+            effective_str = f"{match.satisfied_count}+{match.in_progress_count}"
+        else:
+            effective_str = str(match.satisfied_count)
+        
+        # Print the match - emphasize absolute count over percentage
+        print(f"  {cls.BOLD}#{rank:2}{cls.RESET}  {bar_color}{progress_bar}{cls.RESET} "
+              f"{cls.BOLD}{effective_str}/{match.total_requirements} reqs{cls.RESET} "
+              f"{cls.DIM}({match.percentage:.0f}%){cls.RESET}")
+        
+        print(f"      {cls.CYAN}{uni_short}{cls.RESET} - {cls.BOLD}{match.major}{cls.RESET}")
+        
+        # Status line
+        status_parts = []
+        if match.satisfied_count > 0:
+            status_parts.append(f"{cls.GREEN}✓ {match.satisfied_count} done{cls.RESET}")
+        if match.in_progress_count > 0:
+            status_parts.append(f"{cls.YELLOW}⏳ {match.in_progress_count} in progress{cls.RESET}")
+        if match.missing_count > 0:
+            status_parts.append(f"{cls.DIM}{match.missing_count} needed{cls.RESET}")
+        
+        print(f"      {', '.join(status_parts)}")
+        
+        # Show what's needed (if missing)
+        if match.missing_courses:
+            missing_str = ", ".join(match.missing_courses)
+            print(f"      {cls.DIM}→ Need: {missing_str}{cls.RESET}")
+        
+        print()  # Blank line between entries
 

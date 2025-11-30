@@ -9,11 +9,14 @@ from .ge_audit import GEAuditEngine
 from .major_audit import MajorAuditEngine
 from .recommendation import CourseRecommendationEngine
 from .multi_target import MultiTargetEngine
+from .major_discovery import MajorDiscoveryEngine, MajorMatch
 
 __all__ = [
     "GEAuditEngine",
     "MajorAuditEngine",
     "CourseRecommendationEngine",
     "MultiTargetEngine",
+    "MajorDiscoveryEngine",
+    "MajorMatch",
 ]
 

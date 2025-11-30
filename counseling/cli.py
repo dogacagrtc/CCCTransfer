@@ -4,15 +4,77 @@ Command-Line Interface for the Counseling System.
 This module provides the interactive CLI for the counseling algorithm.
 It handles user input and orchestrates the display of results.
 
+MODES:
+------
+1. MAJOR DISCOVERY: Find which majors best match your completed courses
+2. REGULAR AUDIT: Check progress against specific university/major targets
+
 NOTE: Don't run this file directly. Run from parent directory:
     cd CollegeTransfer
     python3 -m counseling
 """
 
+import json
+
 from .config import DATA_DIR
 from .models import TargetDefinition
 from .ui import TerminalDisplay
 from .counselor import TransferCounselor
+from .engines import MajorDiscoveryEngine
+from .data import DataLoader, TranscriptParser
+
+
+def _run_major_discovery(counselor: TransferCounselor) -> list:
+    """
+    Run the Major Discovery mode.
+    
+    This mode scans ALL majors across ALL universities and finds the ones
+    that best match the student's completed/in-progress courses.
+    
+    USE CASE:
+    ---------
+    A student who has taken many courses but is undecided on a major
+    can use this to see which majors they are closest to completing.
+    
+    Returns:
+        List of MajorMatch results (also printed to terminal)
+    """
+    print(f"\n{TerminalDisplay.BOLD}{TerminalDisplay.GREEN}")
+    print("═" * 70)
+    print("  🔍 MAJOR DISCOVERY MODE")
+    print("═" * 70)
+    print(f"{TerminalDisplay.RESET}")
+    
+    print(f"  {TerminalDisplay.DIM}This will scan all universities and find majors{TerminalDisplay.RESET}")
+    print(f"  {TerminalDisplay.DIM}where you've already satisfied the most requirements.{TerminalDisplay.RESET}")
+    print(f"\n  {TerminalDisplay.YELLOW}Scanning... (this may take a few seconds){TerminalDisplay.RESET}\n")
+    
+    # Load student transcript
+    transcript_path = DATA_DIR / "example_parsed_transcript.json"
+    loader = DataLoader()
+    parser = TranscriptParser(loader)
+    
+    # Load the transcript JSON file first, then parse
+    with open(transcript_path, "r") as f:
+        transcript_data = json.load(f)
+    
+    student_state = parser.parse(transcript_data)
+    completed = student_state["completed"]
+    in_progress = student_state["in_progress"]
+    
+    # Run the discovery
+    discovery = MajorDiscoveryEngine(loader)
+    matches = discovery.discover(
+        completed_courses=completed,
+        in_progress_courses=in_progress,
+        top_n=50,      # Show top 50 matches
+        min_satisfied=1  # Must have at least 1 satisfied requirement
+    )
+    
+    # Display results
+    TerminalDisplay.print_major_discovery_results(matches)
+    
+    return matches
 
 
 def _select_university_and_major(counselor: TransferCounselor, target_num: int = 1) -> tuple:
@@ -88,31 +150,51 @@ def main():
     Command-line interface for the counseling algorithm.
     
     ═══════════════════════════════════════════════════════════════════════════
-    MULTI-TARGET SUPPORT
+    AVAILABLE MODES
     ═══════════════════════════════════════════════════════════════════════════
     
-    This CLI supports auditing against MULTIPLE university/major targets:
+    1. MAJOR DISCOVERY MODE:
+       Scans ALL majors at ALL universities to find the best matches
+       based on the student's completed courses. Great for students
+       who are undecided or want to explore options.
     
-    1. Enter student's start date (determines IGETC vs Cal-GETC)
-    2. Select first university and major
-    3. Optionally add more targets
-    4. Run audit showing:
-       - Individual results for each target
-       - Unified efficiency analysis across all targets
+    2. REGULAR AUDIT MODE:
+       Audits against specific university/major targets. Supports
+       multiple targets with unified efficiency analysis.
     
     ═══════════════════════════════════════════════════════════════════════════
     """
     counselor = TransferCounselor()
     
-    # Welcome banner
+    # Welcome banner with mode selection
     print(f"\n{TerminalDisplay.BOLD}{TerminalDisplay.CYAN}")
     print("╔══════════════════════════════════════════════════════════════════╗")
     print("║         STUDENT TRANSFER COUNSELING SYSTEM                       ║")
     print("║         Santa Monica College → California Universities           ║")
+    print("╠══════════════════════════════════════════════════════════════════╣")
     print("║                                                                  ║")
-    print("║  ★ NEW: Compare multiple universities at once!                  ║")
+    print("║  1. 🔍 DISCOVER MAJORS - Find majors you're closest to          ║")
+    print("║  2. 📋 AUDIT PROGRESS  - Check specific university/major        ║")
+    print("║                                                                  ║")
     print("╚══════════════════════════════════════════════════════════════════╝")
     print(f"{TerminalDisplay.RESET}")
+    
+    # Mode selection
+    try:
+        mode = input(f"{TerminalDisplay.BOLD}Select mode (1 or 2): {TerminalDisplay.RESET}").strip()
+    except EOFError:
+        mode = "2"
+    
+    # =========================================================================
+    #  MODE 1: MAJOR DISCOVERY
+    # =========================================================================
+    if mode == "1":
+        _run_major_discovery(counselor)
+        return
+    
+    # =========================================================================
+    #  MODE 2: REGULAR AUDIT (continues below)
+    # =========================================================================
     
     # Get student entry information
     print(f"\n{TerminalDisplay.BOLD}When did you start at SMC?{TerminalDisplay.RESET}")
